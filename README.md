@@ -12,6 +12,7 @@ A community-driven directory of Governance, Risk, and Compliance (GRC) engineers
 | **[Luigi Carpio](engineers/0xBahalaNa.md)** | Compliance Automation, Cloud Security, Identity & Access Management | CJIS, FedRAMP, NIST 800-53 | [GitHub](https://github.com/0xBahalaNa), [LinkedIn](https://linkedin.com/in/luigi-carpio) |
 | **[Jonathan Perez](engineers/GRCJP.md)** | Vulnerability Management, Cloud Security, Compliance Automation | NIST RMF, NIST CSF, NIST 800-53, FedRAMP, SOC 2, ISO 27001, IRS Pub 1075, COBIT, GAO Green Book, CMS ARC-AMPE, CMMC | [GitHub](https://github.com/GRCJP), [LinkedIn](https://www.linkedin.com/in/cyberjp/) |
 | **[Akeem Williams](engineers/ajwill85.md)** | Compliance Automation, Cloud Security, Risk Management, Audit & Assurance, Third-Party Risk, Privacy | ISO 27001, SOC 2, PCI-DSS, NIST CSF, NIST RMF, NIST 800-53, GDPR, CCPA, HIPAA, ISO 42001, NIST AI RMF, EU AI Act | [GitHub](https://github.com/ajwill85) |
+| **[Ethan Troy](engineers/ethanolivertroy.md)** | Compliance Automation, Cloud Security, Security Architecture, Offensive Security | FedRAMP, NIST 800-53, NIST CSF, SOC 2, CMMC | [GitHub](https://github.com/ethanolivertroy), [LinkedIn](https://www.linkedin.com/in/ethantroy/) |
 | **[Brian Montiel](engineers/networkbm.md)** | Cloud Security, Compliance Automation, Offensive Security | SOC 2, FedRAMP, GovRAMP | [GitHub](https://github.com/networkbm), [LinkedIn](https://www.linkedin.com/in/brian-montiel-95b38b239/), [Website](https://brianmontiel.netlify.app/) |
 <!-- END_ENGINEER_LIST -->
 
