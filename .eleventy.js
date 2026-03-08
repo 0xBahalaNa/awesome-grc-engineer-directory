@@ -12,6 +12,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy("site/assets");
+  eleventyConfig.addPassthroughCopy({ "site/CNAME": "CNAME" });
 
   eleventyConfig.addFilter("uniqueValues", function (collection, field) {
     const seen = new Map();
