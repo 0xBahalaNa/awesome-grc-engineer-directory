@@ -59,8 +59,8 @@
       {% set val = engineer.data[social.key] %}
       {% if val or social.alwaysShow %}
         {% set href = social | socialUrl(val or engineer.data.github) %}
-        <a href="{{ href }}" target="_blank" rel="noopener" title="{{ social.label }}">
-          {{ social.icon | safe }}
+        <a href="{{ href }}" target="_blank" rel="noopener" aria-label="{{ social.label }}">
+          <span aria-hidden="true">{{ social.icon | safe }}</span>
         </a>
       {% endif %}
     {% endfor %}

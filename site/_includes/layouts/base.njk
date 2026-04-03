@@ -19,7 +19,8 @@
   </script>
 </head>
 <body>
-  <nav class="nav">
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+  <nav class="nav" aria-label="Main navigation">
     <div class="nav-inner">
       <a href="/" class="nav-brand">GRC Engineer Directory</a>
       <div class="nav-links">
@@ -30,7 +31,7 @@
     </div>
   </nav>
 
-  <main>
+  <main id="main-content">
     {{ content | safe }}
   </main>
 

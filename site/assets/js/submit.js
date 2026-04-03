@@ -39,6 +39,14 @@
       var s = +el.dataset.step;
       el.classList.toggle('active', s === n);
       el.classList.toggle('completed', s < n);
+      if (s === n) {
+        el.setAttribute('aria-current', 'step');
+        el.removeAttribute('aria-disabled');
+      } else {
+        el.removeAttribute('aria-current');
+        if (s > n) el.setAttribute('aria-disabled', 'true');
+        else el.removeAttribute('aria-disabled');
+      }
     });
     currentStep = n;
     if (n === 4) renderPreview();

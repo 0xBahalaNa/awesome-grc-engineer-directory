@@ -10,10 +10,10 @@
 
   /* ── Particles ── */
   function particleColor() {
-    return isDark() ? "#e8650a" : "#c24400";
+    return getComputedStyle(document.documentElement).getPropertyValue("--brand-primary").trim() || "#e8650a";
   }
   function linkColor() {
-    return isDark() ? "rgba(232,101,10,0.2)" : "rgba(180,60,0,0.12)";
+    return getComputedStyle(document.documentElement).getPropertyValue("--brand-primary-20").trim() || "rgba(232,101,10,0.2)";
   }
 
   function initParticles() {
@@ -77,7 +77,7 @@
   ];
 
   function chartTextColor() {
-    return isDark() ? "#a0a0a0" : "#555555";
+    return getComputedStyle(document.documentElement).getPropertyValue("--text-secondary").trim() || (isDark() ? "#a0a0a0" : "#555555");
   }
 
   function chartDefaults() {
@@ -207,9 +207,25 @@
     }));
   }
 
-  function destroyCharts() {
-    chartInstances.forEach(function (c) { c.destroy(); });
-    chartInstances = [];
+  function updateChartColors() {
+    var color = chartTextColor();
+    chartInstances.forEach(function (c) {
+      c.options.color = color;
+      if (c.options.plugins && c.options.plugins.legend && c.options.plugins.legend.labels) {
+        c.options.plugins.legend.labels.color = color;
+      }
+      if (c.options.scales) {
+        ['x', 'y'].forEach(function (axis) {
+          if (c.options.scales[axis] && c.options.scales[axis].ticks) {
+            c.options.scales[axis].ticks.color = color;
+          }
+        });
+        if (c.options.scales.r && c.options.scales.r.grid) {
+          c.options.scales.r.grid.color = isDark() ? "rgba(255,255,255,0.08)" : "rgba(0,0,0,0.08)";
+        }
+      }
+      c.update("none");
+    });
   }
 
   /* ── Theme reactivity ── */
@@ -219,12 +235,14 @@
         if (!reducedMotion && !lowEnd && typeof tsParticles !== "undefined") {
           reloadParticles();
         }
-        destroyCharts();
-        initCharts();
+        if (chartInstances.length) {
+          Chart.defaults.color = chartTextColor();
+          updateChartColors();
+        }
       }
     });
   });
-  observer.observe(document.documentElement, { attributes: true });
+  observer.observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
 
   /* ── Init ── */
   function init() {

@@ -12,6 +12,26 @@
   var activeFilters = {};
   FILTER_KEYS.forEach(function (k) { activeFilters[k] = []; });
 
+  /* --- Chip lookup cache: O(1) instead of querySelector per chip --- */
+  var chipCache = {};
+  chips.forEach(function (chip) {
+    var group = chip.closest("[data-filter]");
+    if (!group) return;
+    var key = group.dataset.filter + ":" + chip.dataset.value;
+    chipCache[key] = chip;
+  });
+
+  function getChip(filterKey, value) {
+    return chipCache[filterKey + ":" + value] || null;
+  }
+
+  /* --- Badge element cache --- */
+  var badgeCache = {};
+  FILTER_KEYS.forEach(function (key) {
+    var group = document.querySelector('.filter-group[data-group="' + key + '"]');
+    if (group) badgeCache[key] = group.querySelector(".count-badge");
+  });
+
   /* --- Pre-parse card data (avoids re-splitting on every filter) --- */
   var cardData = cards.map(function (card) {
     var parsed = {};
@@ -57,9 +77,7 @@
       clearTimeout(pendingTimers.get(card));
       pendingTimers.delete(card);
     }
-    card.classList.remove("hidden");
-    void card.offsetHeight;
-    card.classList.remove("fading");
+    card.classList.remove("hidden", "fading");
   }
 
   var _skipUrlSync = false;
@@ -105,14 +123,13 @@
     });
   });
 
-  /* --- Active filter summary --- */
+  /* --- Active filter summary (event delegation + fragment batching) --- */
   function updateSummary() {
     if (!summaryEl || !pillsEl) return;
     var pills = [];
     FILTER_KEYS.forEach(function (key) {
       activeFilters[key].forEach(function (val) {
-        // Find chip to get display text
-        var chip = document.querySelector('[data-filter="' + key + '"] .chip[data-value="' + val + '"]');
+        var chip = getChip(key, val);
         var label = chip ? chip.textContent : val;
         pills.push({ key: key, value: val, label: label });
       });
@@ -121,32 +138,41 @@
     var hasActive = pills.length > 0;
     summaryEl.style.display = hasActive ? "" : "none";
 
-    pillsEl.innerHTML = "";
+    var fragment = document.createDocumentFragment();
     pills.forEach(function (p) {
       var btn = document.createElement("button");
       btn.className = "active-filter-pill";
+      btn.dataset.filterKey = p.key;
+      btn.dataset.filterValue = p.value;
       btn.innerHTML = p.label + ' <span class="pill-x">\u00d7</span>';
-      btn.addEventListener("click", function () {
-        // Deselect the corresponding chip
-        var chip = document.querySelector('[data-filter="' + p.key + '"] .chip[data-value="' + p.value + '"]');
-        if (chip) {
-          chip.classList.remove("active");
-          chip.setAttribute("aria-pressed", "false");
-        }
-        var idx = activeFilters[p.key].indexOf(p.value);
-        if (idx !== -1) activeFilters[p.key].splice(idx, 1);
-        updateCards();
-      });
-      pillsEl.appendChild(btn);
+      fragment.appendChild(btn);
+    });
+    pillsEl.innerHTML = "";
+    pillsEl.appendChild(fragment);
+  }
+
+  /* Event delegation for pill clicks (single listener instead of per-pill) */
+  if (pillsEl) {
+    pillsEl.addEventListener("click", function (e) {
+      var pill = e.target.closest(".active-filter-pill");
+      if (!pill) return;
+      var key = pill.dataset.filterKey;
+      var value = pill.dataset.filterValue;
+      var chip = getChip(key, value);
+      if (chip) {
+        chip.classList.remove("active");
+        chip.setAttribute("aria-pressed", "false");
+      }
+      var idx = activeFilters[key].indexOf(value);
+      if (idx !== -1) activeFilters[key].splice(idx, 1);
+      updateCards();
     });
   }
 
   /* --- Badge counts on group headers --- */
   function updateBadgeCounts() {
     FILTER_KEYS.forEach(function (key) {
-      var group = document.querySelector('.filter-group[data-group="' + key + '"]');
-      if (!group) return;
-      var badge = group.querySelector(".count-badge");
+      var badge = badgeCache[key];
       if (!badge) return;
       var count = activeFilters[key].length;
       badge.textContent = count;
@@ -177,7 +203,7 @@
       if (val) {
         activeFilters[key] = val.split(",");
         activeFilters[key].forEach(function(v) {
-          var chip = document.querySelector('[data-filter="' + key + '"] .chip[data-value="' + v + '"]');
+          var chip = getChip(key, v);
           if (chip) {
             chip.classList.add("active");
             chip.setAttribute("aria-pressed", "true");
@@ -218,10 +244,9 @@
 
       // Pop animation
       chip.classList.add("pop");
-      chip.addEventListener("animationend", function handler() {
+      chip.addEventListener("animationend", function() {
         chip.classList.remove("pop");
-        chip.removeEventListener("animationend", handler);
-      });
+      }, { once: true });
 
       updateCards();
     });
@@ -260,6 +285,7 @@
   if (statEls.length) {
     var duration = 1500;
     var start = null;
+    var counterFrameId = null;
 
     function easeOut(t) {
       return 1 - Math.pow(1 - t, 3);
@@ -277,11 +303,13 @@
       });
 
       if (progress < 1) {
-        requestAnimationFrame(animateCounters);
+        counterFrameId = requestAnimationFrame(animateCounters);
+      } else {
+        counterFrameId = null;
       }
     }
 
-    requestAnimationFrame(animateCounters);
+    counterFrameId = requestAnimationFrame(animateCounters);
   }
 
   /* --- Restore filters from URL on load --- */

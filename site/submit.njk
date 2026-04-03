@@ -11,10 +11,10 @@ permalink: /submit/index.html
   </div>
 
   <div class="step-indicator">
-    <button class="step active" data-step="1"><span class="step-num">1</span> Identity</button>
-    <button class="step" data-step="2"><span class="step-num">2</span> Professional</button>
-    <button class="step" data-step="3"><span class="step-num">3</span> Projects & Bio</button>
-    <button class="step" data-step="4"><span class="step-num">4</span> Preview</button>
+    <button class="step active" data-step="1" aria-current="step"><span class="step-num">1</span> Identity</button>
+    <button class="step" data-step="2" aria-disabled="true"><span class="step-num">2</span> Professional</button>
+    <button class="step" data-step="3" aria-disabled="true"><span class="step-num">3</span> Projects & Bio</button>
+    <button class="step" data-step="4" aria-disabled="true"><span class="step-num">4</span> Preview</button>
   </div>
 
   <form id="submit-form" class="submit-form" novalidate>
@@ -40,8 +40,8 @@ permalink: /submit/index.html
       </div>
 
       <div class="form-group">
-        <label class="form-label">Specializations * <span class="form-hint-inline">select at least one</span></label>
-        <div class="chip-selector" id="chips-specializations" data-field="specializations">
+        <label class="form-label" id="label-specializations">Specializations * <span class="form-hint-inline">select at least one</span></label>
+        <div class="chip-selector" id="chips-specializations" data-field="specializations" role="group" aria-labelledby="label-specializations">
           <button type="button" class="chip" data-value="Audit & Assurance">Audit &amp; Assurance</button>
           <button type="button" class="chip" data-value="Cloud Security">Cloud Security</button>
           <button type="button" class="chip" data-value="Compliance Automation">Compliance Automation</button>
@@ -60,7 +60,7 @@ permalink: /submit/index.html
           <button type="button" class="chip" data-value="DevSecOps">DevSecOps</button>
         </div>
         <div class="custom-chip-add">
-          <input type="text" id="custom-specialization" placeholder="Other specialization…">
+          <input type="text" id="custom-specialization" placeholder="Other specialization…" aria-label="Add custom specialization">
           <button type="button" id="add-custom-specialization" class="btn btn-outline btn-sm">Add</button>
         </div>
         <div class="form-error" id="error-specializations"></div>
@@ -122,8 +122,8 @@ permalink: /submit/index.html
       </div>
 
       <div class="form-group">
-        <label class="form-label">Frameworks</label>
-        <div class="chip-selector" id="chips-frameworks" data-field="frameworks">
+        <label class="form-label" id="label-frameworks">Frameworks</label>
+        <div class="chip-selector" id="chips-frameworks" data-field="frameworks" role="group" aria-labelledby="label-frameworks">
           <button type="button" class="chip" data-value="CCPA">CCPA</button>
           <button type="button" class="chip" data-value="CJIS">CJIS</button>
           <button type="button" class="chip" data-value="CMMC">CMMC</button>
@@ -154,8 +154,8 @@ permalink: /submit/index.html
       </div>
 
       <div class="form-group">
-        <label class="form-label">Languages & Tools</label>
-        <div class="chip-selector" id="chips-languages" data-field="languages">
+        <label class="form-label" id="label-languages">Languages & Tools</label>
+        <div class="chip-selector" id="chips-languages" data-field="languages" role="group" aria-labelledby="label-languages">
           <button type="button" class="chip" data-value="Bash">Bash</button>
           <button type="button" class="chip" data-value="Go">Go</button>
           <button type="button" class="chip" data-value="JavaScript">JavaScript</button>
@@ -168,23 +168,23 @@ permalink: /submit/index.html
           <button type="button" class="chip" data-value="Terraform">Terraform</button>
         </div>
         <div class="custom-chip-add">
-          <input type="text" id="custom-language" placeholder="Other language/tool…">
+          <input type="text" id="custom-language" placeholder="Other language/tool…" aria-label="Add custom language or tool">
           <button type="button" id="add-custom-language" class="btn btn-outline btn-sm">Add</button>
         </div>
       </div>
 
       <div class="form-group">
-        <label class="form-label">Certifications</label>
+        <label class="form-label" for="field-certifications">Certifications</label>
         <div class="form-hint">Type a certification and press Enter to add it.</div>
         <div class="tag-input-wrap">
           <div class="tag-input-tags" id="cert-tags"></div>
-          <input type="text" id="field-certifications" placeholder="e.g. CISSP">
+          <input type="text" id="field-certifications" placeholder="e.g. CISSP" aria-label="Add certification">
         </div>
       </div>
 
       <div class="form-group">
-        <label class="form-label">Available For</label>
-        <div class="chip-selector" id="chips-available" data-field="available_for">
+        <label class="form-label" id="label-available">Available For</label>
+        <div class="chip-selector" id="chips-available" data-field="available_for" role="group" aria-labelledby="label-available">
           <button type="button" class="chip" data-value="mentoring">mentoring</button>
           <button type="button" class="chip" data-value="speaking">speaking</button>
           <button type="button" class="chip" data-value="consulting">consulting</button>
@@ -226,8 +226,8 @@ permalink: /submit/index.html
 
       <div class="form-group">
         <label class="form-label" for="field-contact">Get in Touch</label>
-        <div class="form-hint">How should people reach out to you?</div>
-        <textarea id="field-contact" name="contact" rows="3" placeholder="Feel free to reach out if you want to discuss…"></textarea>
+        <div class="form-hint">Share your preferred contact method — LinkedIn DM, email, or however you'd like to connect.</div>
+        <textarea id="field-contact" name="contact" rows="3" placeholder="e.g. DM me on LinkedIn, or email hello@mydomain.com"></textarea>
       </div>
 
       <div class="form-nav">
@@ -239,7 +239,7 @@ permalink: /submit/index.html
     <!-- Step 4: Preview -->
     <div class="form-step" data-step="4" hidden>
       <h2 class="form-step-title">Preview Your Profile</h2>
-      <p class="form-hint" style="margin-bottom:1.5rem;">This is how your profile will look on the directory. Review it, then submit to GitHub.</p>
+      <p class="form-hint" style="margin-bottom:1.5rem;">Review your profile below. Once you submit, a pull request is created for our team to review before it goes live.</p>
 
       <div id="profile-preview" class="profile-preview-container"></div>
 
