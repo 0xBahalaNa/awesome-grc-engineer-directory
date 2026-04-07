@@ -31,7 +31,7 @@ languages:
   - "Python"
   - "SQL"
   - "Rust"
-compensation: ""
+compensation: "$190,000 - $215,000"
 summary: "Governance, Risk & Compliance (GRC) Manager Sigma is seeking an experienced GRC Manager to lead and scale our governance, risk, and compliance programs. This role is based in our..."
 ---
 

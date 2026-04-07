@@ -26,7 +26,7 @@ frameworks:
   - "HIPAA"
 languages:
   - "Rust"
-compensation: ""
+compensation: "$180,000 - $210,000"
 summary: "About Us: Notion helps you build beautiful tools for your life’s work. In today's world of endless apps and tabs, Notion provides one place for teams to get everything done,..."
 ---
 

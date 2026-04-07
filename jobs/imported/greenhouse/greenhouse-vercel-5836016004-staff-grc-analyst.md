@@ -29,7 +29,7 @@ frameworks:
   - "NIST AI RMF"
 languages:
   - "Rust"
-compensation: ""
+compensation: "$180,000 - $270,000"
 summary: "About Vercel: Vercel gives developers the tools and cloud infrastructure to build, scale, and secure a faster, more personalized web. As the team behind v0, Next.js, and AI SDK,..."
 ---
 

@@ -26,7 +26,7 @@ frameworks:
   - "ISO 27001"
 languages:
   - "Rust"
-compensation: ""
+compensation: "$135,000 - $190,000"
 summary: "About Juniper Square Our mission is to unlock the full potential of private markets. Privately owned assets like commercial real estate, private equity, and venture capital make..."
 ---
 
