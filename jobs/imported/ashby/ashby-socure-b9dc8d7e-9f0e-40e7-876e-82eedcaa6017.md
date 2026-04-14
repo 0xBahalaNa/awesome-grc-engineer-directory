@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/socure?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/socure/b9dc8d7e-9f0e-40e7-876e-82eedcaa6017"
 apply_url: "https://jobs.ashbyhq.com/socure/b9dc8d7e-9f0e-40e7-876e-82eedcaa6017/application"
-posted_date: "2026-04-13"
-expires_date: "2026-05-13"
+posted_date: "2026-04-14"
+expires_date: "2026-05-14"
 location: "Remote - US"
 work_modes:
   - "Remote"
@@ -42,43 +42,48 @@ We hire people who want that level of responsibility. People who move fast, thin
 
 # About the role
 
-Socure is seeking an Analyst, GRC – Public Sector to execute and enhance the company’s governance, risk, and compliance operations for its public sector business. Reporting to the Director of GRC – Public Sector, this role drives measurable improvements in compliance efficiency and audit readiness by managing vulnerability remediation, continuous monitoring, access oversight, and evidence preparation that allow Socure to meet the rigorous standards of FedRAMP, GovRAMP, and related frameworks. The Analyst collaborates across Security, Engineering, IT, DevOps, Product, Legal, and other teams to operationalize regulatory requirements, automate workflows, and offers the opportunity to shape the GRC strategy for Socure’s fast-growing public sector business.
+Socure is seeking an Analyst, GRC – Public Sector to execute and enhance the company’s governance, risk, and compliance operations for its public sector business. Reporting to the Director of GRC – Public Sector, this role drives measurable improvements in compliance efficiency and audit readiness by managing vulnerability remediation, continuous monitoring, access oversight, and evidence preparation that allow Socure to meet the rigorous standards of FedRAMP, GovRAMP, and related frameworks.
+
+The Analyst collaborates across Security, Engineering, IT, DevOps, Product, Legal, and other teams to operationalize regulatory requirements, automate workflows, and offers the opportunity to shape the GRC strategy for Socure’s fast-growing public sector business. This role is expected to challenge traditional GRC approaches and build automation-first, system-driven solutions that reduce manual effort and enable continuous compliance. The role also translates internal compliance systems into scalable, customer-facing outputs including RFP responses, audit artifacts, and public sector communications.
 
 # What you'll do
 
 ### Compliance & Certification Management
 
-- Day-to-day coordination and execution of external Third Party Assessment Organization (3PAO) assessments and responding to auditor requests for evidence and documentation.
+- Day-to-day coordination and execution of externalThird Party Assessment Organization (3PAO) assessments and responding to auditor requests for evidence and documentation.
 - Maintain and update FedRAMP and GovRAMP controls and documentation in alignment with organizational and regulatory requirements, including controls aligned with NIST SP 800-53 rev 5 and other related frameworks.
 - Prepare certification and authorization packages and maintain related documentation such as the System Security Plan (SSP) and associated appendices.
+- Replace manual evidence collection with system-generated, API-driven, or continuously validated evidence where possible.
 
 ### Continuous Monitoring & Vulnerability Management
 
+- Design and evolve an automation-first continuous monitoring program leveraging system integrations, telemetry, and real-time data pipelines
 - Lead the day-to-day FedRAMP continuous monitoring process including vulnerability management lifecycle, from identification through remediation and verification, coordinating with Security, Engineering, and DevOps teams to address issues identified with tools such as Wiz, Burp Suite, AWS native services, and other platforms and resolve issues within FedRAMP and GovRAMP timelines.
 - Coordinate recurring continuous monitoring compliance activities such as access reviews, incident response exercises, and contingency plan testing.
 
 ### Access Management & Training
 
-- Oversee access controls for FedRAMP environments, including access requests, least privilege reviews and role-based access control validation and quarterly access certifications.
+- Design scalable and automated access validation mechanisms integrated with identity and infrastructure systems
 - Design, implement and deliver FedRAMP training programs to promote compliance awareness
 - Create and manage automated workflows to improve efficiency.
 
 ### Audit & Assessment Readiness
 
-- Maintain compliance evidence repositories. audit preparation materials, and reporting artifacts.
+- Transform compliance evidence from static repositories into dynamic, system-driven evidence models supporting real-time audit readiness
 - Conduct internal reviews of logged events and control activities, escalating issues or gaps to the Director of GRC and provide status updates and reports highlighting trends, risks, and remediation progress.
 
 ### Process Improvement & Collaboration
 
-- Collaborate with the Director of GRC to design and implement AI-enabled compliance workflows, leveraging automation tools to streamline evidence generation, reporting, and audit readiness
+- Collaborate with the Director of GRC to design automation-first and AI-enabled workflows that reduce manual effort and enable scalable compliance operations
 - Support the development, rollout, and maintenance of machine-readable compliance documentation (e.g., OSCAL or comparable structured formats) to facilitate interoperability
 - Partner with automation and engineering teams to integrate structured compliance data into Socure’s broader risk management and monitoring ecosystem including vulnerability remediation, access requests, and compliance reporting.
 - Monitor regulatory and industry trends for potential impacts to compliance strategy.
 
 ### Public Sector Sales & Customer Engagement
 
-- Serve as a security subject matter expert for public sector sales activities, including prospect briefings, RFP/RFQ responses, contract negotiations, and integration discussions.
+- Serve as a security subject matter expert for public sector sales activities, translating compliance controls and system capabilities into clear, accurate, and compelling customer-facing narratives.
 - Support development of external communications such as press releases and customer-facing materials related to security certifications and authorizations.
+- Build and maintain scalable response frameworks (e.g., answer libraries, structured content, or AI-assisted tools) to provide consistency, accuracy, and speed across RFP and RFx responses
 
 ### Monitor Evolving Requirements
 
@@ -88,7 +93,7 @@ Socure is seeking an Analyst, GRC – Public Sector to execute and enhance the c
 
 - Provide input to standards bodies on evolving standards when applicable
 
-# What you'll bring
+# What you bring
 
 - 5+ years of cybersecurity or identity management experience, including 1+ year in the public sector.
 - Direct experience with FedRAMP, GovRAMP, and NIST frameworks (800-53, 800-63, 800-171).
@@ -96,6 +101,7 @@ Socure is seeking an Analyst, GRC – Public Sector to execute and enhance the c
 - Experience using AI tools (e.g., ChatGPT, Glean, Gemini) and machine-readable formats (e.g., OSCAL) to automate and streamline compliance processes.
 - Strong communication, organization, and collaboration skills with the ability to manage multiple priorities.
 - Ability to adapt to changing requirements
+- Experience supporting or leading responses to security questionnaires, RFPs, or public sector RFx processes
 - Must be a U.S. Person (U.S. Citizens or U.S. Permanent Residents) residing in the United States and be able to obtain a U.S. OPM NACI clearance.
 
 ### Preferred Qualifications

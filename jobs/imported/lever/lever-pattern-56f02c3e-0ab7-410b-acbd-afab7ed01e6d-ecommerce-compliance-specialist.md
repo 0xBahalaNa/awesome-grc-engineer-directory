@@ -31,46 +31,68 @@ We need an Ecommerce Compliance Specialist to audit listings on platforms like A
 
 Are you obsessed with data, partner success, taking action, and changing the game? If you have a whole lot of hustle and a touch of nerd, come work with Pattern! We want you to use your skills to push one of the fastest-growing companies headquartered in the US to the top of the list.
 
-Pattern accelerates brands on global ecommerce marketplaces leveraging proprietary technology and AI. Utilizing more than 46 trillion data points, sophisticated machine learning and AI models, Pattern optimizes and automates all levers of ecommerce growth for global brands, including advertising, content management, logistics and fulfillment, pricing, forecasting and customer service. Hundreds of global brands depend on Pattern’s ecommerce acceleration platform every day to drive profitable revenue growth across 60+ global marketplaces—including Amazon, Walmart.com (http://walmart.com/) , Target.com (http://target.com/) , eBay, Tmall, TikTok Shop, JD, and Mercado Libre. To learn more, visit pattern.com (http://pattern.com/) or email press@pattern.com (mailto:press@pattern.com) .
+Pattern accelerates brands on global ecommerce marketplaces leveraging proprietary technology and AI. Utilizing more than 66 trillion data points, sophisticated machine learning and AI models, Pattern optimizes and automates all levers of ecommerce growth for global brands, including advertising, content management, logistics and fulfillment, pricing, forecasting and customer service. Hundreds of global brands depend on Pattern&rsquo;s ecommerce acceleration platform every day to drive profitable revenue growth across 60+ global marketplaces&mdash;including Amazon, Walmart.com (http://walmart.com/) , Target.com (http://target.com/) , eBay, Tmall, TikTok Shop, JD, and Mercado Libre. To learn more, visit pattern.com (http://pattern.com/) or email press@pattern.com (mailto:press@pattern.com) .
 
-Pattern has been named one of the fastest growing tech companies headquartered in North America by Deloitte and one of best-led companies by Inc. We place employee experience at the center of our business model and have been recognized as one of Newsweek’s Global Most Loved Workplaces®.
+Pattern has been named one of the fastest growing tech companies headquartered in North America by Deloitte and one of best-led companies by Inc. We place employee experience at the center of our business model and have been recognized as one of Newsweek&rsquo;s Global Most Loved Workplaces&reg;.
 
 ### What is a day in the life of an Ecommerce Compliance Specialist?
 
 - Manage product listings through reviews of new content
+
 - Product catalog auditing to ensure compliance with ecommerce platform policies
+
 - Monitor and update banned keywords and products from ecommerce marketplaces
+
 - Monitor notices from ecommerce platform compliance departments
+
 - Determine best ways to respond to seller account issues
+
 - Proactively troubleshoot potential issues
+
 - Communicate issues with the seller team
 
 ### What will I need to thrive in this role?
 
 - 1-2 years’ experience with the Amazon.com (http://Amazon.com) marketplace platform or 1-2 years’ experience working in the regulatory compliance field
+
 - Experience with Amazon Account Health - specifically writing plans of action and responding to performance notifications
+
 - Experience working with government regulations or regulatory bodies (FDA, EPA, CPSC, Health Canada, etc.)
+
 - Bachelor’s degree
+
 - Ability to organize and manage multiple tasks simultaneously
+
 - Precise attention to detail
+
 - Excellent verbal and written communication skills
+
 - Strong judgment and commitment to ethics
+
 - An eagerness to learn
 
 Preferred:
 
 - Basic familiarity with Walmart.com (http://Walmart.com), and other ecommerce marketplaces (eBay, Shopify, Etsy, etc.)
+
 - Experience with MAP/MSRP compliance enforcement
+
 - Experience performing root cause analysis and implementing corrective and preventive actions (CAPA)
+
 - Strong writing and editing skills
+
 - Previous experience working in a high-stakes business environment
 
 ### What does high performance look like?
 
 - You follow through with all assignments in a timely manner
+
 - You understand complex issues and can break them down into a simplified list of relevant points
+
 - You correctly apply internal processes, marketplace policies, and regulatory requirements to resolve violations
+
 - You take initiative to proactively share new solutions and process improvements with the team
+
 - You communicate clearly and professionally with collaborative teams, marketplace contacts, and brand partners
 
 ### What is my potential for career growth?
@@ -88,24 +110,35 @@ Preferred:
 ### Sounds great! What’s the company culture? We are looking for individuals who are:
 
 - Game Changers- A game changer is someone who looks at problems with an open mind and shares new ideas with team members, regularly reassesses existing plans and attaches a realistic timeline to goals, makes profitable, productive, and innovative contributions, and actively pursues improvements to Pattern’s processes and outcomes
+
 - Data Fanatics - A data fanatic is someone who recognizes problems and seeks to understand them through data, draws unbiased conclusions based on data that lead to actionable solutions, and continues to track the effects of the solutions using data
+
 - Partner Obsessed- An individual who is partner obsessed clearly explains the status of projects to partners and relies on constructive feedback, actively listens to partner’s expectations, and delivers results that exceed them, prioritizes the needs of your partners, and takes the time to create a personable experience for those interacting with Pattern.
+
 - Team of Doers- Someone who is a part of a team of doers uplifts team members and recognizes their specific contributions, takes initiative to help in any circumstance, actively contributes to supporting improvements, and holds themselves accountable to the team as well as to partners.
 
 ### What is the hiring process?
 
 - Initial phone interview with Pattern’s talent acquisition team
+
 - Video interview and sample problem with a senior team member
+
 - Onsite interview with the hiring manager
+
 - Professional reference checks
+
 - Executive review
+
 - Offer
 
 ### How can I stand out as an applicant?
 
 - Discuss professional accomplishments with specific data to quantify examples
+
 - Provide insights on how you can add value and be the best addition to the team
+
 - Focus on mentioning how you would be partner obsessed at Pattern
+
 - Share experience on any side projects related to data and analytics
 
 Why should I work at Pattern?
