@@ -11,7 +11,7 @@ role_url: "https://ats.rippling.com/workstreet/jobs/6b3c14c9-2f49-4c19-947c-66d9
 apply_url: "https://ats.rippling.com/workstreet/jobs/6b3c14c9-2f49-4c19-947c-66d9ba32fd4f"
 posted_date: "2025-10-15"
 expires_date: "2025-11-14"
-location: "Remote (India) | Remote (Philippines)"
+location: "Remote (India)"
 work_modes:
   - "Remote"
 job_types:

@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/vercel/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/vercel/jobs/5836016004"
 apply_url: "https://job-boards.greenhouse.io/vercel/jobs/5836016004"
-posted_date: "2026-04-02"
-expires_date: "2026-05-02"
+posted_date: "2026-04-16"
+expires_date: "2026-05-16"
 location: "Remote - United States"
 work_modes:
   - "Remote"
