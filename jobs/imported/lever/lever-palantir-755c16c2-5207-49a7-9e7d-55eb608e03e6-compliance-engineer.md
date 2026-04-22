@@ -30,12 +30,12 @@ frameworks:
 languages:
   - "Terraform"
 compensation: "$90,000 - $150,000"
-summary: "The Role As a Compliance Engineer, you will help our engineers implement Palantir Security Controls across our entire product line. You’ll work closely with many different teams..."
+summary: "The Role As a Compliance Engineer, you will help our engineers implement Palantir Security Controls across our entire product line. You&rsquo;ll work closely with many different..."
 ---
 
 The Role
 
-As a Compliance Engineer, you will help our engineers implement Palantir Security Controls across our entire product line. You’ll work closely with many different teams to shape these controls and champion a robust & nimble approach to risk management across the company. You will navigate & interpret complex US Government regulatory frameworks (e.g. FedRAMP, CMMC, IL5, IL6) in order to provide practical guidance on technical architecture, documentation & operational concerns, and sustainable processes that will allow us to continue to grow quickly & efficiently.
+As a Compliance Engineer, you will help our engineers implement Palantir Security Controls across our entire product line. You&rsquo;ll work closely with many different teams to shape these controls and champion a robust & nimble approach to risk management across the company. You will navigate & interpret complex US Government regulatory frameworks (e.g. FedRAMP, CMMC, IL5, IL6) in order to provide practical guidance on technical architecture, documentation & operational concerns, and sustainable processes that will allow us to continue to grow quickly & efficiently.
 
 A World-Changing Company
 
@@ -44,21 +44,33 @@ Palantir builds the world’s leading software for data-driven decisions and ope
 ### Core Responsibilities
 
 - Implement all aspects of US Government compliance, including FedRAMP, IL5, and IL6 continuous monitoring and compliance audits.
+
 - Support partnerships with various agencies (DoD, HHS, etc.), 3PAOs, and the FedRAMP PMO.
+
 - Partner with engineers to interpret and map compliance requirements to product implementation.
+
 - Directly facilitate operational and regulatory outcomes, including continuous monitoring and compliance audits.
+
 - Build automation for procedural compliance controls.
+
 - Guide technical and operational decision-making towards future product offerings and efficient organizational processes.
 
 ### What We Value
 
 - 3+ years experience with compliance (PCI, SOC2, HIPAA, etc.) with at least 2 years related to US Government compliance and audit experience (e.g FedRAMP, IL5, CMMC, FISMA, NIST 800-53, etc.).
+
 - Deep understanding of cloud infrastructure and security concepts.
+
 - Experience with distributed applications on cloud infrastructure (AWS, Azure, GCP).
+
 - Familiarity with security controls for cloud automation and configuration tooling (Terraform, Puppet, Jenkins, etc.).
+
 - Ability to clearly communicate compliance requirements to internal engineering teams and associated implementation to external customers.
+
 - Proficiency with security concepts (encryption, authentication, etc.) and tooling for continuous monitoring (Tenable, Splunk, etc.).
+
 - Hands-on experience in executing against recurring operational regulatory requirements.
+
 - Strong attention to detail.
 
 ### What We Require

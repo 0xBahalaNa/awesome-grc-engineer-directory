@@ -1,7 +1,7 @@
 ---
-title: "Principal Technical Program Manager, FedRAMP"
+title: "Senior Technical Program Manager, FedRAMP"
 company: "Ionq"
-slug: "greenhouse-ionq-5843579004-principal-technical-program-manager-fedramp"
+slug: "greenhouse-ionq-5843579004-senior-technical-program-manager-fedramp"
 status: "published"
 source: "Greenhouse"
 sources:
@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/ionq/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/ionq/jobs/5843579004"
 apply_url: "https://job-boards.greenhouse.io/ionq/jobs/5843579004"
-posted_date: "2026-04-09"
-expires_date: "2026-05-09"
+posted_date: "2026-04-21"
+expires_date: "2026-05-21"
 location: "Bothell, Washington, United States; College Park, Maryland, United States; Remote, US"
 work_modes:
   - "Remote"
@@ -28,7 +28,7 @@ frameworks:
   - "NIST 800-171"
   - "CMMC"
 languages: []
-compensation: "$167,808 - $219,704"
+compensation: "$110,336 - $144,459"
 summary: "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum platform and merchant supplier - delivering integrated quantum solutions across computing, networking, sensing,..."
 ---
 
@@ -62,7 +62,7 @@ summary: "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum 
 <li>Experience and/or education in a technical discipline related to IonQ product lines, including satellite, quantum computing, and/or networking</li>
 </ul>
 <p><strong>Location:</strong> Ideally, this role will work onsite at our office located in Bothell, WA or College Park, MD.&nbsp; We are open to hybrid and remote options for the right candidate.<br><strong>Travel:</strong> Minimum 10%<strong><br>Job ID:</strong>&nbsp;1478</p>
-<p>The approximate base salary range for this position is $167,808 - $219,704. The total compensation package includes base, bonus, equity, and a range of benefit options found on our career site.</p><div class="content-conclusion"><p>Compensation will vary based on individual factors such as education, qualifications, and experience of the final candidate(s), specific office location, and calibration against relevant market data and internal team equity.&nbsp; Posted base salary figures are subject to change as new market data becomes available. Our benefits include comprehensive medical, dental, and vision plans, matching 401K, unlimited PTO and paid holidays, parental/adoption leave, legal insurance, and a home technology stipend. &nbsp;Details of participation in these benefit plans will be provided when a candidate receives an offer of employment.&nbsp;</p>
+<p>The approximate base salary range for this position is <span data-sheets-root="1">$110,336</span> - <span data-sheets-root="1">$144,459</span>. The total compensation package includes base, bonus, equity, and a range of benefit options found on our career site.</p><div class="content-conclusion"><p>Compensation will vary based on individual factors such as education, qualifications, and experience of the final candidate(s), specific office location, and calibration against relevant market data and internal team equity.&nbsp; Posted base salary figures are subject to change as new market data becomes available. Our benefits include comprehensive medical, dental, and vision plans, matching 401K, unlimited PTO and paid holidays, parental/adoption leave, legal insurance, and a home technology stipend. &nbsp;Details of participation in these benefit plans will be provided when a candidate receives an offer of employment.&nbsp;</p>
 <p>At IonQ, we believe in fair treatment, access, opportunity, and advancement for all while striving to identify and eliminate barriers. We empower employees to thrive by fostering a culture of autonomy, productivity, and respect. We are dedicated to creating an environment where individuals can feel welcomed, respected, supported, and valued.<br>&nbsp;<br>We are committed to equity and justice. We welcome different voices and viewpoints and do not discriminate on the basis of race, religion, ancestry, physical and/or mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, transgender status, age, sexual orientation, military or veteran status, or any other basis protected by law. We are proud to be an Equal Employment Opportunity employer.</p>
 <p><strong></strong></p>
 <p><strong>US Technical Jobs.&nbsp;</strong>The position you are applying for will require access to technology that is subject to U.S. export control and government contract restrictions.&nbsp; Employment with IonQ is contingent on either verifying “U.S. Person” (e.g., U.S. citizen, U.S. national, U.S. permanent resident, or lawfully admitted into the U.S. as a refugee or granted asylum) status for export controls and government contracts work, obtaining any necessary license, and/or confirming the availability of a license exception under U.S. export controls.&nbsp; Please note that in the absence of confirming you are a U.S. Person for export control and government contracts work purposes, IonQ may choose not to apply for a license or decline to use a license exception (if available) for you to access export-controlled technology that may require authorization, and similarly, you may not qualify for government contracts work that requires U.S. Persons, and IonQ may decline to proceed with your application on those bases alone.&nbsp; Accordingly, we will have some additional questions regarding your immigration status that will be used for export control and compliance purposes, and the answers will be reviewed by compliance personnel to ensure compliance with federal law.&nbsp;&nbsp;</p>

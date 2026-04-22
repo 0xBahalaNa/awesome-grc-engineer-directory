@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs?content=true"
 role_url: "https://boards.greenhouse.io/appliedintuition/jobs/4672836005?gh_jid=4672836005"
 apply_url: "https://boards.greenhouse.io/appliedintuition/jobs/4672836005?gh_jid=4672836005"
-posted_date: "2026-04-09"
-expires_date: "2026-05-09"
+posted_date: "2026-04-21"
+expires_date: "2026-05-21"
 location: "Sunnyvale, California, United States"
 work_modes:
   - "Remote"
