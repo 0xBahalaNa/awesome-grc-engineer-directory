@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/vercel/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/vercel/jobs/5836016004"
 apply_url: "https://job-boards.greenhouse.io/vercel/jobs/5836016004"
-posted_date: "2026-04-22"
-expires_date: "2026-05-22"
+posted_date: "2026-04-24"
+expires_date: "2026-05-24"
 location: "Remote - United States"
 work_modes:
   - "Remote"
@@ -49,7 +49,7 @@ summary: "About Vercel: Vercel gives developers the tools and cloud infrastructu
 <li><strong>Own and scale commercial attestation program and audits</strong> (i.e., SOC 2, ISO 27001, PCI DSS, etc.) while maintaining alignment with business objectives and market demand.</li>
 <li><strong>Design and strengthen continuous monitoring processes</strong> to improve control effectiveness and mature control implementation from audit-ready to always-ready.</li>
 <li><strong>Drive evolution of security and compliance control frameworks</strong> that set the direction for proactive risk management.</li>
-<li><strong>Partner with cross-functional stakeholders,</strong> acting as a strategic connector ****to plan, implement, maintain &amp; remediate control activities and supporting requirements (e.g. policies, standards, processes, system configurations, etc.)</li>
+<li><strong>Partner with cross-functional stakeholders,</strong> acting as a strategic connector to plan, implement, maintain &amp; remediate control activities and supporting requirements (e.g. policies, standards, processes, system configurations, etc.)</li>
 <li><strong>Champion a culture of compliance accountability and business-enablement</strong> across the organization through autonomous program governance and reporting and building trusted relationships.</li>
 </ul>
 <h2>About you:</h2>
