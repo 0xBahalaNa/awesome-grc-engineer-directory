@@ -39,7 +39,7 @@ As a Compliance Engineer, you will help our engineers implement Palantir Securit
 
 A World-Changing Company
 
-Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.
+Palantir builds the world&rsquo;s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.
 
 ### Core Responsibilities
 
@@ -115,4 +115,4 @@ In keeping consistent with Palantir’s values and culture, we believe employees
 
 If you want to empower the world's most important institutions, you belong here. Palantir values excellence regardless of background. We are proud to be an Equal Opportunity Employer for all, including but not limited to Veterans and those with disabilities. Palantir is committed to making the application and hiring process accessible to everyone and will provide a reasonable accommodation for those living with a disability. If you need an accommodation for the application or hiring process , please reach out (mailto:accommodations@palantir.com) and let us know how we can help.
 
-If you would like to understand more about how your personal data will be processed by Palantir, please see our Privacy Policy (https://www.palantir.com/privacy-and-security/candidate-privacy-notice/).
+Please note that you will never be asked to submit a payment or share financial information to participate in our interview process. If you suspect that you've been contacted by a scammer, we recommend you cease all communication with the individual and consider reporting them to the relevant authorities, such as the US FBI Internet Crime Complaint Center (IC3) (https://www.ic3.gov/). If you would like to understand more about how your personal data will be processed by Palantir, please see our Privacy Policy (https://www.palantir.com/privacy-and-security/candidate-privacy-notice/).
