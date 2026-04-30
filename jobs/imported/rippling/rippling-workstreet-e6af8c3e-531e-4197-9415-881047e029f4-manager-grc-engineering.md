@@ -78,7 +78,7 @@ Required
 - Ability to manage multiple compliance projects simultaneously without sacrificing client experience or quality
 - Bachelor's degree in Information Technology, Cybersecurity, or a related field
 - Ability to work independently with a strong sense of initiative
-- Amenable to working US time zone hours
+- Amenable to working UK time zone hours
 
 ## Nice to Have
 
