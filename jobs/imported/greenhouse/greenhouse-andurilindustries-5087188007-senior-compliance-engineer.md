@@ -122,29 +122,9 @@ summary: "Anduril Industries is a defense technology company with a mission to t
 <li>Relevant certifications such as AWS Solutions Architect, Certified Kubernetes Administrator (CKA), CISSP, CISM, or CompTIA Security+.</li>
 <li>Experience working in fast-paced, high-growth defense technology environments</li>
 </ul><div class="content-pay-transparency"><div class="pay-input"><div class="title">US Salary Range</div><div class="pay-range"><span>$146,000</span><span class="divider">&mdash;</span><span>$194,000 USD</span></div></div></div><div class="content-conclusion"><p><span data-contrast="auto">The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including:</span><span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":240,"335559739":240}">&nbsp;</span></p>
-<p><strong><span data-contrast="auto">Healthcare Benefits&nbsp;</span></strong></p>
-<ul>
-<li><strong><span data-contrast="none">US Roles:</span></strong><span data-contrast="none">&nbsp;Comprehensive medical, dental, and vision plans at little to no cost to you.</span><span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":0,"335559739":0}">&nbsp;</span></li>
-<li><strong><span data-contrast="none">UK &amp; AUS Roles:</span></strong><span data-contrast="none">&nbsp;We cover full cost of medical insurance premiums for you and your dependents.</span><span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":0,"335559739":0}">&nbsp;</span></li>
-<li><strong><span data-contrast="auto">IE Roles:</span></strong> <span data-contrast="none">We offer an annual contribution toward your private health insurance for you and your dependents.</span><span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":0,"335559739":0}">&nbsp;</span></li>
-</ul>
-<p><strong><span data-contrast="auto">Additional Benefits</span></strong><span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":0,"335559739":0}">&nbsp;</span></p>
-<ul>
-<li><strong><span data-contrast="auto">Income Protection</span></strong><span data-contrast="auto">: Anduril covers life and disability insurance for all employees.</span><span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":0,"335559739":0}">&nbsp;</span></li>
-<li><strong><span data-contrast="auto">Generous time off</span></strong><span data-contrast="auto">: Highly competitive PTO plans with </span><span data-contrast="none">a holiday hiatus in December. Caregiver &amp; Wellness Leave is available to care for family members, bond with a new baby, or address your own medical needs.</span><span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":0,"335559739":0}">&nbsp;</span></li>
-<li><strong><span data-contrast="auto">Family Planning &amp; Parenting Support:</span></strong> <span data-contrast="none">Coverage for fertility treatments (e.g., IVF, preservation), adoption, and gestational carriers, along with resources to support you and your partner from planning to parenting.</span><span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":0,"335559739":0}">&nbsp;</span></li>
-<li><strong><span data-contrast="none">Mental Health Resources:</span></strong><span data-contrast="none">&nbsp;Access free mental health resources 24/7, including therapy and life coaching. Additional work-life services, such as legal and financial support, are also available.</span><span data-ccp-props="{"134233117":false,"134233118":false,"335557856":16777215,"335559738":240,"335559739":0}">&nbsp;</span></li>
-<li><strong><span data-contrast="none">Professional Development:</span></strong><span data-contrast="none">&nbsp;Annual reimbursement for professional development</span><span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":0,"335559739":0}">&nbsp;</span></li>
-<li><strong><span data-contrast="none">Commuter Benefits:</span></strong><span data-contrast="none">&nbsp;Company-funded commuter benefits based on your region.</span><span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":0,"335559739":0}">&nbsp;</span></li>
-<li><strong><span data-contrast="none">Relocation Assistance:</span></strong><span data-contrast="none">&nbsp;Available depending on role eligibility.</span><span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":0,"335559739":0}">&nbsp;</span></li>
-</ul>
-<p><strong><span data-contrast="auto">Retirement Savings Plan</span></strong><span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":0,"335559739":0}">&nbsp;</span></p>
-<ul>
-<li><strong><span data-contrast="none">US Roles:</span></strong><span data-contrast="none">&nbsp;Traditional 401(k), Roth, and after-tax (mega backdoor Roth) options.</span><span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":0,"335559739":0}">&nbsp;</span></li>
-<li><strong><span data-contrast="none">UK &amp; IE Roles:</span></strong><span data-contrast="none">&nbsp;Pension plan with employer match.</span><span data-ccp-props="{"134233117":false,"134233118":false,"335557856":16777215,"335559738":0,"335559739":0}">&nbsp;</span></li>
-<li><strong><span data-contrast="none">AUS Roles:</span></strong><span data-contrast="none">&nbsp;Superannuation plan.</span><span data-ccp-props="{"134233117":false,"134233118":false,"335557856":16777215,"335559738":0,"335559739":0}">&nbsp;</span></li>
-</ul>
-<p><span data-contrast="auto">The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process.</span><span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":240,"335559739":240}">&nbsp;</span></p>
+<p>&nbsp;</p>
+<h3 class="detailElios"><strong>Benefits</strong></h3>
+<p><span data-contrast="auto">At Anduril, we invest in our people. Our comprehensive, competitive benefits package (available at little to no cost to employees) ensures you’re supported in health, recovery, and whatever comes next.&nbsp;</span><em><span data-contrast="auto">For more information, <a href="https://www.anduril.com/careers">Explore Our Benefits</a>.</span></em></p>
 <p>&nbsp;</p>
 <div class="RichText column1">
 <h3 class="detailElios"><strong>Protecting Yourself from Recruitment Scams</strong></h3>
@@ -170,6 +150,7 @@ summary: "Anduril Industries is a defense technology company with a mission to t
 </li>
 </ul>
 </div>
+<h3>&nbsp;</h3>
 <h3><strong>Data Privacy</strong></h3>
 <p><span data-contrast="auto">To view Anduril's candidate data privacy policy, please visit </span><span data-contrast="none"><span data-ccp-charstyle="Hyperlink"><a href="https://anduril.com/applicant-privacy-notice/">https://anduril.com/applicant-privacy-notice/</a></span></span><span data-contrast="auto">.</span><span data-ccp-props="{"134233117":false,"134233118":false,"335551550":0,"335551620":0,"335559738":240,"335559739":240}">&nbsp;</span></p>
 <p>&nbsp;</p>
