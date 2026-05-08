@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/ionq/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/ionq/jobs/5843579004"
 apply_url: "https://job-boards.greenhouse.io/ionq/jobs/5843579004"
-posted_date: "2026-04-29"
-expires_date: "2026-05-29"
+posted_date: "2026-05-07"
+expires_date: "2026-06-06"
 location: "Bothell, Washington, United States; College Park, Maryland, United States; Remote, US"
 work_modes:
   - "Remote"
@@ -61,7 +61,7 @@ summary: "About IonQ: IonQ, Inc . [NYSE: IONQ] is the world’s leading quantum 
 <li>Strong aptitude for Atlassian Jira and Confluence issue management, project management, and reporting.</li>
 <li>Experience and/or education in a technical discipline related to IonQ product lines, including satellite, quantum computing, and/or networking</li>
 </ul>
-<p><strong>Location:</strong> Ideally, this role will work onsite at our office located in Bothell, WA or College Park, MD.&nbsp; We are open to hybrid and remote options for the right candidate.<br><strong>Travel:</strong> Minimum 10%<strong><br>Job ID:</strong>&nbsp;1478</p>
+<p><strong>Location:</strong> Ideally, this role will work onsite at our office located in Bothell, WA or College Park, MD.&nbsp; We are open to hybrid and remote options for the right candidate.<br><strong>Travel:</strong> About 10%<strong><br>Job ID:</strong>&nbsp;1478</p>
 <p>The approximate base salary range for this position is <span data-sheets-root="1">$110,336</span> - <span data-sheets-root="1">$144,459</span>. The total compensation package includes base, bonus, equity, and a range of benefit options found on our career site.</p><div class="content-conclusion"><p>Compensation will vary based on individual factors such as education, qualifications, and experience of the final candidate(s), specific office location, and calibration against relevant market data and internal team equity.&nbsp; Posted base salary figures are subject to change as new market data becomes available. Our benefits include comprehensive medical, dental, and vision plans, matching 401K, unlimited PTO and paid holidays, parental/adoption leave, legal insurance, and a home technology stipend. &nbsp;Details of participation in these benefit plans will be provided when a candidate receives an offer of employment.&nbsp;</p>
 <p>At IonQ, we believe in fair treatment, access, opportunity, and advancement for all while striving to identify and eliminate barriers. We empower employees to thrive by fostering a culture of autonomy, productivity, and respect. We are dedicated to creating an environment where individuals can feel welcomed, respected, supported, and valued.<br>&nbsp;<br>We are committed to equity and justice. We welcome different voices and viewpoints and do not discriminate on the basis of race, religion, ancestry, physical and/or mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, transgender status, age, sexual orientation, military or veteran status, or any other basis protected by law. We are proud to be an Equal Employment Opportunity employer.</p>
 <p><strong></strong></p>
