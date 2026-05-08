@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/robinhood/jobs?content=true"
 role_url: "https://boards.greenhouse.io/robinhood/jobs/7884021?t=gh_src=&gh_jid=7884021"
 apply_url: "https://boards.greenhouse.io/robinhood/jobs/7884021?t=gh_src=&gh_jid=7884021"
-posted_date: "2026-05-06"
-expires_date: "2026-06-05"
+posted_date: "2026-05-07"
+expires_date: "2026-06-06"
 location: "Menlo Park, CA; New York, NY; Washington, DC"
 work_modes:
   - "Hybrid / On-site"
@@ -37,18 +37,18 @@ summary: "Join us in building the future of finance. Our mission is to democrati
 <h3><strong>What you’ll do</strong></h3>
 <ul>
 <li>Develop, implement, and oversee the Ethics Office and Integrity Helpline, including triaging reports and conducting investigations into potential violations of policies, laws, and regulations</li>
-<li>Provide guidance on the Code of Conduct and conflict of interest matters, including gifts, entertainment, and outside business activities</li>
+<li>Provide guidance on the Code of Conduct and conflict of interest matters, including gifts, entertainment, and outside business activities, acting as a primary decision-maker on complex disclosures</li>
 <li>Partner with legal, compliance, people, and business teams to manage Ethics Office initiatives, policies, and training programs</li>
 <li>Create communications and training content to increase awareness of ethical standards and compliance requirements across the company</li>
-<li>Monitor program effectiveness, assess compliance risks, and deliver reporting and metrics to leadership and the Board</li>
+<li>Monitor program effectiveness, assess compliance risks, benchmark the program against industry standards and peer organizations, and deliver reporting and metrics to leadership and the Board</li>
 </ul>
 <h3><strong>What you bring</strong></h3>
 <ul>
 <li>Several years of experience as a Compliance and Ethics Officer; a bachelor’s degree or equivalent experience in a relevant field; financial services experience strongly preferred</li>
-<li>Strong personal character and a demonstrated commitment to integrity internally and externally, with the ability to handle confidential information with discretion and sound judgment</li>
-<li>Excellent written and verbal communication skills, including the ability to clearly explain complex regulatory topics; ability to collaborate effectively and influence stakeholders across multiple levels of the organization</li>
+<li>Strong personal character and a demonstrated commitment to integrity internally and externally, with senior executive presence and the ability to handle confidential information with discretion and sound judgment</li>
+<li>Excellent written and verbal communication skills, including the ability to clearly explain complex regulatory topics; ability to collaborate effectively, maintain a strong point of view, and influence stakeholders across multiple levels of the organization</li>
 <li>Experience developing strategies and building alignment to execute them, with the ability to approach problems thoughtfully and identify practical solutions</li>
-<li>Strong organizational skills with attention to detail, and the ability to manage work independently in a changing environment while responding appropriately to time-sensitive matters</li>
+<li>Strong organizational skills with attention to detail, and the ability to exercise independent judgment while managing a complex workload autonomously in a changing and time-sensitive environment&nbsp;</li>
 </ul>
 <h3><strong>What we offer</strong></h3>
 <ul>
