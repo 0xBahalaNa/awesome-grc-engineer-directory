@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/zscaler/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/zscaler/jobs/5043550007"
 apply_url: "https://job-boards.greenhouse.io/zscaler/jobs/5043550007"
-posted_date: "2026-03-31"
-expires_date: "2026-04-30"
+posted_date: "2026-05-08"
+expires_date: "2026-06-07"
 location: "San Jose, California, USA"
 work_modes:
   - "Hybrid / On-site"
