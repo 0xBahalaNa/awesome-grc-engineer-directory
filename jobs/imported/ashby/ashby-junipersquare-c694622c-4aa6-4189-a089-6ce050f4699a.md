@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/junipersquare?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/junipersquare/c694622c-4aa6-4189-a089-6ce050f4699a"
 apply_url: "https://jobs.ashbyhq.com/junipersquare/c694622c-4aa6-4189-a089-6ce050f4699a/application"
-posted_date: "2026-05-11"
-expires_date: "2026-06-10"
+posted_date: "2026-05-12"
+expires_date: "2026-06-11"
 location: "India"
 work_modes:
   - "Remote"
@@ -27,12 +27,14 @@ frameworks:
 languages:
   - "Rust"
 compensation: ""
-summary: "About Juniper Square Our mission is to unlock the full potential of private markets. Privately owned assets like commercial real estate, private equity, and venture capital make..."
+summary: "About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full..."
 ---
 
 ## About Juniper Square
 
-Our mission is to unlock the full potential of private markets. Privately owned assets like commercial real estate, private equity, and venture capital make up half of our financial ecosystem yet remain inaccessible to most people. We are digitizing these markets, and as a result, bringing efficiency, transparency, and access to one of the most productive corners of our financial ecosystem. If you care about making the world a better place by making markets work better through technology – all while contributing as a member of a values-driven organization – we want to hear from you.
+Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services into a single platform that helps GPs move faster, make better decisions, and scale with precision. With $300B+ under administration and 700,000+ LPs on platform, we’ve built the scale to match our ambition. And with JunieAI, our purpose-built AI platform, we’re reimagining how private markets operate, embedding intelligence across every workflow. Founder-led since 2014, backed by $350M+ in funding, and now 1,000+ employees strong, we’re building a company designed to shape the future of private markets for decades to come.
+
+Our culture is built for people who want to do ambitious, meaningful work alongside exceptionally talented teammates. We think like owners, move with urgency, and take pride in solving hard problems that truly matter to our customers and the future of private markets. We believe the best ideas come from open debate, deep collaboration, and diverse perspectives, which is why we believe transparency is the default and feedback makes us stronger. If you’re energized by high standards, rapid growth, and the opportunity to help define a category at a pivotal moment, come join us!
 
 Juniper Square offers employees a variety of ways to work, ranging from a fully remote experience to working full-time in one of our physical offices. We invest heavily in digital-first (https://blog.junipersquare.com/juniper-square-ponders-future-of-office-with-digital-first-hybrid-workplace-strategy/) operations, allowing our teams to collaborate effectively across 27 U.S. states, 2 Canadian Provinces, India, Luxembourg, and England. We also have physical offices in San Francisco, New York City, Mumbai and Bangalore for employees who prefer to work in an office some or all of the time.
 
