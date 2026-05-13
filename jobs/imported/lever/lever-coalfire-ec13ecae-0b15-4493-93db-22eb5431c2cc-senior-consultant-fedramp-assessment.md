@@ -31,7 +31,15 @@ compensation: "$86,000 - $148,000"
 summary: "Coalfire is on a mission to make the world a safer place by solving our clients&rsquo; toughest cybersecurity challenges. We work at the cutting edge of technology to advise,..."
 ---
 
-Coalfire is on a mission to make the world a safer place by solving our clients&rsquo; toughest cybersecurity challenges. We work at the cutting edge of technology to advise, assess, automate, and ultimately help companies navigate the ever-changing cybersecurity landscape. We are headquartered in Denver, Colorado with offices across the U.S. and U.K., and we support clients around the world. But that&rsquo;s not who we are &ndash; that&rsquo;s just what we do. We are thought leaders, consultants, and cybersecurity experts, but above all else, we are a team of passionate problem-solvers who are hungry to learn, grow, and make a difference. And we&rsquo;re growing fast. We&rsquo;re looking for a Senior Consultant to support our FedRAMP Assessment team.
+Coalfire is on a mission to make the world a safer place by solving our clients&rsquo; toughest cybersecurity challenges. We work at the cutting edge of technology to advise, assess, automate, and ultimately help companies navigate the ever-changing cybersecurity landscape. We are headquartered in Denver, Colorado with offices across the U.S. and U.K., and we support clients around the world.
+
+But that&rsquo;s not who we are &ndash; that&rsquo;s just what we do.
+
+We are thought leaders, consultants, and cybersecurity experts, but above all else, we are a team of passionate problem-solvers who are hungry to learn, grow, and make a difference.
+
+And we&rsquo;re growing fast.
+
+We&rsquo;re looking for a Senior Consultant to support our FedRAMP Assessment team.
 
 About Coalfire
 
