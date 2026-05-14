@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/Flock Safety?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/Flock%20Safety/11653020-9ee2-4d82-ab25-29de3dfd7faf"
 apply_url: "https://jobs.ashbyhq.com/Flock%20Safety/11653020-9ee2-4d82-ab25-29de3dfd7faf/application"
-posted_date: "2026-05-13"
-expires_date: "2026-06-12"
+posted_date: "2026-05-14"
+expires_date: "2026-06-13"
 location: "Remote - USA"
 work_modes:
   - "Remote"
@@ -31,16 +31,16 @@ languages:
   - "Terraform"
   - "Rust"
 compensation: "$130,000 - $150,000"
-summary: "Who is Flock? Flock is the leading safety technology platform, helping communities thrive by taking a proactive approach to crime prevention and security. Our hardware and..."
+summary: "Who is Flock? Every community deserves to be safe, it’s a fundamental right. Our mission is simple - to build technology that reduces crime and protects privacy. Flock partners..."
 ---
 
 # Who is Flock?
 
-Flock is the leading safety technology platform, helping communities thrive by taking a proactive approach to crime prevention and security. Our hardware and software suite connects cities, law enforcement, businesses, schools, and neighborhoods in a nationwide public-private safety network. Trusted by over 5,000 communities, 4,500 law enforcement agencies, and 1,000 businesses, Flock delivers real-time intelligence while prioritizing privacy and responsible innovation.
+Every community deserves to be safe, it’s a fundamental right. Our mission is simple - to build technology that reduces crime and protects privacy. Flock partners with cities, businesses, schools, and neighborhoods to help protect where people live, work, and play. Last year, Flock technology supported over 1 million criminal investigations, helped solve approximately 20% of reported crimes in areas where it is deployed, and played a role in locating more than 10,000 missing people.
 
-We’re a high-performance, low-ego team driven by urgency, collaboration, and bold thinking. Working at Flock means tackling big challenges, moving fast, and continuously improving. It’s intense but deeply rewarding for those who want to make an impact.
+We are a high-performance team united by urgency, ownership, and a shared commitment to meaningful impact. The work is fast-paced and the expectations are high. We push beyond perceived limits, support each other, and hold ourselves accountable to delivering results that matter.
 
-With nearly $700M in venture funding and a $7.5B valuation, we’re scaling intentionally and seeking top talent to help build the impossible. If you value teamwork, ownership, and solving tough problems, Flock could be the place for you.
+With over $1B in funding and an $8.3B valuation, we are scaling with intention and investing in the people who will help us build what others said could not be done. At Flock, you will find the opportunity to grow quickly, take on real responsibility, and contribute to something bigger than yourself.
 
 # The Opportunity
 
