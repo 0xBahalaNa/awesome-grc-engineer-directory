@@ -1,53 +1,62 @@
 <div class="filters">
-  <div class="controls-header">
-    <p class="results-count" aria-live="polite" aria-atomic="true"><span id="results-count">{{ collections.jobs.length }}</span> of {{ collections.jobs.length }} jobs</p>
-    <div class="controls-meta" aria-label="Job board coverage">
-      <span>{{ collections.jobs | uniqueValues("specializations") | length }} specializations</span>
-      <span>{{ collections.jobs | uniqueValues("frameworks") | length }} frameworks</span>
-      <span>{{ collections.jobs | uniqueValues("sources") | length }} sources</span>
+  <div class="filters-compact-bar">
+    <span class="filter-compact-label">Filters hidden</span>
+    <button class="filter-toggle" type="button" data-filter-toggle aria-expanded="false" aria-controls="filter-panel">Show filters</button>
+  </div>
+
+  <div class="filters-expanded-panel" id="filter-panel">
+    <div class="controls-header">
+      <p class="results-count" aria-live="polite" aria-atomic="true"><span id="results-count">{{ collections.jobs.length }}</span> of {{ collections.jobs.length }} jobs</p>
+      <div class="controls-actions">
+        <div class="controls-meta" aria-label="Job board coverage">
+          <span>{{ collections.jobs | uniqueValues("specializations") | length }} specializations</span>
+          <span>{{ collections.jobs | uniqueValues("frameworks") | length }} frameworks</span>
+          <span>{{ collections.jobs | uniqueValues("sources") | length }} sources</span>
+        </div>
+        <button class="filter-toggle" type="button" data-filter-toggle aria-expanded="true" aria-controls="filter-panel">Hide filters</button>
+      </div>
     </div>
-  </div>
 
-  <div class="controls-bar">
-    <div class="search-box">
-      <input type="search" id="search-input" placeholder="Search title, company, location, framework..." aria-label="Search jobs">
-    </div>
+    <div class="controls-bar">
+      <div class="search-box">
+        <input type="search" id="search-input" placeholder="Search title, company, location, framework..." aria-label="Search jobs">
+      </div>
 
-    <label class="sort-control" for="sort-select">
-      <span>Sort</span>
-      <select id="sort-select">
-        <option value="newest">Newest</option>
-        <option value="title">Title A-Z</option>
-        <option value="company">Company A-Z</option>
-      </select>
-    </label>
-  </div>
-
-  <div class="filter-presets" aria-label="Saved filter presets">
-    <span class="filter-presets-label">Presets</span>
-    <button class="filter-preset" type="button" data-frameworks="fedramp" aria-pressed="false">FedRAMP</button>
-    <button class="filter-preset" type="button" data-frameworks="soc 2" aria-pressed="false">SOC 2</button>
-    <button class="filter-preset" type="button" data-specializations="cloud security" aria-pressed="false">Cloud security</button>
-    <button class="filter-preset" type="button" data-specializations="compliance automation" aria-pressed="false">Compliance automation</button>
-    <button class="filter-preset" type="button" data-work-modes="remote" aria-pressed="false">Remote</button>
-  </div>
-
-  <div id="active-filters-summary" class="active-filters-summary" style="display:none">
-    <span class="active-filters-label">Filters:</span>
-    <div id="active-filter-pills" class="active-filter-pills"></div>
-    <button id="clear-filters" class="btn-clear">Clear all</button>
-  </div>
-
-  <div class="filter-workbench">
-    <div class="filter-workbench-header">
-      <span>Filter by</span>
-      <label class="filter-option-search">
-        <span>Find option</span>
-        <input type="search" class="filter-option-input" placeholder="Type to narrow options">
+      <label class="sort-control" for="sort-select">
+        <span>Sort</span>
+        <select id="sort-select">
+          <option value="newest">Newest</option>
+          <option value="title">Title A-Z</option>
+          <option value="company">Company A-Z</option>
+        </select>
       </label>
     </div>
 
-    <div class="filter-groups">
+    <div class="filter-presets" aria-label="Saved filter presets">
+      <span class="filter-presets-label">Presets</span>
+      <button class="filter-preset" type="button" data-frameworks="fedramp" aria-pressed="false">FedRAMP</button>
+      <button class="filter-preset" type="button" data-frameworks="soc 2" aria-pressed="false">SOC 2</button>
+      <button class="filter-preset" type="button" data-specializations="cloud security" aria-pressed="false">Cloud security</button>
+      <button class="filter-preset" type="button" data-specializations="compliance automation" aria-pressed="false">Compliance automation</button>
+      <button class="filter-preset" type="button" data-work-modes="remote" aria-pressed="false">Remote</button>
+    </div>
+
+    <div id="active-filters-summary" class="active-filters-summary" style="display:none">
+      <span class="active-filters-label">Filters:</span>
+      <div id="active-filter-pills" class="active-filter-pills"></div>
+      <button id="clear-filters" class="btn-clear">Clear all</button>
+    </div>
+
+    <div class="filter-workbench">
+      <div class="filter-workbench-header">
+        <span>Filter by</span>
+        <label class="filter-option-search">
+          <span>Find option</span>
+          <input type="search" class="filter-option-input" placeholder="Type to narrow options">
+        </label>
+      </div>
+
+      <div class="filter-groups">
     <div class="filter-group open" data-group="specializations">
       <button class="filter-group-header" aria-expanded="true">
         <svg class="chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="9 18 15 12 9 6"/></svg>
@@ -111,6 +120,7 @@
         <button class="chip" data-value="{{ source | lower }}" aria-pressed="false">{{ source }}</button>
         {% endfor %}
       </div>
+    </div>
     </div>
   </div>
   </div>

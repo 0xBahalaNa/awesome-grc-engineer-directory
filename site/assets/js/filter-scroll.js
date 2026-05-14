@@ -6,16 +6,55 @@
   var ticking = false;
   var hideAfter = 260;
   var minDelta = 8;
+  var toggleButtons = Array.from(filters.querySelectorAll("[data-filter-toggle]"));
+  var storageKey = "grcFiltersCollapsed:" + window.location.pathname;
+  var manuallyCollapsed = getStoredCollapsed();
+
+  setCollapsed(manuallyCollapsed, false);
 
   function hasActiveControl() {
     return filters.contains(document.activeElement);
+  }
+
+  function getStoredCollapsed() {
+    try {
+      return window.sessionStorage.getItem(storageKey) === "true";
+    } catch (error) {
+      return false;
+    }
+  }
+
+  function storeCollapsed(collapsed) {
+    try {
+      window.sessionStorage.setItem(storageKey, collapsed ? "true" : "false");
+    } catch (error) {
+      return;
+    }
   }
 
   function setHidden(hidden) {
     filters.classList.toggle("filters-hidden", hidden);
   }
 
+  function setCollapsed(collapsed, persist) {
+    manuallyCollapsed = collapsed;
+    filters.classList.toggle("filters-collapsed", collapsed);
+    setHidden(false);
+
+    toggleButtons.forEach(function (button) {
+      button.setAttribute("aria-expanded", collapsed ? "false" : "true");
+    });
+
+    if (persist) storeCollapsed(collapsed);
+  }
+
   function updateFilterVisibility() {
+    if (manuallyCollapsed) {
+      setHidden(false);
+      ticking = false;
+      return;
+    }
+
     var currentY = window.scrollY || 0;
     var delta = currentY - lastScrollY;
     var nearTop = currentY < hideAfter;
@@ -48,5 +87,10 @@
   });
   filters.addEventListener("pointerenter", function () {
     setHidden(false);
+  });
+  toggleButtons.forEach(function (button) {
+    button.addEventListener("click", function () {
+      setCollapsed(!manuallyCollapsed, true);
+    });
   });
 })();
