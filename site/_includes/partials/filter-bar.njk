@@ -1,6 +1,35 @@
 <div class="filters">
-  <div class="search-box">
-    <input type="text" id="search-input" placeholder="Search by name, skill, framework..." aria-label="Search engineers">
+  <div class="controls-header">
+    <p class="results-count" aria-live="polite" aria-atomic="true"><span id="results-count">{{ collections.engineers.length }}</span> of {{ collections.engineers.length }} engineers</p>
+    <div class="controls-meta" aria-label="Directory coverage">
+      <span>{{ collections.engineers | uniqueValues("frameworks") | length }} frameworks</span>
+      <span>{{ collections.engineers | uniqueValues("certifications") | length }} certifications</span>
+      <span>{{ collections.engineers | uniqueValues("available_for") | length }} availability types</span>
+    </div>
+  </div>
+
+  <div class="controls-bar">
+    <div class="search-box">
+      <input type="search" id="search-input" placeholder="Search name, title, company, location, skill..." aria-label="Search engineers">
+    </div>
+
+    <label class="sort-control" for="sort-select">
+      <span>Sort</span>
+      <select id="sort-select">
+        <option value="name">Name A-Z</option>
+        <option value="available">Available first</option>
+        <option value="profileDepth">Most complete</option>
+      </select>
+    </label>
+  </div>
+
+  <div class="filter-presets" aria-label="Saved filter presets">
+    <span class="filter-presets-label">Presets</span>
+    <button class="filter-preset" type="button" data-frameworks="fedramp" aria-pressed="false">FedRAMP</button>
+    <button class="filter-preset" type="button" data-specializations="cloud security" aria-pressed="false">Cloud security</button>
+    <button class="filter-preset" type="button" data-specializations="ai governance" aria-pressed="false">AI governance</button>
+    <button class="filter-preset" type="button" data-specializations="compliance automation" aria-pressed="false">Compliance automation</button>
+    <button class="filter-preset" type="button" data-available="consulting" aria-pressed="false">Consulting</button>
   </div>
 
   <div id="active-filters-summary" class="active-filters-summary" style="display:none">
@@ -9,9 +38,18 @@
     <button id="clear-filters" class="btn-clear">Clear all</button>
   </div>
 
-  <div class="filter-groups">
-    <div class="filter-group" data-group="specializations">
-      <button class="filter-group-header" aria-expanded="false">
+  <div class="filter-workbench">
+    <div class="filter-workbench-header">
+      <span>Filter by</span>
+      <label class="filter-option-search">
+        <span>Find option</span>
+        <input type="search" class="filter-option-input" placeholder="Type to narrow options">
+      </label>
+    </div>
+
+    <div class="filter-groups">
+    <div class="filter-group open" data-group="specializations">
+      <button class="filter-group-header" aria-expanded="true">
         <svg class="chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="9 18 15 12 9 6"/></svg>
         <span>Specializations</span>
         <span class="count-badge" style="display:none">0</span>
@@ -79,5 +117,6 @@
         {% endfor %}
       </div>
     </div>
+  </div>
   </div>
 </div>

@@ -1,24 +1,13 @@
 ---
 layout: layouts/home.njk
-title: GRC Engineer Directory — Find a GRC Engineer to Hire
+title: GRC Engineer Directory - Find a GRC Engineer to Hire
 permalink: /index.html
 ---
 <section class="hero" id="hero">
-  <div id="tsparticles" class="hero-particles"></div>
   <div class="hero-content">
-    <h1>Find a GRC Engineer</h1>
-    <p class="hero-tagline">Filter by specialization, framework expertise, and availability — all engineers have real-world GRC experience.</p>
-    <div class="hero-stats">
-      <div class="hero-stat">
-        <span class="hero-stat-num" data-target="{{ collections.engineers.length }}">0</span> Engineers
-      </div>
-      <div class="hero-stat">
-        <span class="hero-stat-num" data-target="{{ collections.engineers | uniqueValues('frameworks') | length }}">0</span> Frameworks
-      </div>
-      <div class="hero-stat">
-        <span class="hero-stat-num" data-target="{{ collections.engineers | uniqueValues('certifications') | length }}">0</span> Certifications
-      </div>
-    </div>
+    <p class="hero-kicker">GRC Engineer Directory</p>
+    <h1>Find engineers by the work they do.</h1>
+    <p class="hero-tagline">Search real GRC practitioners by specialization, framework expertise, tooling, and availability.</p>
   </div>
 </section>
 
@@ -27,7 +16,13 @@ permalink: /index.html
 {% include "partials/filter-bar.njk" %}
 
 <section class="directory">
-  <p class="results-count" aria-live="polite" aria-atomic="true"><span id="results-count">{{ collections.engineers.length }}</span> engineers</p>
+  <div class="directory-toolbar">
+    <span>Engineer</span>
+    <span>Available for</span>
+    <span>Specialization</span>
+    <span>Frameworks & tools</span>
+    <span>Actions</span>
+  </div>
   <div class="card-grid">
     {% for engineer in collections.engineers %}
       {% include "partials/engineer-card.njk" %}
@@ -91,7 +86,7 @@ permalink: /index.html
 }
 </script>
 
-<script defer src="https://cdn.jsdelivr.net/npm/tsparticles@2/tsparticles.bundle.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
 <script src="/site/assets/js/search.js"></script>
+<script src="/site/assets/js/filter-scroll.js"></script>
 <script defer src="/site/assets/js/effects.js"></script>

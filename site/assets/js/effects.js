@@ -4,87 +4,29 @@
     return window.getEffectiveTheme() === "dark";
   }
 
-  var reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  var lowEnd = navigator.hardwareConcurrency && navigator.hardwareConcurrency < 4;
-  var isMobile = window.innerWidth < 600;
-
-  /* ── Particles ── */
-  function particleColor() {
-    return getComputedStyle(document.documentElement).getPropertyValue("--brand-primary").trim() || "#e8650a";
-  }
-  function linkColor() {
-    return getComputedStyle(document.documentElement).getPropertyValue("--brand-primary-20").trim() || "rgba(232,101,10,0.2)";
-  }
-
-  function initParticles() {
-    if (reducedMotion || lowEnd || typeof tsParticles === "undefined") return;
-
-    tsParticles.load({
-      id: "tsparticles",
-      options: {
-        fullScreen: { enable: false },
-        fpsLimit: 60,
-        particles: {
-          number: { value: isMobile ? 18 : 45 },
-          color: { value: particleColor() },
-          opacity: { value: { min: 0.3, max: 0.6 } },
-          size: { value: { min: 1.5, max: 4 } },
-          links: {
-            enable: true,
-            color: linkColor(),
-            distance: 160,
-            opacity: 0.35,
-            width: 1,
-          },
-          move: {
-            enable: true,
-            speed: 0.8,
-            outModes: { default: "bounce" },
-          },
-        },
-        interactivity: {
-          events: {
-            onHover: { enable: true, mode: "grab" },
-            onClick: { enable: false },
-          },
-          modes: {
-            grab: { distance: 180, links: { opacity: 0.6 } },
-          },
-        },
-        detectRetina: true,
-      },
-    });
-  }
-
-  function reloadParticles() {
-    var container = tsParticles.domItem(0);
-    if (container) container.destroy();
-    initParticles();
-  }
-
   /* ── Charts ── */
   var chartInstances = [];
 
   var PALETTE_DARK = [
-    "#e8650a",   // orange (brand primary)
-    "#f59e0b",   // amber
-    "#d4a017",   // gold (certs)
-    "#c2410c",   // dark orange
-    "#ea580c",   // orange-red
-    "#b45309",   // brown-orange
-    "#f97316",   // light orange
-    "#dc2626"    // red accent
+    "oklch(65% 0.18 52)",
+    "oklch(72% 0.14 82)",
+    "oklch(72% 0.16 150)",
+    "oklch(72% 0.12 225)",
+    "oklch(70% 0.12 275)",
+    "oklch(68% 0.15 18)",
+    "oklch(73% 0.13 115)",
+    "oklch(70% 0.1 310)"
   ];
 
   var PALETTE_LIGHT = [
-    "#bf4a00",   // orange (brand primary, accessible)
-    "#d97706",   // amber (darkened)
-    "#b8860b",   // gold (certs)
-    "#9a3412",   // dark orange
-    "#c2410c",   // orange-red
-    "#92400e",   // brown-orange
-    "#ea580c",   // light orange
-    "#b91c1c"    // red accent
+    "oklch(52% 0.16 48)",
+    "oklch(51% 0.12 78)",
+    "oklch(43% 0.14 150)",
+    "oklch(42% 0.1 225)",
+    "oklch(46% 0.1 275)",
+    "oklch(48% 0.15 18)",
+    "oklch(46% 0.12 115)",
+    "oklch(46% 0.1 310)"
   ];
 
   function chartPalette() {
@@ -92,7 +34,14 @@
   }
 
   function chartTextColor() {
-    return getComputedStyle(document.documentElement).getPropertyValue("--text-secondary").trim() || (isDark() ? "#a0a0a0" : "#555555");
+    return getComputedStyle(document.documentElement).getPropertyValue("--text-secondary").trim() || (isDark() ? "oklch(70% 0.012 62)" : "oklch(43% 0.014 62)");
+  }
+
+  function withAlpha(color, alpha) {
+    if (color.indexOf("oklch(") === 0) {
+      return color.replace(")", " / " + alpha + ")");
+    }
+    return color;
   }
 
   function chartDefaults() {
@@ -118,7 +67,7 @@
 
     Chart.defaults.color = chartTextColor();
 
-    /* Specializations — horizontal bar */
+    /* Specializations: horizontal bar */
     var specLabels = Object.keys(data.specializations).slice(0, 8);
     var specValues = specLabels.map(function (k) { return data.specializations[k]; });
 
@@ -144,7 +93,7 @@
       },
     }));
 
-    /* Frameworks — doughnut */
+    /* Frameworks: doughnut */
     var fwLabels = Object.keys(data.frameworks).slice(0, 8);
     var fwValues = fwLabels.map(function (k) { return data.frameworks[k]; });
 
@@ -167,7 +116,7 @@
       },
     }));
 
-    /* Languages — horizontal bar */
+    /* Languages: horizontal bar */
     var langLabels = Object.keys(data.languages || {}).slice(0, 8);
     var langValues = langLabels.map(function (k) { return data.languages[k]; });
 
@@ -195,7 +144,7 @@
       }));
     }
 
-    /* Availability — polar area */
+    /* Availability: polar area */
     var availLabels = Object.keys(data.available_for);
     var availValues = availLabels.map(function (k) { return data.available_for[k]; });
 
@@ -205,7 +154,7 @@
         labels: availLabels,
         datasets: [{
           data: availValues,
-          backgroundColor: chartPalette().slice(0, availLabels.length).map(function (c) { return c + "cc"; }),
+          backgroundColor: chartPalette().slice(0, availLabels.length).map(function (c) { return withAlpha(c, 0.82); }),
           borderWidth: 0,
         }],
       },
@@ -216,7 +165,7 @@
           legend: { position: "right", labels: { color: chartTextColor(), font: { size: 10 }, boxWidth: 12 } },
         },
         scales: {
-          r: { ticks: { display: false }, grid: { color: isDark() ? "rgba(255,255,255,0.08)" : "rgba(0,0,0,0.08)" } },
+          r: { ticks: { display: false }, grid: { color: isDark() ? "oklch(98% 0.006 62 / 0.08)" : "oklch(20% 0.006 62 / 0.08)" } },
         },
       },
     }));
@@ -237,7 +186,7 @@
           }
         });
         if (c.options.scales.r && c.options.scales.r.grid) {
-          c.options.scales.r.grid.color = isDark() ? "rgba(255,255,255,0.08)" : "rgba(0,0,0,0.08)";
+          c.options.scales.r.grid.color = isDark() ? "oklch(98% 0.006 62 / 0.08)" : "oklch(20% 0.006 62 / 0.08)";
         }
       }
       /* Update segment colors to match theme */
@@ -245,7 +194,7 @@
         if (Array.isArray(ds.backgroundColor)) {
           var isPolar = c.config.type === "polarArea";
           ds.backgroundColor = palette.slice(0, ds.data.length).map(function (clr) {
-            return isPolar ? clr + "cc" : clr;
+            return isPolar ? withAlpha(clr, 0.82) : clr;
           });
         }
       });
@@ -257,9 +206,6 @@
   var observer = new MutationObserver(function (mutations) {
     mutations.forEach(function (m) {
       if (m.attributeName === "data-theme") {
-        if (!reducedMotion && !lowEnd && typeof tsParticles !== "undefined") {
-          reloadParticles();
-        }
         if (chartInstances.length) {
           Chart.defaults.color = chartTextColor();
           updateChartColors();
@@ -288,7 +234,6 @@
 
   /* ── Init ── */
   function init() {
-    initParticles();
     observeCharts();
   }
 
