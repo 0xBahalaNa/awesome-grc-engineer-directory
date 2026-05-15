@@ -31,16 +31,16 @@ languages:
   - "JavaScript"
   - "Rust"
 compensation: "$148,000 - $175,000"
-summary: "The Role: The Governance Risk and Compliance Engineer role will be a core member of Ro&rsquo;s GRC team. This is a remote, Individual Contributor role. The GRC team enables Ro to..."
+summary: "The Role The Governance Risk and Compliance Engineer role will be a core, individual contributor member of Ro&rsquo;s GRC team. The GRC team enables Ro to manage risk by..."
 ---
 
-The Role:
+### The Role
 
-The Governance Risk and Compliance Engineer role will be a core member of Ro&rsquo;s GRC team. This is a remote, Individual Contributor role. The GRC team enables Ro to manage risk by vigorously assessing our operations against leading compliance frameworks and standing legislation. This individual contributor role will be a key player in both leading our audit readiness program while driving continuous compliance using leading AI and automation platforms..
+The Governance Risk and Compliance Engineer role will be a core, individual contributor member of Ro&rsquo;s GRC team.
 
-Ro is a direct-to-patient healthcare company with a mission of helping patients achieve their health goals by delivering the easiest, most effective care possible. Ro is the only company to offer nationwide telehealth, labs, and pharmacy services. This is enabled by Ro's vertically integrated platform that helps patients achieve their goals through a convenient, end-to-end healthcare experience spanning from diagnosis, to delivery of medication, to ongoing care. Since 2017, Ro has helped millions of patients in nearly every single county in the United States, including 99% of primary care deserts.
+The GRC team enables Ro to manage risk by vigorously assessing our operations against leading compliance frameworks and standing legislation. This individual contributor role will be a key player in both leading our audit readiness program while driving continuous compliance using leading AI and automation platforms.
 
-Ro is consistently recognized as a top workplace in Health Care, in New York, and for Women and Parents&mdash;earning more than 20 honors from Fortune, Great Place to Work, and PEOPLE since 2021. In 2025 alone, we ranked top 5 among medium workplaces in Health Care and New York, and top 50 nationwide.
+Join Tech @ Ro to build the future of healthcare, from the ground up! At Ro, we believe that when people achieve their health goals, they can achieve their life goals. The highest-leverage way to move society forward is to give people their health, and the current healthcare system isn&rsquo;t built to do that. It was built to bill, not to serve patients. We&rsquo;re building a new system. One where the patient is in control. One designed from scratch for the digital age. At Ro, technology isn&rsquo;t just a function&hellip; It's core to how we deliver care . We&rsquo;ve built a vertically integrated healthcare platform that connects telehealth, diagnostics, pharmacy, and logistics into a seamless, end-to-end experience for millions of patients. &hellip;and we&rsquo;re just getting started. As part of Tech @ Ro, you&rsquo;ll work on systems that operate at scale, with an opportunity to: - Solve complex, high-concurrency problems across a full-stack platform - Build and ship quickly with tight feedback loops and real-world impact - Own systems end-to-end, from architecture to production performance - Work alongside experienced operators, technical leaders, and clinicians - Help define how modern healthcare should be delivered We&rsquo;re a performance-driven team with a strong sense of ownership and urgency. We move fast, learn quickly, and hold a high bar for what we build, and do so with a big heart &mdash; because patients depend on it. If you&rsquo;re motivated by impact, scale, and the chance to help lead the patient revolution, come build with us.
 
 ### What You’ll Do:
 
@@ -104,10 +104,10 @@ Ro is consistently recognized as a top workplace in Health Care, in New York, an
 
 The target base salary for this position ranges from $148,000 to $175,000, in addition to a competitive equity and benefits package (as applicable). When determining compensation, we analyze and carefully consider several factors, including location, job-related knowledge, skills and experience. These considerations may cause your compensation to vary.
 
-Ro recognizes the power of in-person collaboration, while supporting the flexibility to work anywhere in the United States. For our Ro’ers in the tri-state (NY) area, you will join us at HQ on Tuesdays and Thursdays. For those outside of the tri-state area, you will be able to join in-person collaborations throughout the year (i.e., during team on-sites).
+Ro is consistently recognized as a top workplace in Health Care, in New York, and for Women and Parents—earning more than 20 honors from Fortune, Great Place to Work, and PEOPLE since 2021. In 2025 alone, we ranked top 5 among medium workplaces in Health Care and New York, and top 50 nationwide.
 
 At Ro, we believe that our diverse perspectives are our biggest strengths — and that embracing them will create real change in healthcare. As an equal opportunity employer, we provide equal opportunity in all aspects of employment, including recruiting, hiring, compensation, training and promotion, termination, and any other terms and conditions of employment without regard to race, ethnicity, color, religion, sex, sexual orientation, gender identity, gender expression, familial status, age, disability and/or any other legally protected classification protected by federal, state, or local law.
 
 Ro is committed to providing reasonable accommodations for qualified individuals with disabilities in our application and interview process. If you require a reasonable accommodation in the application or interview process, please contact us at talent@ro.co.
 
-See our California Privacy Policy here (https://ro.co/job-applicant-privacy-policy/) .
+See our California Privacy Policy here (https://ro.co/job-applicant-privacy-policy/).
