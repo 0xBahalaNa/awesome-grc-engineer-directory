@@ -33,7 +33,7 @@ summary: "The Mill Adventure is a scale-up with the ultimate mission of building
 
 The Mill Adventure is a scale-up with the ultimate mission of building awesome products that will change the way the iGaming industry operates. We started our journey in 2019, with the vision of building a technology driven organisation and creating a team consisting of the best of the best specialists in their respective fields.
 
-Today, we provide a complete gaming platform, including licences and operations, for rapid deployment and success in iGaming. Our team of 130+ technology and iGaming experts is guided by passion for invention, operational excellence and commitment to improve the inefficient.
+Today, we provide a complete gaming platform, including licences and operations, for rapid deployment and success in iGaming. Our team of 100+ technology and iGaming experts is guided by passion for invention, operational excellence and commitment to improve the inefficient.
 
 We trust and value our team and we strive to accommodate the right working conditions for each individual, in remote, office based or mixed models. We see the strength in being different and embrace the cultural diversity existing in our group.
 
