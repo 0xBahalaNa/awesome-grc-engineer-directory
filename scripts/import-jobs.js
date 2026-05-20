@@ -53,7 +53,8 @@ const SPECIALIZATION_RULES = [
   ["Vulnerability Management", ["vulnerability", "patch management", "exposure management"]],
   ["AI Governance", ["ai governance", "model governance", "responsible ai"]],
   ["Cloud Governance", ["cloud governance", "cloud controls"]],
-  ["DevSecOps", ["devsecops", "cicd security", "pipeline security"]]
+  ["DevSecOps", ["devsecops", "cicd security", "pipeline security"]],
+  ["Forward Deployed Engineering", ["forward deployed", "embedded engineer", "deployment engineer"]]
 ];
 
 function envFlag(name, defaultValue) {
@@ -270,7 +271,9 @@ function looksRelevant(title, text) {
     "fedramp cloud security",
     "rmf cybersecurity analyst",
     "controls monitoring analyst",
-    "it governance analyst"
+    "it governance analyst",
+    "forward deployed engineer",
+    "forward deployed"
   ];
   const adjacentSecuritySignals = [
     "security risk",
@@ -287,7 +290,8 @@ function looksRelevant(title, text) {
     "it risk",
     "privacy compliance",
     "privacy engineering",
-    "fedramp program"
+    "fedramp program",
+    "forward deployed"
   ];
   const grcContextTerms = [
     "grc", "governance", "risk", "compliance", "control",
@@ -304,7 +308,8 @@ function looksRelevant(title, text) {
     "hipaa", "gdpr", "ccpa", "continuous compliance",
     "automation", "control automation", "compliance as code",
     "drata", "vanta", "viso trust", "oscal", "python",
-    "powershell", "snowflake", "databricks", "api"
+    "powershell", "snowflake", "databricks", "api",
+    "forward deployed"
   ];
   const frameworkTerms = [
     "fedramp", "soc 2", "soc2", "iso 27001", "iso27001",
@@ -362,7 +367,8 @@ function titleMayBeRelevant(title) {
     "security trust", "security controls", "technology risk",
     "it risk", "privacy compliance", "privacy engineering",
     "assessor", "cmmc", "audit", "vendor risk", "third-party risk",
-    "security assurance", "nist", "soc 2", "soc2", "iso 27001", "hipaa"
+    "security assurance", "nist", "soc 2", "soc2", "iso 27001", "hipaa",
+    "forward deployed", "forward deployed engineer"
   ];
   return includesAny(t, signals);
 }
