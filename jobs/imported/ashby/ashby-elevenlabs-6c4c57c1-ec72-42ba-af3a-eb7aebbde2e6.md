@@ -1,31 +1,27 @@
 ---
-title: "Compliance Engineer - North America"
+title: "Forward Deployed Engineer - Software Engineer"
 company: "Elevenlabs"
-slug: "ashby-elevenlabs-f80d0420-b6e6-4110-940c-293f64b9761e"
+slug: "ashby-elevenlabs-6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6"
 status: "published"
 source: "Ashby"
 sources:
   - "Ashby"
 source_url: "https://api.ashbyhq.com/posting-api/job-board/elevenlabs?includeCompensation=true"
-role_url: "https://jobs.ashbyhq.com/elevenlabs/f80d0420-b6e6-4110-940c-293f64b9761e"
-apply_url: "https://jobs.ashbyhq.com/elevenlabs/f80d0420-b6e6-4110-940c-293f64b9761e/application"
+role_url: "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6"
+apply_url: "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6/application"
 posted_date: "2026-05-21"
 expires_date: "2026-06-20"
-location: "New York"
+location: "San Francisco"
 work_modes:
   - "Remote"
 job_types:
   - "Full-time"
 specializations:
-  - "Compliance Automation"
-  - "Risk Management"
-  - "Audit & Assurance"
-  - "Cloud Security"
-frameworks:
-  - "FedRAMP"
-  - "CMMC"
-  - "CJIS"
-languages: []
+  - "Security Operations"
+  - "Forward Deployed Engineering"
+frameworks: []
+languages:
+  - "Python"
 compensation: ""
 summary: "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice..."
 ---
@@ -59,24 +55,24 @@ Everything we do is the result of the creativity and commitment of our team - bu
 - Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy.
 - Co-working : If you’re not located near one of our main hubs, we offer a monthly co-working stipend.
 
-## About the Role
+This role is remote, so it can be executed globally.
 
-- Collaborating across teams to maintain US Government compliance certifications and frameworks such as GovRAMP, FedRAMP, CJIS and CMMC.
-- Helping to shape ElevenLabs’ Enterprise offering towards regulated industries such as Local and State Government, Defense and Finance.
-- Building technical documentation to demonstrate our compliance to our customers throughout the stack.
-- Assisting the sales team by responding to client security requests and managing compliance-related queries.
-- Conduct risk assessments based on CIS or NIST frameworks, document findings, and help teams achieve compliance efficiently.
-- Enhance compliance as code tooling to automate monitoring, reporting, and reduce friction for other teams to remain compliant.
+## About the role
+
+You’ll use your creativity, problem-solving, and technical expertise to design tailored solutions that make a real impact.
+
+Embedded with our most strategic customers, you’ll get a front-row seat to some of our highest-stakes projects. From brainstorming technical architectures and product features to building full-scale integrations, you’ll take full ownership of complex, high-impact challenges—helping clients achieve their goals and push the limits of what’s possible.
+
+What you will do:
+
+- Take full ownership of end-to-end execution of major projects for our most strategic partners, working hands-on to deliver high-impact solutions.
+- Collaborate daily with our customer’s engineers and executives teams to ensure the best use of ElevenLabs’ technologies.
+- Drive real innovation by using your coding and technical skills to solve complex problems, making a real difference for our customers.
 
 ## Requirements
 
-- Experience in completing vendor security assessments and client security questionnaires in highly regulated industries, such as Government and Defense in the US.
-- Strong technical expertise in managing and executing compliance, with hands-on experience using compliance management tools (e.g. Vanta).
-- Proven ability to maintain and acquire certifications while managing audit readiness and documentation.
-- Experience collaborating with cross-functional teams (sales, engineering, legal) to effectively communicate compliance requirements and ensure smooth operations.
-- Experience with public cloud compliance (AWS, GCP, Azure) and automating compliance in cloud environments.
-- Familiarity with integrating compliance tools into CI/CD pipelines to automate monitoring and reporting.
+- Experience working with customers. It’s ok if you only worked with customers in student clubs or side projects, as long as you are interested in working closely with them on a technical capacity
+- Proficiency in Python and strong software development knowledge, inclusive of a deep understanding of software development, software architecture, and APIs integration.
+- Excellent communication and problem-solving skills. Especially in terms of ability to summarize complex technical knowledge and using logic in pursuing optimal solutions.
 
-## Location
-
-This role is remote-first, so it can be executed from the United States, with the ability to operate in Eastern (ET) timezones required. If you prefer, you can work from our offices in New York.
+#LI-remote
