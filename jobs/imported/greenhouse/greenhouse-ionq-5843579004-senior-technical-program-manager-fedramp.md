@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/ionq/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/ionq/jobs/5843579004"
 apply_url: "https://job-boards.greenhouse.io/ionq/jobs/5843579004"
-posted_date: "2026-05-18"
-expires_date: "2026-06-17"
+posted_date: "2026-05-23"
+expires_date: "2026-06-22"
 location: "Bothell, Washington, United States; College Park, Maryland, United States; Remote, US"
 work_modes:
   - "Remote"
