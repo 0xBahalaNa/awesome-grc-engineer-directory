@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/spycloud/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/spycloud/jobs/7737899003"
 apply_url: "https://job-boards.greenhouse.io/spycloud/jobs/7737899003"
-posted_date: "2026-05-19"
-expires_date: "2026-06-18"
+posted_date: "2026-05-26"
+expires_date: "2026-06-25"
 location: "Austin, Texas | Remote"
 work_modes:
   - "Remote"

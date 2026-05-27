@@ -25,10 +25,10 @@ frameworks: []
 languages:
   - "Python"
 compensation: ""
-summary: "We are a leading trading platform that is ambitiously expanding to the four corners of the globe. Our top-rated products have won prestigious industry awards for their..."
+summary: "Compliance doesn't scale on spreadsheets and manual reviews. As our Compliance Automation & AI Analyst, you'll identify where AI and automation can do the heavy lifting &mdash;..."
 ---
 
-We are a leading trading platform that is ambitiously expanding to the four corners of the globe. Our top-rated products have won prestigious industry awards for their cutting-edge technology and seamless client experience. We deliver only the best, so we are always in search of the best people to join our ever-growing talented team.
+Compliance doesn't scale on spreadsheets and manual reviews. As our Compliance Automation & AI Analyst, you'll identify where AI and automation can do the heavy lifting &mdash; then build it. This is a hands-on role for someone who understands both the regulatory environment and the tools required to work smarter within it.
 
 We are a leading trading platform that is ambitiously expanding to the four corners of the globe. Our top-rated products have won prestigious industry awards for their cutting-edge technology and seamless client experience. We deliver only the best, so we are always in search of the best people to join our ever-growing talented team.
 
