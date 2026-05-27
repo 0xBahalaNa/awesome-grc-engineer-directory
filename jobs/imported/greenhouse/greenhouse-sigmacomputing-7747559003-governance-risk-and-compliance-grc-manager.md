@@ -107,24 +107,24 @@ summary: "Governance, Risk & Compliance (GRC) Manager Sigma is seeking an experi
 <p>This is an opportunity to build a world-class GRC program that doesn't just check boxes but genuinely enables the business to pursue opportunities with confidence. You'll work across the entire organization, have direct access to the General Counsel, and make a tangible impact on how Sigma manages risk and creates value for customers.<br><br></p>
 <p class="p1"><strong>Additional Job details</strong></p>
 <p class="p1">The base salary range for this position is $190k - $215k annually.</p>
-<p class="p1">Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work at Sigma Computing. This role is eligible for stock options, as well as a comprehensive benefits package.</p><div class="content-conclusion"><h4><strong>About us:</strong></h4>
-<p>Sigma is the AI apps and analytics platform connected to the cloud data warehouse. Using Sigma, business and technical teams can build intelligent, production-ready AI apps that accelerate and automate operational workflows. Sigma provides a spreadsheet interface, SQL and Python editors, visual builders, and native AI to help teams turn live data into interactive applications, analysis, reports, and embedded experiences.</p>
-<p>Sigma announced its $200M in Series D financing in May 2024, to continue transforming BI through its innovations in AI infrastructure, data application development, enterprise-wide collaboration, and business user adoption. Spark Capital and Avenir Growth Capital co-led the Series D funding round, with additional participation from a group of past investors including Snowflake Ventures and Sutter Hill Ventures.The Series D funding, raised at a valuation 60% higher than the company’s Series C round three years ago, promises to further accelerate Sigma’s growth.&nbsp;&nbsp;&nbsp;</p>
-<p class="p1">Come join us!</p>
-<h4><strong>Benefits For Our Full-Time Employees:</strong></h4>
+<p class="p1">Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work at Sigma Computing. This role is eligible for stock options, as well as a comprehensive benefits package.</p><div class="content-conclusion"><p><strong>About us:&nbsp;</strong></p>
+<p>Sigma is the AI Apps and agentic analytics platform built on the cloud data warehouse. Business and technical teams use Sigma to explore live data, build intelligent applications, and automate critical workflows all without moving data or breaking governance. Sigma supports a spreadsheet interface, SQL, Python, and native AI in a single governed workspace, giving every team the speed to act and IT the control to scale. Sigma is trusted by more than 2,000 customers, including AMD, Duolingo, Colgate-Palmolive, and JPMorgan Chase.&nbsp;</p>
+<p>Sigma announced its $80M in Series E financing in May 2026. The round was led by Princeville Capital, with new strategic investors Databricks Ventures, ServiceNow Ventures, and Workday Ventures participating alongside returning investors Altimeter Capital, Avenir Growth Capital, D1 Capital Partners, K5 Global, NewView Capital, Spark Capital, Sutter Hill Ventures, and XN. This milestone follows Sigma reaching $200M in annual recurring revenue in April 2026, with more than 100% year-over-year growth and 1.1 million new active users added in the latest fiscal year.</p>
+<p>Come join us!</p>
+<h4>Benefits For Our Full-Time Employees:</h4>
 <ul>
-<li><span style="font-weight: 400;">Equity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Generous health benefits</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Flexible time off policy. Take the time off you need!</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Paid bonding time for all new parents</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Traditional and Roth 401k</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Commuter and FSA benefits</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Lunch Program</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Dog friendly office</span></li>
+<li>Equity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+<li>Generous health benefits</li>
+<li>Flexible time off policy. Take the time off you need!</li>
+<li>Paid bonding time for all new parents</li>
+<li>Traditional and Roth 401k</li>
+<li>Commuter and FSA benefits</li>
+<li>Lunch Program</li>
+<li>Dog friendly office</li>
 </ul>
-<p><span style="font-weight: 400;">Sigma Computing is an equal opportunity employer.&nbsp;</span><span style="font-weight: 400;">We are committed to building a smart and strong team regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We look forward to learning how your experience can enable all of us to grow<em>.</em></span></p>
-<p><span style="font-weight: 400;"><em>Note: We have an in-office work environment in all our offices in SF, NYC, and London.</em></span></p>
-<p><strong>Our Privacy Practices </strong></p>
-<p>When you submit a job application on this site, Sigma processes your personal data for the purposes of evaluating your candidacy for employment at Sigma and as otherwise needed throughout the recruitment and hiring process. Please review Sigma’s <a href="https://www.sigmacomputing.com/legal/candidate-privacy-notice">Candidate Privacy Notice</a> for more details. Please note that your personal data may be transferred to a country other than the one in which it was provided (including to USA, the UK, and Canada).&nbsp;</p>
-<p><strong>Sigma’s use of AI </strong></p>
+<p>Sigma is an equal opportunity employer. We are committed to building a smart and strong team regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, veteran, or any other protected status. We look forward to learning how your experience can enable all of us to grow.</p>
+<p><em><strong>Note: </strong>We have an in-office work environment in all our offices in SF, NYC, London and Sydney.</em></p>
+<p><strong>Our Privacy Practices</strong></p>
+<p>When you submit a job application on this site, Sigma processes your personal data for the purposes of evaluating your candidacy for employment at Sigma and as otherwise needed throughout the recruitment and hiring process. Please review Sigma’s <a href="https://www.sigmacomputing.com/legal/candidate-privacy-notice">Candidate Privacy Notice</a> for more details. Please note that your personal data may be transferred to a country other than the one in which it was provided (including to the USA, the UK, and Canada, Australia).&nbsp;</p>
+<p><strong>Sigma’s use of AI</strong></p>
 <p>This hiring process utilizes artificial intelligence tools to assist in candidate screening and assessment. Our AI tools are designed to complement, not replace, human decision-making.&nbsp;</p></div>

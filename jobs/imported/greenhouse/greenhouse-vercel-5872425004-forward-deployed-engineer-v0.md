@@ -32,11 +32,8 @@ summary: "About Vercel: Vercel is the agentic infrastructure company. We free pe
 
 <div class="content-intro"><h2>About Vercel:</h2>
 <p><span data-sheets-root="1">Vercel is the agentic infrastructure company. We free people and agents to ship what’s next.</span></p>
-<p>&nbsp;</p>
 <p><span data-sheets-root="1">For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional developer experience.</span></p>
-<p>&nbsp;</p>
 <p><span data-sheets-root="1">Now, software is entering a new era, and the next generation of products will not just be used by people. They will be built, extended, and operated by agents.</span></p>
-<p>&nbsp;</p>
 <p><span data-sheets-root="1">We are building the platform for that future, trusted by companies like&nbsp;<strong>OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide</strong>. Whether you’re building our products, supporting our customers, growing our community, or shaping our story, you’ll help define what comes next.</span></p></div><h2><strong>What You Will Do</strong></h2>
 <ul>
 <li>Own end-to-end implementations with enterprise customers, from kickoff through production, working through whatever obstacles come up along the way.</li>
