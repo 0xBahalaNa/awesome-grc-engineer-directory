@@ -41,4 +41,4 @@ Cye is seeking a Cybersecurity Architect (GRC & Risk) to join our cybersecurity 
 
 About us
 
-CYE’s SaaS platform and experts enable security leaders to execute optimized security programs with significant business impact. CYE serves large companies in multiple industries around the world. With offices in Israel, New York, and London, CYE is funded by EQT Private Equity and 83North.
+Cye helps security and risk leaders gain a clear, defensible view of their cyber exposure, grounded in financial impact and real-world attack paths. By continuously quantifying exposure and validating it in context, organizations can establish a strong baseline, prioritize decisions with confidence, and track measurable reduction over time.
