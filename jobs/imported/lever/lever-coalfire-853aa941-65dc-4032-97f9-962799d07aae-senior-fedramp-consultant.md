@@ -13,7 +13,7 @@ posted_date: "2026-05-12"
 expires_date: "2026-06-11"
 location: "United States"
 work_modes:
-  - "Hybrid / On-site"
+  - "Remote"
 job_types:
   - "Full-time"
 specializations:

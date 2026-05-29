@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/1password?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/1password/739b8cc9-6c96-4afb-825e-1bf5aa5e1f00"
 apply_url: "https://jobs.ashbyhq.com/1password/739b8cc9-6c96-4afb-825e-1bf5aa5e1f00/application"
-posted_date: "2026-05-28"
-expires_date: "2026-06-27"
+posted_date: "2026-05-29"
+expires_date: "2026-06-28"
 location: "Remote (United States | Canada)"
 work_modes:
   - "Remote"
@@ -46,7 +46,9 @@ Trust is earned — and we’re building the systems to earn it at scale. 1Passw
 
 You’ll partner directly with the Senior Manager of GRC to build automation that scales our security and privacy commitments — from audit readiness and policy enforcement to customer trust workflows. A key focus for this role will be operationalizing and expanding our GRC platform (Drata), building AI-assisted workflows that automate evidence collection, control monitoring, and vendor risk — and owning the delivery of those projects from scoping through go-live.
 
-This is a hands-on technical role for someone who’s passionate about making GRC repeatable, visible, and built into how the company works. It sits at the intersection of security engineering, compliance, and platform operations — ideal for someone with a solutions engineering, DevSecOps, or GRC practitioner background who thrives in high-context, high-impact environments. You won't just build things — you'll also be in the room with auditors, owning the technical narrative for what you've built and why.
+This is a hands-on technical role for someone who’s passionate about making GRC repeatable, visible, and built into how the company works. It sits at the intersection of security engineering, compliance, and platform operations — ideal for someone with a solutions engineering, DevSecOps, or GRC practitioner background who thrives in high-context, high-impact environments. You won't just build things — you'll also be in the room with auditors, owning the technical narrative for what you've built and why. How we’re using AI today
+
+Our Engineering, Product, and Design teams are thoughtfully integrating AI across the full software and product development lifecycle to move faster without sacrificing quality or security. In practice, that looks like engineers using AI-assisted coding tools to accelerate reviews and catch bugs earlier, product managers synthesizing user research at scale, and designers rapidly prototyping and iterating with AI-generated mockups. We approach AI the same way we approach security: with clear principles, human accountability at every consequential decision point, and rigorous evaluation before anything ships to customers.
 
 This is a remote opportunity within the US or Canada.
 
