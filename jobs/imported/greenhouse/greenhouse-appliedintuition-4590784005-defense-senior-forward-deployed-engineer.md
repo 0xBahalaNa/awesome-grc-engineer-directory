@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs?content=true"
 role_url: "https://boards.greenhouse.io/appliedintuition/jobs/4590784005?gh_jid=4590784005"
 apply_url: "https://boards.greenhouse.io/appliedintuition/jobs/4590784005?gh_jid=4590784005"
-posted_date: "2026-05-25"
-expires_date: "2026-06-24"
+posted_date: "2026-05-28"
+expires_date: "2026-06-27"
 location: "Washington, District of Columbia, United States"
 work_modes:
   - "Remote"

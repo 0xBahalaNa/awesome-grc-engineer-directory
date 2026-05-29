@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs?content=true"
 role_url: "https://boards.greenhouse.io/appliedintuition/jobs/4694910005?gh_jid=4694910005"
 apply_url: "https://boards.greenhouse.io/appliedintuition/jobs/4694910005?gh_jid=4694910005"
-posted_date: "2026-05-15"
-expires_date: "2026-06-14"
+posted_date: "2026-05-28"
+expires_date: "2026-06-27"
 location: "München, Bavaria, Germany"
 work_modes:
   - "Remote"
