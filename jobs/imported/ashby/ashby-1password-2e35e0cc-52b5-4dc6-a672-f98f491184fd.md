@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/1password?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/1password/2e35e0cc-52b5-4dc6-a672-f98f491184fd"
 apply_url: "https://jobs.ashbyhq.com/1password/2e35e0cc-52b5-4dc6-a672-f98f491184fd/application"
-posted_date: "2026-05-31"
-expires_date: "2026-06-30"
+posted_date: "2026-06-01"
+expires_date: "2026-07-01"
 location: "Remote (United States | Canada)"
 work_modes:
   - "Remote"
@@ -45,6 +45,8 @@ You'll partner directly with the Senior Manager of GRC to lead our commercial au
 
 This is a controls expert role for someone with deep audit experience — ideally from the auditor's side of the table — who also brings a builder's instinct for making GRC more repeatable and scalable. You won't just coordinate evidence; you'll know exactly why each artifact satisfies a control requirement, and you'll be able to explain that to a skeptical Big 4 auditor and a first-time control owner in the same day.
 
+How we’re using AI today Our Engineering, Product, and Design teams are thoughtfully integrating AI across the full software and product development lifecycle to move faster without sacrificing quality or security. In practice, that looks like engineers using AI-assisted coding tools to accelerate reviews and catch bugs earlier, product managers synthesizing user research at scale, and designers rapidly prototyping and iterating with AI-generated mockups. We approach AI the same way we approach security: with clear principles, human accountability at every consequential decision point, and rigorous evaluation before anything ships to customers.
+
 This is a remote opportunity within Canada and the US.
 
 What we're looking for:
@@ -67,15 +69,6 @@ Bonus points for:
 - Familiarity with EU AI Act, NIST AI RMF, or AI governance frameworks — increasingly relevant as 1Password governs access for AI agents alongside human users.
 - Experience with vendor risk assessments — reviewing SOC 2 reports, evaluating third-party compliance documentation, and advising on vendor risk posture.
 
-At 1Password, we build with AI:
-
-At 1Password, using AI to do more with less isn't a bonus — it's how we operate. For this role, building with AI is secondary to controls expertise — but it's still a real expectation. We're looking for someone who actively uses AI to accelerate their audit and compliance work and can identify where automation creates leverage for the team.
-
-- Active and thoughtful AI user: You've used AI tools — not just ChatGPT for writing — to meaningfully speed up audit prep: control narrative drafting, framework cross-mapping, evidence gap identification. You can walk through what you applied, what it produced, and how you validated the output before relying on it.
-- Automation spotter: You identify manual, repetitive GRC processes that can be AI-assisted or automated and bring specific proposals to the team. You don't need to build everything yourself — but you need to see the opportunity and articulate it clearly.
-- AI literacy in a compliance context: You understand the accuracy tradeoffs — when AI-generated control narratives need careful human validation, where framework mapping output requires scrutiny, and why non-determinism is a meaningful risk in audit-facing work.
-- Curiosity and self-direction: You actively track what's happening in AI-assisted compliance tooling, have experimented with more than one approach, and can compare tools with informed opinions rather than general awareness.
-
 What you can expect:
 
 - Own and lead technical audit walkthroughs across SOC 2 Type II, ISO 27001/27017/27018, and ISO 27701 programs — preparing control owners, surfacing the right evidence, and serving as the primary technical liaison with external auditors.
@@ -86,6 +79,15 @@ What you can expect:
 - Contribute to policy, standards, and baseline development with an eye toward auditability and testability — requirements that control owners can implement and auditors can test.
 - Apply AI tools to accelerate control narrative drafting, framework cross-mapping, and audit prep — with clear discipline around validation and when human judgment is required.
 - Mentor A–B level GRC team members on audit methodology, control design, and evidence quality standards.
+
+At 1Password, we build with AI:
+
+At 1Password, using AI to do more with less isn't a bonus — it's how we operate. For this role, building with AI is secondary to controls expertise — but it's still a real expectation. We're looking for someone who actively uses AI to accelerate their audit and compliance work and can identify where automation creates leverage for the team.
+
+- Active and thoughtful AI user: You've used AI tools — not just ChatGPT for writing — to meaningfully speed up audit prep: control narrative drafting, framework cross-mapping, evidence gap identification. You can walk through what you applied, what it produced, and how you validated the output before relying on it.
+- Automation spotter: You identify manual, repetitive GRC processes that can be AI-assisted or automated and bring specific proposals to the team. You don't need to build everything yourself — but you need to see the opportunity and articulate it clearly.
+- AI literacy in a compliance context: You understand the accuracy tradeoffs — when AI-generated control narratives need careful human validation, where framework mapping output requires scrutiny, and why non-determinism is a meaningful risk in audit-facing work.
+- Curiosity and self-direction: You actively track what's happening in AI-assisted compliance tooling, have experimented with more than one approach, and can compare tools with informed opinions rather than general awareness.
 
 USA-based roles only: The annual base salary for this role is between $153,000 USD and $214,000 USD, plus immediate participation in 1Password's benefits program (health, dental, 401k and many others), utilization of our generous paid time off, an equity grant and, where applicable, participation in our incentive programs.
 

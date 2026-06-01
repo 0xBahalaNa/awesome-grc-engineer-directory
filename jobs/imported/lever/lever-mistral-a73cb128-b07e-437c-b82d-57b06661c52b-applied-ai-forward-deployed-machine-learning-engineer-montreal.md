@@ -64,7 +64,7 @@ What you will do
 
 About you
 
-&bull; You are fluent in English
+&bull; You are fluent in English and French.
 
 &bull; You hold a PhD / master in AI / data science.
 
