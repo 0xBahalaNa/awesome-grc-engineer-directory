@@ -1,7 +1,7 @@
 ---
-title: "Copy of GRC Reporting and Metrics Specialist "
+title: "GRC Reporting and Metrics Specialist "
 company: "Saliense Consulting LLC"
-slug: "rippling-saliense-093ebd61-aac2-4ad6-a6f8-b8883d8ab3eb-copy-of-grc-reporting-and-metrics-specialist"
+slug: "rippling-saliense-093ebd61-aac2-4ad6-a6f8-b8883d8ab3eb-grc-reporting-and-metrics-specialist"
 status: "published"
 source: "Rippling"
 sources:
