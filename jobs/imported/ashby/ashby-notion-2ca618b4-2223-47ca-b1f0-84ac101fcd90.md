@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/Notion?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/Notion/2ca618b4-2223-47ca-b1f0-84ac101fcd90"
 apply_url: "https://jobs.ashbyhq.com/Notion/2ca618b4-2223-47ca-b1f0-84ac101fcd90/application"
-posted_date: "2026-06-01"
-expires_date: "2026-07-01"
+posted_date: "2026-06-02"
+expires_date: "2026-07-02"
 location: "Paris, France"
 work_modes:
   - "Hybrid / On-site"
@@ -74,6 +74,8 @@ Your work as a customer-facing engineer will help shape best practices for how w
 - Strong history of collaboration with product and engineering teams, including influencing roadmaps or architectural decisions.
 - Experience supporting pre-sales or early engagement phases, including technical discovery, migration scoping, feasibility analysis, effort estimation, and building prototypes or custom scripts to validate approaches.
 - Strong track record of successful enterprise customer implementations.
+
+Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role's scope and complexity, and the candidate's experience and expertise, and may vary from the range provided below. The estimated range for total on target earnings (including base salary and on target incentive pay) for this role is €123,000 - €166,000per year.
 
 By clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s Global Recruiting Privacy Policy (https://notion.notion.site/Notion-Global-Recruiting-Privacy-Policy-fc3eb4e829354a26a2bb6fd5e289b550). (https://dev.notion.so/a3ce416456924276a59de91bca740028?pvs=21)#LI-Onsite
 

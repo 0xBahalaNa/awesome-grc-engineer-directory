@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/ramp?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f"
 apply_url: "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f/application"
-posted_date: "2026-06-01"
-expires_date: "2026-07-01"
+posted_date: "2026-06-02"
+expires_date: "2026-07-02"
 location: "San Francisco, CA"
 work_modes:
   - "Hybrid / On-site"
@@ -58,7 +58,7 @@ As an AI Forward Deployed Engineer, you will build internal and external agents 
 - Comfort and excitement to be customer-facing
 - Desire to work in a fast-paced environment, continuously grow, and master your craft
 
-## Benefits available to all full-time Ramp employees (Global)
+# Benefits available to all full-time Ramp employees (Global)
 
 • Flexible PTO
 
@@ -82,7 +82,7 @@ As an AI Forward Deployed Engineer, you will build internal and external agents 
 
 • Fertility HRA (up to $10,000 per year)
 
-• Parental leave: up to 16 weeks (80 days) at 100% pay
+• Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay
 
 • Pet insurance
 
@@ -100,7 +100,7 @@ As an AI Forward Deployed Engineer, you will build internal and external agents 
 
 • Group Retirement Plan with employer match (RRSP + DPSP)
 
-• Parental leave: up to 16 weeks (80 days) at 100% pay, with additional time available at reduced pay
+• Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay, with additional time available at reduced pay
 
 • Employee Assistance Program and virtual care through Lumino Health
 
@@ -112,7 +112,7 @@ As an AI Forward Deployed Engineer, you will build internal and external agents 
 
 • Workplace pension through Penfold, with salary sacrifice option
 
-• Parental leave: up to 16 weeks (80 days) at 100% pay, with additional time available at reduced pay
+• Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay with additional time available at reduced pay
 
 ## Referral Instructions
 
