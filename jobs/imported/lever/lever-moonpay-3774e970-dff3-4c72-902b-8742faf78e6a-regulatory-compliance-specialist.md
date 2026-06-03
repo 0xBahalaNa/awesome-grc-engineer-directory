@@ -24,11 +24,9 @@ specializations:
 frameworks: []
 languages:
   - "Rust"
-compensation: ""
-summary: "About the Opportunity MoonPay is looking for a Regulatory Compliance Specialist to join our growing Compliance team. In this role, you will support the day-to-day maintenance of..."
+compensation: "$90,000 - $103,000"
+summary: "About MoonPay Hi, we’re MoonPay. We’re here to onboard the world to the decentralized economy by making digital money move as universally and effortlessly as the internet. Why?..."
 ---
-
-## About the Opportunity MoonPay is looking for a Regulatory Compliance Specialist to join our growing Compliance team. In this role, you will support the day-to-day maintenance of MoonPay's US Money Transmitter License portfolio and help ensure we meet our ongoing state regulatory obligations. You'll work closely with Legal, Finance, and FIU teams to assist with license renewals and amendments, coordinate regulatory exam preparation, support partner due diligence reviews, and help keep our compliance policies and procedures up to date. This is a great opportunity for someone who enjoys working in the details of US state licensing and wants to grow their regulatory expertise at a fast-moving crypto company. This role is a strong fit for a compliance professional who is organized, curious, and eager to contribute hands-on to a high-growth, highly regulated business. ## What You Will Do - Assist with the maintenance of MoonPay's existing portfolio of US Money Transmitter Licenses (MTLs), including supporting renewals, amendments, and state regulatory correspondence. - Help coordinate state regulatory examinations by organizing documentation, tracking requests, and supporting responses across internal teams. - Prepare and submit regulatory reports and filings to state money services business (MSB) regulators, including through the NMLS system. - Support due diligence reviews for new and existing business partnerships, helping assess licensing obligations and regulatory risks across applicable US jurisdictions. - Maintain and update compliance policies, procedures, and controls documentation to reflect current US state and federal money transmission requirements. - Monitor regulatory developments across US jurisdictions and flag potential impacts to existing licenses or operational obligations to senior team members. ## About You - 2&ndash;4 years of experience in regulatory compliance, ideally within fintech, payments, money services, or a related financial services environment. - Hands-on experience working with US state Money Transmitter Licenses, including renewals, amendments, and state regulator communications. - Familiarity with the NMLS system and state MSB licensing processes. - Working knowledge of US state and federal money transmission regulations and reporting requirements. - Highly organized and detail-oriented, with the ability to juggle multiple deadlines and regulatory obligations simultaneously. - Comfortable working cross-functionally with Legal, Finance, Operations, and external partners in a fast-paced environment. ## Bonus Points - Professional certifications (CAMS, CRCM, CCEP, or similar). - Experience supporting regulatory examinations end-to-end. - Exposure to crypto or digital asset regulatory frameworks. - Experience working in a high-growth startup or scale-up environment.
 
 About MoonPay
 
@@ -53,6 +51,72 @@ But we’re just getting started. We’ve launched a consumer app that makes cry
 If you believe financial freedom should be for everyone. If you believe in building a fairer, more open financial system - we want you with us. To build systems that benefit all, we need contributions from all, regardless of background.
 
 Come build the future of payments and the decentralized economy with MoonPay. Let’s make financial freedom and autonomy the new normal.
+
+About MoonPay
+
+Hi, we’re MoonPay. We’re here to onboard the world to the decentralized economy by making digital money move as universally and effortlessly as the internet.
+
+Why?
+
+Because crypto, stablecoins and blockchain aren’t just technologies. They’re tools for global financial empowerment. They give people and businesses more control over their money, their digital assets, and their future, opening access to legacy financial systems that have been out of reach for many.
+
+What we do
+
+MoonPay is a unified payments platform for digital currency. We make it easy for anyone, anywhere, to buy, sell, swap and pay in digital currencies as easy as sending an email. That simplicity is intentional, our focus is reducing complexity so people can participate confidently, without needing to be crypto experts. We power the entire flow between fiat and crypto end to end, with compliance, identity checks, fraud prevention, and settlement all built in. This end-to-end approach reflects how we work internally: with accountability, rigor, and trust built into everything we ship.
+
+Proven at scale
+
+Trusted by over 30 million customers and over 500 ecosystem partners, our secure, enterprise-grade platform is driving mainstream crypto adoption worldwide. Behind those numbers are millions of real people and organizations relying on MoonPay every day.
+
+We collaborate with innovative brands and projects to build secure, scalable solutions for a blockchain-powered future. This is an opportunity to help shape systems, not just scale them. And we’re committed to doing it right. Fully licensed in the U.S. and regulated across the UK, EU, Canada, and Australia, because trust and compliance are non-negotiable.
+
+But we’re just getting started. We’ve launched a consumer app that makes crypto accessible, intuitive, and usable for everyone, and it’s growing fast. We’re iterating every day to make it the best it can be.
+
+If you believe financial freedom should be for everyone. If you believe in building a fairer, more open financial system - we want you with us. To build systems that benefit all, we need contributions from all, regardless of background.
+
+Come build the future of payments and the decentralized economy with MoonPay. Let’s make financial freedom and autonomy the new normal.
+
+### About the Opportunity
+
+MoonPay is looking for a Regulatory Compliance Specialist to join our growing Compliance team. In this role, you will support the day-to-day maintenance of MoonPay's US Money Transmitter License portfolio and help ensure we meet our ongoing state regulatory obligations. You'll work closely with Legal, Finance, and FIU teams to assist with license renewals and amendments, coordinate regulatory exam preparation, support partner due diligence reviews, and help keep our compliance policies and procedures up to date. This is a great opportunity for someone who enjoys working in the details of US state licensing and wants to grow their regulatory expertise at a fast-moving crypto company. This role is a strong fit for a compliance professional who is organized, curious, and eager to contribute hands-on to a high-growth, highly regulated business.
+
+### What You Will Do
+
+- Assist with the maintenance of MoonPay's existing portfolio of US Money Transmitter Licenses (MTLs), including supporting renewals, amendments, and state regulatory correspondence.
+
+- Help coordinate state regulatory examinations by organizing documentation, tracking requests, and supporting responses across internal teams.
+
+- Prepare and submit regulatory reports and filings to state money services business (MSB) regulators, including through the NMLS system.
+
+- Support due diligence reviews for new and existing business partnerships, helping assess licensing obligations and regulatory risks across applicable US jurisdictions.
+
+- Maintain and update compliance policies, procedures, and controls documentation to reflect current US state and federal money transmission requirements.
+
+- Monitor regulatory developments across US jurisdictions and flag potential impacts to existing licenses or operational obligations to senior team members.
+
+### About You
+
+- 2–4 years of experience in regulatory compliance, ideally within fintech, payments, money services, or a related financial services environment.
+
+- Hands-on experience working with US state Money Transmitter Licenses, including renewals, amendments, and state regulator communications.
+
+- Familiarity with the NMLS system and state MSB licensing processes.
+
+- Working knowledge of US state and federal money transmission regulations and reporting requirements.
+
+- Highly organized and detail-oriented, with the ability to juggle multiple deadlines and regulatory obligations simultaneously.
+
+- Comfortable working cross-functionally with Legal, Finance, Operations, and external partners in a fast-paced environment.
+
+### Bonus Points
+
+- Professional certifications (CAMS, CRCM, CCEP, or similar).
+
+- Experience supporting regulatory examinations end-to-end.
+
+- Exposure to crypto or digital asset regulatory frameworks.
+
+- Experience working in a high-growth startup or scale-up environment.
 
 BLOCK Values
 

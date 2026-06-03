@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/Flock Safety?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/Flock%20Safety/11653020-9ee2-4d82-ab25-29de3dfd7faf"
 apply_url: "https://jobs.ashbyhq.com/Flock%20Safety/11653020-9ee2-4d82-ab25-29de3dfd7faf/application"
-posted_date: "2026-06-02"
-expires_date: "2026-07-02"
+posted_date: "2026-06-03"
+expires_date: "2026-07-03"
 location: "Remote - USA"
 work_modes:
   - "Remote"
@@ -36,7 +36,7 @@ summary: "Who is Flock? Every community deserves to be safe, it’s a fundamenta
 
 # Who is Flock?
 
-Every community deserves to be safe, it’s a fundamental right. Our mission is simple - to build technology that reduces crime and protects privacy. Flock partners with cities, businesses, schools, and neighborhoods to help protect where people live, work, and play. Last year, Flock technology supported over 1 million criminal investigations, helped solve approximately 20% of reported crimes in areas where it is deployed, and played a role in locating more than 10,000 missing people.
+Every community deserves to be safe, it’s a fundamental right. Our mission is simple - to build technology that reduces crime and protects privacy. Flock partners with cities, businesses, schools, and neighborhoods to help protect where people live, work, and play. Last year, Flock technology supported over 1 million criminal investigations. We've also helped solve approximately 20% of reported crimes in areas where we're deployed, and have played a role in locating more than 10,000 missing people.
 
 We are a high-performance team united by urgency, ownership, and a shared commitment to meaningful impact. The work is fast-paced and the expectations are high. We push beyond perceived limits, support each other, and hold ourselves accountable to delivering results that matter.
 
