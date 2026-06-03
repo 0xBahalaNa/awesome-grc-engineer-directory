@@ -1,7 +1,7 @@
 ---
-title: "Regional Regulatory Affairs & Compliance Specialist, Fintech"
+title: "Regional Regulatory Affairs & Compliance Specialist (West Africa), Fintech"
 company: "Optasia"
-slug: "workable-optasia-323e32cb38-regional-regulatory-affairs-and-compliance-specialist-fintech"
+slug: "workable-optasia-323e32cb38-regional-regulatory-affairs-and-compliance-specialist-west-africa-fintech"
 status: "published"
 source: "Workable"
 sources:
