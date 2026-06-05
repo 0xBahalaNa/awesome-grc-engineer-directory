@@ -1,7 +1,7 @@
 ---
-title: "Crypto Compliance Lead"
+title: "Crypto Product Compliance Lead"
 company: "Robinhood"
-slug: "greenhouse-robinhood-7976912-crypto-compliance-lead"
+slug: "greenhouse-robinhood-7976912-crypto-product-compliance-lead"
 status: "published"
 source: "Greenhouse"
 sources:
