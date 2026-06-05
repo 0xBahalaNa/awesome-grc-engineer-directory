@@ -55,7 +55,27 @@ We are thought leaders, consultants, and cybersecurity experts, but above all el
 
 ### What You'll Bring
 
-- Bachelor's degree (four-year college or university) in IT or business, or equivalent combination of education and work experience - Five to ten (5-10) years of experience as a consultant within professional IT services - Must hold one of the following certifications: CISSP, CISA, CISM, CCSP, CISSP-ISSAP, CISSP-ISSEP, CISSP-ISSMP, CFR, CCISO, GCED, GCIH, GSLC - Deep experience with government compliance, including FISMA, FedRAMP, and DoD RMF - Strong knowledge of NIST Special Publications 800-30, 800-37, 800-53 - Experience with every step within the delivery of Certification and Accreditation (C&A) / Assessment and Authorization (A&A) packages that have obtained and maintained full authorization to operate (ATO) - Experience with virtualization or cloud technologies - Familiarity with statutes and regulations across multiple industries relevant to IT (e.g. SOX 404, HIPAA, FedRAMP, GLB, Patriot Act) - Knowledge of information security related solutions, tools, and utilities - Excellent verbal and written skills - Willing to travel up to 25%
+- Bachelor's degree (four-year college or university) in IT or business, or equivalent combination of education and work experience
+
+- Five to ten (5-10) years of experience as a consultant within professional IT services
+
+- Must hold one of the following certifications: CASP+, GCED, GCIH, GSLC, CISA, CISM, CCSP, CISSP-ISSAP, CISSP-ISSEP, CISSP-ISSMP, CFR, CCISO, BCR Cyber Technical Proficiency Testing Activity
+
+- Deep experience with government compliance, including FISMA, FedRAMP, and DoD RMF
+
+- Strong knowledge of NIST Special Publications 800-30, 800-37, 800-53
+
+- Experience with every step within the delivery of Certification and Accreditation (C&A) / Assessment and Authorization (A&A) packages that have obtained and maintained full authorization to operate (ATO)
+
+- Experience with virtualization or cloud technologies
+
+- Familiarity with statutes and regulations across multiple industries relevant to IT (e.g. SOX 404, HIPAA, FedRAMP, GLB, Patriot Act)
+
+- Knowledge of information security related solutions, tools, and utilities
+
+- Excellent verbal and written skills
+
+- Willing to travel up to 25%
 
 ### Bonus Points
 

@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/fireblocks/jobs?content=true"
 role_url: "https://www.fireblocks.com/careers/position/4646867006?gh_jid=4646867006"
 apply_url: "https://www.fireblocks.com/careers/position/4646867006?gh_jid=4646867006"
-posted_date: "2026-05-04"
-expires_date: "2026-06-03"
+posted_date: "2026-06-04"
+expires_date: "2026-07-04"
 location: "New York"
 work_modes:
   - "Hybrid / On-site"

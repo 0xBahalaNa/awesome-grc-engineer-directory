@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/1password?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/1password/739b8cc9-6c96-4afb-825e-1bf5aa5e1f00"
 apply_url: "https://jobs.ashbyhq.com/1password/739b8cc9-6c96-4afb-825e-1bf5aa5e1f00/application"
-posted_date: "2026-06-04"
-expires_date: "2026-07-04"
+posted_date: "2026-06-05"
+expires_date: "2026-07-05"
 location: "Remote (United States | Canada)"
 work_modes:
   - "Remote"
