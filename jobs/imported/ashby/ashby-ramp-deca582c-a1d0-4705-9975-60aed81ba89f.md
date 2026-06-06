@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/ramp?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f"
 apply_url: "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f/application"
-posted_date: "2026-06-05"
-expires_date: "2026-07-05"
+posted_date: "2026-06-06"
+expires_date: "2026-07-06"
 location: "San Francisco, CA"
 work_modes:
   - "Hybrid / On-site"
@@ -24,12 +24,12 @@ specializations:
 frameworks: []
 languages: []
 compensation: ""
-summary: "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $100B in..."
+summary: "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in..."
 ---
 
 # About Ramp
 
-Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $100B in annualized spend flows in and out of 50,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.
+Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.
 
 The problems are high-stakes, data-dense, and unforgiving.
 
