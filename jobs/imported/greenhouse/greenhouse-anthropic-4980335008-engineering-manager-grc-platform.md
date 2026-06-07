@@ -1,7 +1,7 @@
 ---
-title: "Engineering Manager, GRC"
+title: "Engineering Manager, GRC Platform"
 company: "Anthropic"
-slug: "greenhouse-anthropic-4980335008-engineering-manager-grc"
+slug: "greenhouse-anthropic-4980335008-engineering-manager-grc-platform"
 status: "published"
 source: "Greenhouse"
 sources:
@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/anthropic/jobs/4980335008"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/4980335008"
-posted_date: "2026-06-04"
-expires_date: "2026-07-04"
+posted_date: "2026-06-06"
+expires_date: "2026-07-06"
 location: "San Francisco, CA | New York City, NY | Seattle, WA"
 work_modes:
   - "Hybrid / On-site"
