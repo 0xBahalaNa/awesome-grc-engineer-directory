@@ -69,9 +69,6 @@ projects:
   - name: Open Source Security & Compliance
     url: https://huggingface.co/collections/ethanolivertroy/open-source-security-compliance
     description: Curated Hugging Face collection of open-source security and compliance models
-  - name: Taste Skill
-    url: https://www.tasteskill.dev/
-    description: Open-source skill files that help AI coding agents generate more distinctive, polished frontends
 ---
 
 ## About Me
