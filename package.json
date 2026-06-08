@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "npx @11ty/eleventy",
-    "serve": "npx @11ty/eleventy --serve",
+    "build": "eleventy",
+    "serve": "eleventy --serve",
     "import:jobs": "node scripts/import-jobs.js"
   },
   "devDependencies": {
