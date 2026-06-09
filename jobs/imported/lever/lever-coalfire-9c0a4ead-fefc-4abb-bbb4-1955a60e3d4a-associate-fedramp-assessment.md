@@ -25,14 +25,16 @@ frameworks:
   - "FedRAMP"
 languages: []
 compensation: "$53,000 - $92,000"
-summary: "Position Summary This role will work as part of a team assessing the security and compliance of client firms against regulatory and industry requirements and standards, and..."
+summary: "About Coalfire Coalfire is on a mission to make the world a safer place by solving our clients’ hardest cybersecurity challenges. We work at the cutting edge of technology to..."
 ---
 
-Position Summary
+About Coalfire
 
-This role will work as part of a team assessing the security and compliance of client firms against regulatory and industry requirements and standards, and against security best practice frameworks. The Associate will partner closely with experienced Project Leads and be assigned specific technical segments to provide client-ready deliverables.
+Coalfire is on a mission to make the world a safer place by solving our clients’ hardest cybersecurity challenges. We work at the cutting edge of technology to advise, assess, automate, and ultimately help companies navigate the ever-changing cybersecurity landscape. We are headquartered in Chicago, Illinois with offices across the U.S. and U.K., and we support clients around the world.
 
-The role will facilitate security assessments and possibly other advanced-level Continuous Monitoring Activities within cloud-based environments. To succeed in this position, the Associate will need a strong understanding of technical system security controls and an understanding of the various testing methods utilized to ascertain the effectiveness of those controls.
+But that’s not who we are – that’s just what we do.
+
+We are thought leaders, consultants, and cybersecurity experts, but above all else, we are a team of passionate problem-solvers who are hungry to learn, grow, and make a difference.
 
 About Coalfire
 

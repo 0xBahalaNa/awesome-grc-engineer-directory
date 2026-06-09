@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true"
 role_url: "https://boards.greenhouse.io/cloudflare/jobs/7778796?gh_jid=7778796"
 apply_url: "https://boards.greenhouse.io/cloudflare/jobs/7778796?gh_jid=7778796"
-posted_date: "2026-05-29"
-expires_date: "2026-06-28"
+posted_date: "2026-06-08"
+expires_date: "2026-07-08"
 location: "Hybrid"
 work_modes:
   - "Remote"
@@ -75,7 +75,10 @@ summary: "About Us At Cloudflare, we are on a mission to help build a better Int
 <li>Previous experience at a fast-paced startup or in a customer-facing engineering role where you operated directly within a partner’s codebase.</li>
 <li>A visible public profile, including open-source contributions, technical blogging, or speaking engagements at industry conferences.</li>
 </ul>
-<p>&nbsp;</p><div class="content-conclusion"><p><strong>What Makes Cloudflare Special?</strong></p>
+<h3 data-path-to-node="0"><strong data-path-to-node="0" data-index-in-node="0">Compensation</strong></h3>
+<p data-path-to-node="1">For Sweden based hires: Estimated annual salary is between SEK 760,000 - SEK 1,045,000.</p>
+<h3 data-path-to-node="2"><strong data-path-to-node="2" data-index-in-node="0">Equity</strong></h3>
+<p data-path-to-node="3">This role is eligible to participate in Cloudflare’s equity plan.</p><div class="content-conclusion"><p><strong>What Makes Cloudflare Special?</strong></p>
 <p><span style="font-weight: 400;">We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.</span></p>
 <p><a href="https://blog.cloudflare.com/protecting-free-expression-online/"><strong>Project Galileo</strong></a><span style="font-weight: 400;">: Since 2014, we've equipped more than 2,400 journalism and civil society organizations in 111 countries with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflare’s enterprise customers--at no cost.</span></p>
 <p><strong><a href="https://www.cloudflare.com/athenian/">Athenian Project</a></strong><span style="font-weight: 400;">: In 2017, we created the Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration. Since the project, we've provided services to more than 425 local government election websites in 33 states.</span></p>

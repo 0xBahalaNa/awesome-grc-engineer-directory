@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/robinhood/jobs?content=true"
 role_url: "https://boards.greenhouse.io/robinhood/jobs/7976912?t=gh_src=&gh_jid=7976912"
 apply_url: "https://boards.greenhouse.io/robinhood/jobs/7976912?t=gh_src=&gh_jid=7976912"
-posted_date: "2026-06-04"
-expires_date: "2026-07-04"
+posted_date: "2026-06-08"
+expires_date: "2026-07-08"
 location: "Bellevue, WA; Chicago, IL; Denver, CO; Lake Mary, FL; Menlo Park, CA; New York, NY; Washington, DC; Westlake, TX"
 work_modes:
   - "Hybrid / On-site"
