@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/spycloud/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/spycloud/jobs/7737899003"
 apply_url: "https://job-boards.greenhouse.io/spycloud/jobs/7737899003"
-posted_date: "2026-05-26"
-expires_date: "2026-06-25"
+posted_date: "2026-06-09"
+expires_date: "2026-07-09"
 location: "Austin, Texas | Remote"
 work_modes:
   - "Remote"
@@ -28,7 +28,7 @@ frameworks:
   - "CMMC"
 languages:
   - "Rust"
-compensation: ""
+compensation: "$119,000 - $155,000"
 summary: "SpyCloud is on a mission to make the internet a safer place by disrupting the criminal underground. SpyCloud’s solutions thwart cyberattacks and protect more than 4 billion..."
 ---
 
@@ -121,10 +121,10 @@ summary: "SpyCloud is on a mission to make the internet a safer place by disrupt
 <li>Experience with AI governance, security governance automation, or modern GRC tooling.</li>
 <li>Experience working in fast-paced, high-growth technology environments.</li>
 </ul>
-<div id="fortidlp-input-element-parent"></div><div class="content-conclusion"><p><strong>SpyCloud is not sponsoring visas at this time.</strong></p>
-<p><strong>For applicants residing in California, please click <a href="https://engage.spycloud.com/rs/713-WIP-737/images/spycloud-ca-employee-privacy-notice.pdf" target="_blank">here</a> to read SpyCloud's CCPA Notice.</strong></p>
-<p><strong>For applicants residing in the UK, please click <a href="https://engage.spycloud.com/rs/713-WIP-737/images/spycloud-uk-eu-employee-privacy-notice.pdf" target="_blank">here</a> to read SpyCloud's Employee Privacy Notice.</strong></p>
-<p><strong>U.S.-Based Benefits + Perks (for Full Time Employees):</strong></p>
+<p>&nbsp;</p>
+<p><strong>Base Salary Range:</strong> $119,000 – $155,000</p>
+<p>The salary range reflects the expected base compensation for a fully qualified candidate at this level based on experience, qualifications, and market data at the time of posting.</p>
+<div id="fortidlp-input-element-parent"></div><div class="content-conclusion"><p><strong>U.S.-Based Benefits + Perks (for Full Time Employees):</strong></p>
 <p>At SpyCloud, we are committed to working alongside individuals who are equally passionate about preventing cybercrime, regardless of their department or role. Guided by our core values in all business decisions, we prioritize unity in our mission and ensure all SpyCloud employees have the support and benefits they need to stay focused on our goals. In addition to our engaging workspace in South Austin, flexible and remote-friendly work options, and competitive salary package, we offer our employees a comprehensive benefits package that includes:</p>
 <ul>
 <li>401(k) with Employer Contribution</li>
@@ -158,4 +158,7 @@ summary: "SpyCloud is on a mission to make the internet a safer place by disrupt
 <p><strong data-stringify-type="bold">Compensation Transparency Policy:&nbsp;</strong></p>
 <p>At SpyCloud, we believe in transparency and fairness in compensation. We strive to ensure that all employees are fairly compensated for their contributions, and we openly discuss our compensation philosophy and structure. We are committed to providing competitive salaries and benefits packages to attract and retain top talent, and we encourage open dialogue and feedback regarding compensation matters.</p>
 <p>Learn more and apply: <a href="https://spycloud.com/company/careers/">SpyCloud Careers</a></p>
+<p>SpyCloud is not sponsoring visas at this time.</p>
+<p>For applicants residing in California, please click <a href="https://engage.spycloud.com/rs/713-WIP-737/images/spycloud-ca-employee-privacy-notice.pdf" target="_blank">here</a> to read SpyCloud's CCPA Notice.</p>
+<p>For applicants residing in the UK, please click <a href="https://engage.spycloud.com/rs/713-WIP-737/images/spycloud-uk-eu-employee-privacy-notice.pdf" target="_blank">here</a> to read SpyCloud's Employee Privacy Notice.</p>
 <div id="fortidlp-input-element-parent"></div></div>

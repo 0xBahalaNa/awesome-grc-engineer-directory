@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/Notion?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/Notion/b50c884e-1170-46d2-ae4c-3f559d2c98c4"
 apply_url: "https://jobs.ashbyhq.com/Notion/b50c884e-1170-46d2-ae4c-3f559d2c98c4/application"
-posted_date: "2026-06-09"
-expires_date: "2026-07-09"
+posted_date: "2026-06-10"
+expires_date: "2026-07-10"
 location: "Munich, Germany"
 work_modes:
   - "Hybrid / On-site"
