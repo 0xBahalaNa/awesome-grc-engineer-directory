@@ -9,8 +9,8 @@ sources:
 source_url: "https://apply.workable.com/assurity-trusted-solutions"
 role_url: "https://apply.workable.com/j/4507C192BE"
 apply_url: "https://apply.workable.com/j/4507C192BE/apply"
-posted_date: "2026-04-30"
-expires_date: "2026-05-30"
+posted_date: "2026-06-10"
+expires_date: "2026-07-10"
 location: "Singapore, Singapore, Singapore"
 work_modes:
   - "Hybrid / On-site"
