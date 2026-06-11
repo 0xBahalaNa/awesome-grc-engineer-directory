@@ -67,7 +67,6 @@ summary: "Anduril Industries is a defense technology company with a mission to t
 <li data-stringify-indent="0" data-stringify-border="0">Terminating power cables with NEMA connectors or RJ45 connectors.</li>
 <li>Ability to lift 50-70 lbs.</li>
 <li>Experience operating specialized equipment including aerial lifts and forklifts.</li>
-<li>Valid Commercial Driver's License (CDL).</li>
 <li>Ability to develop complex operational and logistics plans to move people and things quickly, over long distances, in unfamiliar locations.</li>
 <li>Prior military or overseas contracting experience.</li>
 </ul>
