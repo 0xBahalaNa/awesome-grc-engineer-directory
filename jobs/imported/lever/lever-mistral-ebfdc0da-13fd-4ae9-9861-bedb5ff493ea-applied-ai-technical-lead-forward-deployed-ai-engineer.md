@@ -11,7 +11,7 @@ role_url: "https://jobs.lever.co/mistral/ebfdc0da-13fd-4ae9-9861-bedb5ff493ea"
 apply_url: "https://jobs.lever.co/mistral/ebfdc0da-13fd-4ae9-9861-bedb5ff493ea/apply"
 posted_date: "2025-11-30"
 expires_date: "2025-12-30"
-location: "New York, NY"
+location: "New York"
 work_modes:
   - "Hybrid / On-site"
 job_types:
