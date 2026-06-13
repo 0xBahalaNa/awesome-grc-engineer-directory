@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/robinhood/jobs?content=true"
 role_url: "https://boards.greenhouse.io/robinhood/jobs/7976919?t=gh_src=&gh_jid=7976919"
 apply_url: "https://boards.greenhouse.io/robinhood/jobs/7976919?t=gh_src=&gh_jid=7976919"
-posted_date: "2026-06-11"
-expires_date: "2026-07-11"
+posted_date: "2026-06-12"
+expires_date: "2026-07-12"
 location: "London, UK"
 work_modes:
   - "Hybrid / On-site"
