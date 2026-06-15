@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/Notion?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/Notion/4bc0802c-b5e0-411c-be01-daaea2bc3ae0"
 apply_url: "https://jobs.ashbyhq.com/Notion/4bc0802c-b5e0-411c-be01-daaea2bc3ae0/application"
-posted_date: "2026-06-14"
-expires_date: "2026-07-14"
+posted_date: "2026-06-15"
+expires_date: "2026-07-15"
 location: "Tokyo, Japan "
 work_modes:
   - "Hybrid / On-site"
@@ -57,6 +57,7 @@ This role is based in Tokyo, Japan. We work from our offices on Mondays, Tuesday
 - Practical experience building with APIs and data integrations (auth, pagination, transforms, error handling, idempotency), plus fluency with formats like JSON and YAML and query languages like SQL.
 - Strong technical judgment and operating discipline: you design for permissions, governance, observability, and safe action execution.
 - High agency and learning velocity: you move comfortably between paid delivery and investment work, build leverage through reusable patterns, and use AI tools to raise the quality of your thinking and craft.
+- Fluen
 
 By clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s Global Recruiting Privacy Policy (https://notion.notion.site/Notion-Global-Recruiting-Privacy-Policy-fc3eb4e829354a26a2bb6fd5e289b550). (https://dev.notion.so/a3ce416456924276a59de91bca740028?pvs=21)
 
