@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5007261007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5007261007"
-posted_date: "2026-06-16"
-expires_date: "2026-07-16"
+posted_date: "2026-06-18"
+expires_date: "2026-07-18"
 location: "New York, NY; Palo Alto, CA; Washington, D.C."
 work_modes:
   - "Hybrid / On-site"
@@ -33,11 +33,9 @@ summary: "ABOUT xAI xAI’s mission is to create AI systems that can accurately 
 ---
 
 <div class="content-intro"><h3><strong><span style="font-family: arial, helvetica, sans-serif;">ABOUT xAI</span></strong></h3>
-<p><span style="font-family: arial, helvetica, sans-serif;">xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge. </span><span style="font-family: arial, helvetica, sans-serif;">Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. </span><span style="font-family: arial, helvetica, sans-serif;">We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important. </span><span style="font-family: arial, helvetica, sans-serif;">All employees are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.</span></p></div><div><strong>ABOUT THE ROLE:</strong></div>
-<div>&nbsp;</div>
+<p><span style="font-family: arial, helvetica, sans-serif;">xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge. </span><span style="font-family: arial, helvetica, sans-serif;">Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. </span><span style="font-family: arial, helvetica, sans-serif;">We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important. </span><span style="font-family: arial, helvetica, sans-serif;">All employees are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.</span></p></div><h3><strong>ABOUT THE ROLE:</strong></h3>
 <div>We are seeking an experienced and strategic Governance, Risk, and Compliance (GRC) team member as we expand into government and public sector applications of AI. This critical role will ensure that xAI operates within regulatory, ethical, operational, and federal boundaries while fostering a culture of integrity and resilience. You will collaborate with cross-functional teams to safeguard our mission-driven work in AI development and deployment, including support for sensitive and classified environments.</div>
-<div>&nbsp;</div>
-<div><strong>RESPONSIBILITIES:</strong></div>
+<h3><strong>RESPONSIBILITIES:</strong></h3>
 <ul>
 <li>Execute security compliance implementation and audits (e.g., ISO 27001/42001, SOC2, FedRAMP HIGH, DoD Cloud Computing SRG IL5/IL6, NIST 800-53 rev 5, NIST 800-171/CMMC, Risk Management Framework).</li>
 <li>Work with 3PAOs (Third-Party Assessment Organizations) and federal government Authorizing Officials (AOs) to achieve compliance certifications, reports, and Authorized to Operate (ATO) status.</li>
@@ -51,13 +49,13 @@ summary: "ABOUT xAI xAI’s mission is to create AI systems that can accurately 
 <li>Act as a subject matter expert, providing guidance on risk, compliance, and cybersecurity matters; translate business and technical risks for leadership.</li>
 <li>Create and present regular reports on GRC performance, risks, and compliance status to senior leadership and stakeholders.</li>
 </ul>
-<div><strong>BASIC QUALIFICATIONS:</strong></div>
+<h3><strong>BASIC QUALIFICATIONS:</strong></h3>
 <ul>
 <li>Bachelor’s degree in computer science, Information Security, Cybersecurity, or in an engineering/STEM field</li>
 <li>3+ years of experience in governance, risk management, compliance, or technology audit roles.</li>
 <li>Experience with vulnerability management, POAMs, STIG implementation, and cloud security controls.</li>
 </ul>
-<div><strong>PREFERRED SKILLS AND EXPERIENCE:</strong></div>
+<h3><strong>PREFERRED SKILLS AND EXPERIENCE:</strong></h3>
 <ul>
 <li>5+ years of security compliance or technology audit-related.</li>
 <li>Previous systems engineering experience strongly preferred</li>

@@ -11,7 +11,7 @@ role_url: "https://apply.workable.com/j/079159C1ED"
 apply_url: "https://apply.workable.com/j/079159C1ED/apply"
 posted_date: "2026-05-26"
 expires_date: "2026-06-25"
-location: "Accra, Greater Accra Region, Ghana"
+location: "Accra, Ghana"
 work_modes:
   - "Hybrid / On-site"
 job_types:
@@ -73,3 +73,7 @@ Optasia’s Perks: 🎌 Be a part of a multicultural working environment 🎯 Me
 Optasia’s Values 🌟
 
 #1 Drive to Thrive: Fully dedicated to evolving. We welcome all challenges and learning opportunities. #2 Customer-First Mindset: We go above and beyond to meet our partners’ and clients’ expectations. #3 Bridge the Gap: Knowledge is shared, information is exchanged and every opinion counts. #4 Go-Getter Spirit: We are results oriented. We identify any shortcomings that hold us back and step up to do what’s needed. #5 Together we will do it: We are committed to supporting one another and to understanding and respecting different perspectives, as we aim to reach our common goals.
+
+Requirements
+
+Benefits
