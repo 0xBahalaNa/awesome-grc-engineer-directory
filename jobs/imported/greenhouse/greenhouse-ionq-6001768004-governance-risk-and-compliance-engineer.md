@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/ionq/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/ionq/jobs/6001768004"
 apply_url: "https://job-boards.greenhouse.io/ionq/jobs/6001768004"
-posted_date: "2026-05-29"
-expires_date: "2026-06-28"
+posted_date: "2026-06-18"
+expires_date: "2026-07-18"
 location: "Remote, US"
 work_modes:
   - "Remote"

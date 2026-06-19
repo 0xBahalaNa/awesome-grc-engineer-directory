@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/sigmacomputing/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/sigmacomputing/jobs/7776721003"
 apply_url: "https://job-boards.greenhouse.io/sigmacomputing/jobs/7776721003"
-posted_date: "2026-06-17"
-expires_date: "2026-07-17"
+posted_date: "2026-06-18"
+expires_date: "2026-07-18"
 location: "New York City, NYC"
 work_modes:
   - "Hybrid / On-site"
@@ -27,19 +27,19 @@ languages:
   - "SQL"
   - "Rust"
 compensation: "$100,000 - $130,000"
-summary: "Forward Deployed Engineer Sigma is an enterprise platform for building secure data apps and analytics that run directly on your data platform: Snowflake, Databricks, BigQuery, and..."
+summary: "Forward Deployed Engineer Sigma's vision is to create an insight-driven world where people, organizations, and, ultimately, humanity are transformed for the better by data. We're..."
 ---
 
 <div class="content-intro"><p>&nbsp;</p>
 <p>&nbsp;</p></div><h1><span style="font-size: 10pt;"><strong>Forward Deployed Engineer</strong></span></h1>
-<p>Sigma is an enterprise platform for building secure data apps and analytics that run directly on your data platform: Snowflake, Databricks, BigQuery, and Redshift. There are no extracts and no stale copies, so data stays live and governed wherever people work with it.</p>
-<p>As a Forward Deployed Engineer, you'll embed with our largest enterprise customers and turn their hardest data problems into working solutions on Sigma. You'll sit with their teams, learn how they actually run the business, and build the workbooks, data apps, input tables, and automated workflows that move that work forward. This is a high-ownership role for someone who's equally comfortable in a customer's warehouse, in Sigma, and in a room with senior business and technical stakeholders.</p>
-<p>You'll work closely with our Sales, Customer Success, Product, and Engineering teams, own the technical relationship for your accounts, and help shape how Sigma builds its forward-deployed practice.</p>
+<p>Sigma's vision is to create an insight-driven world where people, organizations, and, ultimately, humanity are transformed for the better by data. We're building a cloud-native platform that lets anyone tap into their largest cloud databases and explore data to reach business insights in seconds, all without writing SQL. On that same live, governed data, our customers build the data apps and automated workflows that move real work forward.</p>
+<p>We're growing our forward-deployed team and looking for a Forward Deployed Engineer who will help our largest enterprise customers turn Sigma into business results. You'll join a hands-on team with a shared mission: make data genuinely easy to use, and prove it out inside the accounts that matter most.</p>
+<p>The Sigma Forward Deployed Engineer believes in the power of analytics to transform organizations and uncover new data insights. You'll act as the trusted technical advisor to our customers, embedding with their teams to learn how they run the business and building the workbooks, data apps, input tables, and automated workflows that solve their hardest problems. Working in tandem with Sales, Customer Success, Product, and Engineering, you'll own the deliverables you're responsible for with each group, accountable for the technical work that takes a customer from kickoff to a live, production deployment.</p>
 <h2><span style="font-size: 10pt;"><strong>What you'll do</strong></span></h2>
 <ul>
 <li><strong>Lead implementations from kickoff to production. </strong>Take a focused portfolio of strategic enterprise customers from first connection to a live deployment. Connect Sigma to their data platform, model their data, configure security and governance to match their policies, and build Sigma documents that best fit their use case.&nbsp;</li>
 <li><strong>Embed with customer teams. </strong>Uncover the business problem behind each request, then design and build the right solution in Sigma: workbooks, data apps, input tables, and automated workflows on live warehouse data.</li>
-<li><strong>Build solutions teams depend on. </strong>Ship production-grade work that real users rely on every day, and set up Sigma Assistant so business users can ask questions of their data in plain language. incorporate the latest-and-greatest of the Sigma platform to drive new feature adoption.</li>
+<li><strong>Build solutions teams depend on. </strong>Ship production-grade work that real users rely on every day, and incorporate the latest-and-greatest of the Sigma platform to drive new feature adoption.</li>
 <li><strong>Run live technical sessions. </strong>Lead discovery sessions, working sessions, and troubleshooting calls with both business users and data engineers. Adjust your technical depth to the room and keep your composure when the stakes are high.</li>
 <li><strong>Watch performance in production. </strong>Catch query performance, data accuracy, and governance issues early, and resolve them before they reach the customer's users.</li>
 <li><strong>Escalate issues and needs, and document them. </strong>Surface technical blockers, integration gaps, and customer requests to the right internal team, and document them clearly so they can be tracked, prioritized, and resolved with full context.</li>
@@ -51,7 +51,7 @@ summary: "Forward Deployed Engineer Sigma is an enterprise platform for building
 <ul>
 <li>5+ years in a customer-facing technical role: forward deployed engineering, solutions or sales engineering, analytics engineering, professional services, or similar.</li>
 <li>Strong SQL and hands-on data modeling. You can shape messy source data into something a business team can actually use.</li>
-<li>Direct experience with at least one cloud data platform: Snowflake, Databricks, BigQuery, or Redshift.</li>
+<li>Direct experience with cloud data platforms: Snowflake, Databricks, BigQuery, or Redshift.</li>
 <li>A track record building production analytics or data apps, with ownership from design through deployment.</li>
 <li>Clear communication at every level of an organization, from analysts to senior executives, in both technical and business terms.</li>
 <li>Comfort with ambiguity and the independence to drive an engagement without a script.</li>
