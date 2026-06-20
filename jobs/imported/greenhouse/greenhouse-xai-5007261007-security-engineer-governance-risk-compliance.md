@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5007261007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5007261007"
-posted_date: "2026-06-18"
-expires_date: "2026-07-18"
+posted_date: "2026-06-19"
+expires_date: "2026-07-19"
 location: "New York, NY; Palo Alto, CA; Washington, D.C."
 work_modes:
   - "Hybrid / On-site"
@@ -75,4 +75,8 @@ summary: "ABOUT xAI xAI’s mission is to create AI systems that can accurately 
 </ul>
 <h3><strong>COMPENSATION AND BENEFITS:</strong></h3>
 <p>$100,000 - $228,000 USD</p>
-<p>Base salary is just one part of our total rewards package at xAI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, and various other discounts and perks.</p><div class="content-conclusion"><p><em>xAI is an equal opportunity employer. For details on data processing, view our&nbsp;</em><em><a href="https://x.ai/legal/recruitment-privacy-notice" target="_blank">Recruitment Privacy Notice</a>.</em></p></div>
+<p>Base salary is just one part of our total rewards package at xAI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, and various other discounts and perks.</p>
+<h3>ITAR REQUIREMENTS:</h3>
+<ul>
+<li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a class="discussion-id-36164de2-197a-8070-84b2-001c900d71fe notion-link-token notion-focusable-token notion-enable-hover" href="https://deccs.pmddtc.state.gov/deccs" data-token-index="1"><span class="link-annotation-unknown-block-id--1213793699">here</span></a>.</li>
+</ul><div class="content-conclusion"><p><em>xAI is an equal opportunity employer. For details on data processing, view our&nbsp;</em><em><a href="https://x.ai/legal/recruitment-privacy-notice" target="_blank">Recruitment Privacy Notice</a>.</em></p></div>
