@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/Crusoe?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/Crusoe/d9e328f6-ae22-4433-a191-804afb974dbb"
 apply_url: "https://jobs.ashbyhq.com/Crusoe/d9e328f6-ae22-4433-a191-804afb974dbb/application"
-posted_date: "2026-06-24"
-expires_date: "2026-07-24"
+posted_date: "2026-06-25"
+expires_date: "2026-07-25"
 location: "Denver, CO - US"
 work_modes:
   - "Hybrid / On-site"

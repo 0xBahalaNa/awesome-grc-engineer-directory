@@ -22,7 +22,9 @@ specializations:
   - "Security Governance"
   - "Cloud Security"
 frameworks: []
-languages: []
+languages:
+  - "Terraform"
+  - "SQL"
 compensation: ""
 summary: "About Dynamo AI At Dynamo AI , we help enterprises deploy AI systems that are reliable, secure, observable, scalable and production-ready. As organizations accelerate adoption of..."
 ---
@@ -39,7 +41,7 @@ Forward Deployed Engineers at Dynamo AI work directly with enterprise customers 
 
 About the Role
 
-We are looking for Lead Forward Deployed Engineers to work directly with enterprise customers to help deploy, integrate, and operationalize AI systems in real-world production environments.
+We are looking for Forward Deployed Engineers to work directly with enterprise customers to help deploy, integrate, and operationalize AI systems in real-world production environments.
 
 This role sits at the intersection of engineering, customer deployment, and AI reliability. You will work closely with customer engineering teams to integrate Dynamo AI’s platform into complex enterprise ecosystems while helping organizations navigate the operational, governance, and technical challenges of deploying AI at scale.
 
@@ -49,75 +51,61 @@ This role requires strong technical depth, curiosity, patience, and a willingnes
 
 You will regularly encounter unfamiliar enterprise systems, architectures, and governance processes — particularly within financial services, healthcare, government, and other regulated sectors. We value engineers who are excited to learn how these environments work and can thoughtfully adapt AI systems to fit real-world operational needs.
 
-# In This Role You’ll
+## Responsibilities
 
-## Solve Real-World Enterprise Problems
+- Lead deployments of Dynamo AI products into customer environments, including EKS, AKS, GKE, OpenShift, and on-prem Kubernetes clusters.
+- Work directly with customer engineering, security, infrastructure, and operations teams to understand and meet their requirements and constraints.
+- Design and validate deployment architecture across networking, identity, storage, observability, scaling, security and reliability.
+- Troubleshoot production and pre-production issues across Kubernetes, application services, databases, ingress, authentication, networking, and cloud infrastructure.
+- Build deployment automation, Helm configurations, scripts, runbooks, and validation workflows to improve repeatability.
+- Drive technical scoping, effort estimation, risk assessment, rollout planning, and production readiness reviews.
+- Partner with product and engineering teams to identify product gaps, integration issues, and customer-driven improvements.
+- Communicate deployment status, risks, blockers, tradeoffs, and resolution plans clearly to internal and external stakeholders.
+- Help establish best practices for customer deployment workflows, acceptance criteria, and operational handoff.
 
-- Debug and troubleshoot complex deployment and integration challenges across customer environments
-- Navigate ambiguity and adapt solutions to fit real-world operational and regulatory requirements
-- Learn and work across a wide range of enterprise systems commonly used in regulated industries
-- Balance technical excellence with pragmatism, reliability, security, and customer operational realities
+## Required Qualifications
 
-## Deploy and Operationalize AI Systems
+- 5+ years of professional experience in software engineering, infrastructure engineering, platform engineering, solutions engineering, or customer-facing engineering.
+- Strong hands-on experience with Kubernetes in production environments.
+- Experience with at least one major cloud provider: AWS, Azure, or GCP.
+- Strong debugging skills across distributed systems, networking, containers, logs, metrics, and service dependencies.
+- Experience with deployment tooling such as Helm, Terraform, ArgoCD, Kustomize, or similar systems.
+- Familiarity with production operations, including monitoring, alerting, incident response, scaling, reliability, and release practices.
+- Ability to work directly with enterprise customers to make them successful.
+- Strong written and verbal communication skills, with the ability to explain technical tradeoffs clearly to engineering and non-engineering stakeholders.
+- High ownership mindset and ability to drive ambiguous customer problems to closure.
 
-- Work directly with customer engineering and platform teams to deploy Dynamo AI’s products into enterprise environments
-- Design and implement integrations across enterprise AI workflows, APIs, infrastructure, and governance systems
-- Help customers operationalize AI guardrails, evaluations, observability, and monitoring capabilities in production
-- Support deployment architectures across cloud, hybrid, and enterprise environments
+## Preferred Qualifications
 
-## Bridge Product, Engineering, and Customer Needs
+- Experience deploying enterprise software into customer-controlled environments.
+- Experience with regulated or security-sensitive enterprise customers, including financial services, healthcare, government, or similar industries.
+- Familiarity with identity and access systems such as OIDC, SAML, Keycloak, Entra ID, or Okta.
+- Experience with service mesh, ingress controllers, API gateways, TLS, private networking, firewall rules, and proxy configurations.
+- Experience with databases and data services such as MongoDB, PostgreSQL, Redis, S3-compatible storage, or managed cloud equivalents.
+- Experience with AI/ML infrastructure, LLM applications, inference platforms, AI evaluation, guardrails, observability, or AI safety/governance products.
+- Prior experience in forward deployed engineering, solutions architecture, customer engineering, platform engineering, technical consulting, or production support engineering.
 
-- Translate customer deployment challenges into actionable feedback for product and engineering teams
-- Surface patterns and deployment learnings that improve Dynamo AI’s platform and implementation playbooks
-- Work cross-functionally with research, engineering, product, and go-to-market teams to improve customer outcomes
-- Contribute to scalable deployment methodologies and technical best practices, to enhance release and deployment pipelines.
-- Assist in building releases, executing deployments, and resolving SaaS platform issues when needed.
+## You Might Thrive In This Role If You
 
-## Partner Closely with Customers
-
-- Work closely with customer stakeholders across engineering, infrastructure, security, risk, compliance, and operations teams
-- Understand customer technical environments, operational requirements, and deployment constraints
-- Help customers navigate enterprise AI governance, evaluation, and approval workflows required for production deployment
-- Partner with internal customer success managers and forward deployed strategists to streamline deployment and operational processes that accelerate enterprise AI governance at scale
-
-# You Might Thrive In This Role If You
-
-- Enjoy working directly with customers and solving practical engineering problems
-- Are a team player and enjoy working closely with our forward deployed strategists to solve real-world enterprise challenges
-- Are curious about how complex enterprises and regulated industries operate
-- Have strong motivation to work through operational, governance, and technical constraints in large organizations
-- Are excited about deploying frontier AI systems (e.g. DynamoGuard) into real-world production environments to make significant impact
-- Enjoy learning new technologies, systems, and infrastructure domains rapidly
-- Can communicate effectively with engineers and some non-technical stakeholders
-
-# Preferred Qualifications
-
-- Strong software engineering experience, especially in distributed systems, Kubernetes, APIs, platform engineering, and enterprise integrations
-- Experience debugging and operating production systems in customer-facing environments
-- Ability to navigate complex technical and organizational environments independently
-- Strong communication and problem-solving skills
-
-# Nice To Have
-
-- Familiarity with Generative AI systems, LLM applications, AI infrastructure, or model deployment workflows
-- Experience working in financial services, healthcare, government, or other regulated industries
-- Familiarity with enterprise security, governance, compliance, or risk management workflows
-- Experience with AI evaluation, guardrails, observability, or monitoring systems
+- Enjoy working directly with customers and solving practical engineering problems.
+- Are curious about how complex enterprises and regulated industries operate.
+- Can learn unfamiliar enterprise systems, architectures, and governance processes quickly.
+- Want to help enterprises deploy AI systems safely, reliably, and responsibly in real-world production environments.
 
 # Why This Role
 
-# Help Enterprises Deploy AI Responsibly
+## Help Enterprises Deploy AI Responsibly
 
 You will work directly with organizations deploying AI into critical real-world operations, helping ensure systems are reliable, secure, observable, scalable, and production-ready.
 
-Work on Real Deployment Challenges
+## Work on Real Deployment Challenges
 
 This role is deeply focused on practical deployment and operationalization. You will help customers navigate the technical and organizational realities of enterprise AI adoption.
 
-Operate at the Intersection of AI and Enterprise Systems
+## Operate at the Intersection of AI and Enterprise Systems
 
 You will gain exposure to a wide range of enterprise architectures, governance models, and operational workflows across regulated industries.
 
-Shape How Enterprises Operationalize AI
+## Shape How Enterprises Operationalize AI
 
 Your work will directly influence how organizations safely deploy AI systems at scale, while shaping Dynamo AI’s deployment methodologies and product evolution.
