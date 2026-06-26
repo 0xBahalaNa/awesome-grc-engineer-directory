@@ -18,23 +18,67 @@ job_types:
   - "Full-time"
 specializations:
   - "Compliance Automation"
-  - "Risk Management"
-  - "Security Governance"
-  - "Audit & Assurance"
+  - "Cloud Security"
+  - "Privacy"
+  - "Forward Deployed Engineering"
 frameworks: []
 languages: []
 compensation: ""
-summary: "Purpose of the Job: We are looking for a Forward Deployed AI Engineer who can bridge the gap between business strategy and real-world AI delivery. This role is about more than..."
+summary: "We are looking for a Staff-level Forward Deployed AI Engineer to design, build, and deliver AI-powered applications that create measurable business impact. This is a hands-on..."
 ---
 
-Purpose of the Job:
+We are looking for a Staff-level Forward Deployed AI Engineer to design, build, and deliver AI-powered applications that create measurable business impact.
 
-We are looking for a Forward Deployed AI Engineer who can bridge the gap between business strategy and real-world AI delivery. This role is about more than building models&mdash;it&rsquo;s about taking AI from idea to production, integrating it into core systems, and ensuring it delivers measurable business value. You will combine hands-on engineering expertise with practical AI implementation, helping teams adopt AI in a way that is scalable, secure and usable.
+This is a hands-on engineering role with strong design responsibility &mdash; you will spend most of your time writing code, integrating systems, and taking solutions to production, while also shaping practical, scalable designs that ensure what you build can operate reliably at enterprise scale.
 
-### What you’ll do:
+You will work closely with business stakeholders to identify high-value opportunities, rapidly prototype solutions, and evolve them into well-architected, production-grade systems.
 
-You will play a lead technical role in designing and delivering AI-enabled solutions across the enterprise. Build and deliver AI solutions: Design, build, test, and deploy AI-enabled applications, services, and workflows Work with LLMs, intelligent agents, and automation frameworks to solve real business problems Take solutions from prototype to production, ensuring they are reliable and scalable Own technical design: Lead architecture and design for: LLM integrations Retrieval-augmented generation (RAG) Agent workflows and orchestration API and enterprise system integrations Ensure solutions are secure, reusable, and aligned with enterprise standards Drive engineering standards: Define and apply reusable patterns and best practices for AI delivery Improve how teams build, deploy, and scale AI solutions Contribute to responsible and governed AI adoption Support production and continuous improvement: Ensure solutions are production-ready (testing, monitoring, observability) Troubleshoot issues, perform root cause analysis, and continuously improve systems Optimize for performance, cost, reliability, and user experience Partner across teams: Work closely with product, architecture, platform, security, and business stakeholders Translate business needs into clear technical solutions and delivery plans Influence decisions through technical expertise, not authority
+### What You Will Be Responsible For:
+
+You will play a lead technical role in designing and delivering AI-enabled solutions across the enterprise.
+
+1. Build & Ship AI Applications (Primary Focus)
+
+- Design, develop, and deploy AI-powered applications and workflows
+
+- Write production-quality code across:
+
+- Backend services and APIs
+
+- AI orchestration layers and agents
+
+- Enterprise integrations
+
+- Rapidly prototype solutions and iterate them into scalable production systems
+
+- Own delivery end-to-end: build, test, deploy, monitor, and improve
+
+2. Design Practical, Scalable AI Systems - Translate use cases into clear, implementable system designs - Make architecture decisions that balance: - Speed of delivery - Scalability and reliability - Cost and operational efficiency - Define patterns for: - API-first integrations - AI orchestration and workflows - Reusable services and components - Ensure systems are simple enough to build quickly , but structured enough to scale 3. Integrate AI into Real Enterprise Workflows - Embed LLM capabilities into products, internal tools, and business processes - Build and maintain APIs and system integrations - Implement agent workflows and orchestration logic that solve real operational problems - Optimize systems for performance, resilience, and cost efficiency
+
+4. Partner with Business & Deliver Outcomes
+
+- Work directly with stakeholders to understand problems and validate solutions
+
+- Translate requirements into working software quickly (days/weeks, not months)
+
+- Iterate based on feedback and usage to drive measurable impact
+
+5. Contribute to Engineering Standards & Reuse - Build and contribute to shared libraries, templates, and services - Establish practical patterns based on real implementations - Help evolve internal platforms through code and working solutions , not just design artifacts 6. Build Within a Governed AI Environment - Implement secure and reliable AI solutions in practice , including: - Prompt safety and validation - Injection/misuse prevention - Observability and traceability - Align implementations with enterprise security, privacy, and compliance requirements Technology Environment - Cloud & Platform: Microsoft ecosystem (Azure) - AI Models: Claude and other enterprise-approved LLMs - Architecture Style: API-first, event-driven, and modular services - Core Focus: - AI application engineering - Orchestration and agent workflows - Enterprise integrations
 
 ### What you bring:
 
-Engineering foundation: Strong experience building scalable, distributed systems Deep knowledge of: APIs, microservices, and service-based architectures Cloud-native development (Azure preferred) CI/CD, containerization, and deployment automation Experience with event-driven systems, data pipelines and data platforms. AI / GenAI expertise: Hands-on experience building LLM-powered applications in production Strong Experience with: Prompt design and evaluation Model limitations (hallucination, variability, context constraints) Agent design and orchestration workflows Tool/API integrations RAG and knowledge grounding patterns Delivery and operational mindset: Experience across the full lifecycle: Use case definition Solution design Integration Deployment Monitoring and optimization Strong understanding of: AI observability (quality, latency, cost) Reliability and system performance Risk, security, and governance awareness: Experience working in regulated environments Strong awareness of: Data privacy and security AI governance and controls Misuse prevention (incl. prompt injection risks) Auditability and human-in-the-loop safeguards
+Hands-On Engineering Strength (Critical)
+
+- Proven ability to build and ship production systems at scale
+
+- Strong experience in:
+
+- Backend development and API design
+
+- Cloud-native systems (Azure preferred)
+
+- Integration-heavy, distributed applications
+
+- Comfortable operating in a high-output, hands-on environment
+
+System Design & Architecture Judgment - Ability to design clean, practical architectures that support real-world constraints - Experience making trade-offs across: - delivery speed vs scalability - simplicity vs flexibility - Can move fluidly between coding and design thinking AI / GenAI Development - Hands-on experience building LLM-powered applications in production - Strong understanding of: - Prompt design and evaluation - Agent-based workflows and orchestration - Integrating AI into production systems - Ability to debug, tune, and improve AI behavior in code Execution Mindset - Bias toward shipping and learning from production usage - Comfortable moving from idea → prototype → production - Strong ownership: you build it, you run it

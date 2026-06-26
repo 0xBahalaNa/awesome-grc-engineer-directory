@@ -1,7 +1,7 @@
 ---
-title: "Regulatory Compliance Specialist"
+title: "Regulatory Compliance Specialist (US Licensing)"
 company: "Moonpay"
-slug: "lever-moonpay-3774e970-dff3-4c72-902b-8742faf78e6a-regulatory-compliance-specialist"
+slug: "lever-moonpay-3774e970-dff3-4c72-902b-8742faf78e6a-regulatory-compliance-specialist-us-licensing"
 status: "published"
 source: "Lever"
 sources:
@@ -13,7 +13,7 @@ posted_date: "2026-06-02"
 expires_date: "2026-07-02"
 location: "New York - Hybrid"
 work_modes:
-  - "Hybrid / On-site"
+  - "Remote"
 job_types:
   - "Full-time"
 specializations:
