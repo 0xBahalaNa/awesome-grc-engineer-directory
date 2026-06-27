@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs?content=true"
 role_url: "https://boards.greenhouse.io/andurilindustries/jobs/5128973007?gh_jid=5128973007"
 apply_url: "https://boards.greenhouse.io/andurilindustries/jobs/5128973007?gh_jid=5128973007"
-posted_date: "2026-06-25"
-expires_date: "2026-07-25"
+posted_date: "2026-06-27"
+expires_date: "2026-07-27"
 location: "Washington, District of Columbia, United States"
 work_modes:
   - "Hybrid / On-site"
