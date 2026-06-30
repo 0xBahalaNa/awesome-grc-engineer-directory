@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/ramp?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f"
 apply_url: "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f/application"
-posted_date: "2026-06-29"
-expires_date: "2026-07-29"
+posted_date: "2026-06-30"
+expires_date: "2026-07-30"
 location: "San Francisco, CA"
 work_modes:
   - "Hybrid / On-site"
@@ -58,61 +58,41 @@ As an AI Forward Deployed Engineer, you will build internal and external agents 
 - Comfort and excitement to be customer-facing
 - Desire to work in a fast-paced environment, continuously grow, and master your craft
 
-# Benefits available to all full-time Ramp employees (Global)
+## Benefits available to all full-time Ramp employees (Global)
 
-• Flexible PTO
+- Flexible PTO
+- Unlimited AI token usage
+- Centralized home-office equipment ordering
+- Health and wellness stipend
+- Budget for intra-office travel
+- Weekly coffee stipend
 
-• Unlimited AI token usage
+## United States
 
-• Centralized home-office equipment ordering
+- 100% medical, dental & vision insurance coverage for you, with partial coverage for dependents
+- One Medical annual membership
+- 401(k), including employer match on contributions made while employed by Ramp
+- Fertility HRA (up to $10,000 per year)
+- Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay
+- Pet insurance
+- In-office perks: lunch, snacks, drinks, and more
+- Relocation support to NYC or SF (as needed)
 
-• Health and wellness stipend
+## Canada
 
-• Budget for intra-office travel
+- Group medical, dental, and vision coverage through Sun Life
+- Life, AD&D, and disability coverage
+- Fertility drug coverage (up to $4,000 lifetime)
+- Group Retirement Plan with employer match (RRSP + DPSP)
+- Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay, with additional time available at reduced pay
+- Employee Assistance Program and virtual care through Lumino Health
 
-• Weekly coffee stipend
+## United Kingdom
 
-# United States
-
-• 100% medical, dental & vision insurance coverage for you, with partial coverage for dependents
-
-• One Medical annual membership
-
-• 401(k), including employer match on contributions made while employed by Ramp
-
-• Fertility HRA (up to $10,000 per year)
-
-• Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay
-
-• Pet insurance
-
-• In-office perks: lunch, snacks, drinks, and more
-
-• Relocation support to NYC or SF (as needed)
-
-# Canada
-
-• Group medical, dental, and vision coverage through Sun Life
-
-• Life, AD&D, and disability coverage
-
-• Fertility drug coverage (up to $4,000 lifetime)
-
-• Group Retirement Plan with employer match (RRSP + DPSP)
-
-• Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay, with additional time available at reduced pay
-
-• Employee Assistance Program and virtual care through Lumino Health
-
-# United Kingdom
-
-• Private medical insurance through Freedom Elite
-
-• Virtual GP and at-home care via eMed x Livi
-
-• Workplace pension through Penfold, with salary sacrifice option
-
-• Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay with additional time available at reduced pay
+- Private medical insurance through Freedom Elite
+- Virtual GP and at-home care via eMed x Livi
+- Workplace pension through Penfold, with salary sacrifice option
+- Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay with additional time available at reduced pay
 
 ## Referral Instructions
 

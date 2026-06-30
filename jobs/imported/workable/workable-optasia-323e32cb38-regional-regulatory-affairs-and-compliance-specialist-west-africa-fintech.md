@@ -22,8 +22,7 @@ specializations:
   - "Security Governance"
   - "Audit & Assurance"
 frameworks: []
-languages:
-  - "Go"
+languages: []
 compensation: ""
 summary: "Optasia is a fully enabled B2B2X financial technology platform covering scoring, financial decisioning, disbursement and collection. We are committed to enabling financial..."
 ---
@@ -63,16 +62,6 @@ Your key attributes
 - Ability to analyze complex issues and systems, evaluate alternative solutions, develop sound
 - conclusions, and recommend a course of action.
 - Ability to work independently and take initiative without direct supervision within stated procedures and policies on multiple projects
-
-Why you should apply
-
-What we offer: 👟 Work From Anywhere policy (90 days/ year) 💸 Competitive remuneration package 🏝 Extra day off on your birthday 💰 Performance-based bonus scheme 📲 💻 All the tech gear you need to work smart
-
-Optasia’s Perks: 🎌 Be a part of a multicultural working environment 🎯 Meet a very unique and promising business and industry 🌌 🌠 Gain insights for tomorrow market’s foreground 🎓 A solid career path within our working family is ready for you 📚 Continuous training and access to online training platforms
-
-Optasia’s Values 🌟
-
-#1 Drive to Thrive: Fully dedicated to evolving. We welcome all challenges and learning opportunities. #2 Customer-First Mindset: We go above and beyond to meet our partners’ and clients’ expectations. #3 Bridge the Gap: Knowledge is shared, information is exchanged and every opinion counts. #4 Go-Getter Spirit: We are results oriented. We identify any shortcomings that hold us back and step up to do what’s needed. #5 Together we will do it: We are committed to supporting one another and to understanding and respecting different perspectives, as we aim to reach our common goals.
 
 Requirements
 
