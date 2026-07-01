@@ -1,7 +1,7 @@
 ---
-title: "GRC Analyst"
+title: "Controls & GRC Specialist"
 company: "Fireblocks"
-slug: "greenhouse-fireblocks-4691576006-grc-analyst"
+slug: "greenhouse-fireblocks-4691576006-controls-and-grc-specialist"
 status: "published"
 source: "Greenhouse"
 sources:
@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/fireblocks/jobs?content=true"
 role_url: "https://www.fireblocks.com/careers/position/4691576006?gh_jid=4691576006"
 apply_url: "https://www.fireblocks.com/careers/position/4691576006?gh_jid=4691576006"
-posted_date: "2026-06-29"
-expires_date: "2026-07-29"
+posted_date: "2026-07-01"
+expires_date: "2026-07-31"
 location: "Tel Aviv-Yafo, Tel Aviv District, Israel"
 work_modes:
   - "Hybrid / On-site"
