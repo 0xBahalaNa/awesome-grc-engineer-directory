@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5136287007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5136287007"
-posted_date: "2026-06-29"
-expires_date: "2026-07-29"
+posted_date: "2026-07-01"
+expires_date: "2026-07-31"
 location: "New York, NY; Palo Alto, CA"
 work_modes:
   - "Hybrid / On-site"
@@ -57,11 +57,11 @@ summary: "ABOUT xAI xAI’s mission is to create AI systems that can accurately 
 </ul>
 <h3><span style="font-family: arial, helvetica, sans-serif;">BASIC QUALIFICATIONS:</span></h3>
 <ul>
-<li>Exceptional coding proficiency in two or more languages (Python, JavaScript/TypeScript, Java, etc.) with a proven track record of shipping production-quality software, sample apps, prototypes, and developer tools.</li>
+<li>5+ years of experience in a customer-facing technical role (partner engineering, solutions architecture, developer relations, forward-deployed engineering, or similar) working directly with enterprise customers.</li>
+<li>Write and review production-grade code across frontend and backend (Python, JavaScript/TypeScript, Java, etc.) with a proven track record of shipping production-quality software, sample apps, prototypes, and developer tools.</li>
 <li>Strong understanding of API design principles, REST/GraphQL, real-time streaming systems, authentication, and modern AI/agent workflows.</li>
 <li>Hands-on experience building developer-facing assets: sample applications, reference implementations, DevEx tools, and high-quality technical documentation/guides.</li>
 <li>Deep, genuine passion for developer experience (DevEx) — you instinctively identify friction and love removing it through better docs, tools, and accessible APIs.</li>
-<li>5+ years of experience in a customer-facing technical role (partner engineering, solutions architecture, developer relations, forward-deployed engineering, or similar) working directly with enterprise customers.</li>
 <li>Ability to work comfortably and professionally with diverse stakeholders (software developers, product managers, technical executives, and business leaders) to define and deliver shared objectives.</li>
 <li>Excellent project management skills with the ability to scope, execute, and drive initiatives autonomously in a fast-paced environment.</li>
 <li>Outstanding verbal and written communication skills, including the ability to translate complex technical topics into clear, engaging documentation and presentations.</li>

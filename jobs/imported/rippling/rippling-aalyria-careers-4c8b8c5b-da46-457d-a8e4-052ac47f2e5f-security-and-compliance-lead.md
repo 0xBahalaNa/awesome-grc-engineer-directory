@@ -1,6 +1,6 @@
 ---
 title: "Security and Compliance Lead"
-company: "Aalyria Technologies, Inc."
+company: "Aalyria"
 slug: "rippling-aalyria-careers-4c8b8c5b-da46-457d-a8e4-052ac47f2e5f-security-and-compliance-lead"
 status: "published"
 source: "Rippling"

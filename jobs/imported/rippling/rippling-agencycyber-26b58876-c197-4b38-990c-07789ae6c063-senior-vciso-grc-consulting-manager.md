@@ -1,6 +1,6 @@
 ---
 title: "Senior vCISO / GRC Consulting Manager"
-company: "Agency Cyber Inc"
+company: "Agency"
 slug: "rippling-agencycyber-26b58876-c197-4b38-990c-07789ae6c063-senior-vciso-grc-consulting-manager"
 status: "published"
 source: "Rippling"
