@@ -19,16 +19,18 @@ job_types:
 specializations:
   - "Compliance Automation"
   - "Risk Management"
+  - "Security Governance"
   - "Audit & Assurance"
-  - "Privacy"
 frameworks:
   - "SOC 2"
   - "ISO 27001"
   - "NIST CSF"
 languages: []
 compensation: ""
-summary: "RESPONSIBILITIES: Support day-to-day GRC program operations – manage and triage GRC intakes and accurate tracking through resolution Perform and support third-party risk..."
+summary: "As a GRC Analyst, you will support the WHOOP Governance, Risk, and Compliance program. You will help manage risk reviews, operational requests, and cross-functional security..."
 ---
+
+As a GRC Analyst, you will support the WHOOP Governance, Risk, and Compliance program. You will help manage risk reviews, operational requests, and cross-functional security compliance workflows. Success in this role requires strong attention to detail, responsiveness and accountability through completion in a fast-paced environment. A key focus of this role will be helping ensure GRC work is reviewed, prioritized, routed, tracked, and completed effectively. You will use intake and ticketing data to identify workflow trends, recurring questions, handoff gaps, and opportunities to improve guidance, templates, reporting, automation, and stakeholder experience. You will also support broader GRC initiatives, including compliance calendar activities, control monitoring, process documentation, security awareness coordination, and continuous improvement across the GRC program.
 
 ### RESPONSIBILITIES:
 

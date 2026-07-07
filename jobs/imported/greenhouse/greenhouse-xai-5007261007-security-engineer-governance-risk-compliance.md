@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5007261007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5007261007"
-posted_date: "2026-06-29"
-expires_date: "2026-07-29"
+posted_date: "2026-07-06"
+expires_date: "2026-08-05"
 location: "New York, NY; Palo Alto, CA; Washington, D.C."
 work_modes:
   - "Hybrid / On-site"
@@ -28,7 +28,7 @@ frameworks:
   - "ISO 42001"
   - "NIST 800-53"
 languages: []
-compensation: "$100,000 - $228,000"
+compensation: "$100,000 - $258,000"
 summary: "ABOUT xAI xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge. Our team is small, highly motivated, and..."
 ---
 
@@ -74,7 +74,7 @@ summary: "ABOUT xAI xAI’s mission is to create AI systems that can accurately 
 <li>Knowledge of government cloud services and evolving certification programs.</li>
 </ul>
 <h3><strong>COMPENSATION AND BENEFITS:</strong></h3>
-<p>$100,000 - $228,000 USD</p>
+<p><span style="font-weight: 400;">$100,000 - $258,000 USD</span></p>
 <p>Base salary is just one part of our total rewards package at xAI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, and various other discounts and perks.</p>
 <h3>ITAR REQUIREMENTS:</h3>
 <ul>
