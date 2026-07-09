@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/Flock Safety?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/Flock%20Safety/11653020-9ee2-4d82-ab25-29de3dfd7faf"
 apply_url: "https://jobs.ashbyhq.com/Flock%20Safety/11653020-9ee2-4d82-ab25-29de3dfd7faf/application"
-posted_date: "2026-07-08"
-expires_date: "2026-08-07"
+posted_date: "2026-07-09"
+expires_date: "2026-08-08"
 location: "Remote - USA"
 work_modes:
   - "Remote"
@@ -30,7 +30,7 @@ frameworks:
 languages:
   - "Terraform"
   - "Rust"
-compensation: "$130,000 - $150,000"
+compensation: "$130,000 - $145,000"
 summary: "Who is Flock? Every community deserves to be safe, it’s a fundamental right. Our mission is simple - to build technology that reduces crime and protects privacy. Flock partners..."
 ---
 
@@ -161,7 +161,7 @@ The First 60 Days
 
 # Salary & Equity
 
-In this role, you’ll receive a starting salary between $130,000 and $150,000 as well as Flock Stock Options. Base salary is determined by job-related experience, education/training, as well as market indicators. Your recruiter will discuss this in-depth with you during our first chat.
+In this role, you’ll receive a starting salary between $130,000 and $145,000 as well as Flock Stock Options. Base salary is determined by job-related experience, education/training, as well as market indicators. Your recruiter will discuss this in-depth with you during our first chat.
 
 # Location
 
