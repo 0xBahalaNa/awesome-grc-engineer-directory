@@ -25,28 +25,32 @@ frameworks: []
 languages:
   - "Rust"
 compensation: ""
-summary: "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people..."
+summary: "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320..."
 ---
 
-Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.
+Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.
 
 About Binance Accelerator Program
 
-Binance Accelerator Program is a concise fixed-term program designed for Early Career Talent to have an immersive experience in the rapidly expanding Web3 space. You will be given the opportunity to experience life at Binance and understand what goes on behind the scenes of the worlds’ leading blockchain ecosystem. Alongside your job, there will also be a focus on networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about BAP Program HERE (https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651)
+Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program HERE (https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651).
 
 Who may apply
 
-Current university students and recent graduates
+Current university students and recent graduates.
 
-Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.
+*Terms of employment / engagement shall be subject to contract and local applicable laws
+
+Binance is a leading global blockchain ecosystem behind the world&rsquo;s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance to education, research, social good, payments, institutional services, and Web3 features. Binance is devoted to building an inclusive crypto ecosystem to increase the freedom of money and financial access for people around the world with crypto as the fundamental means.
 
 About Binance Accelerator Program
 
-Binance Accelerator Program is a concise fixed-term program designed for Early Career Talent to have an immersive experience in the rapidly expanding Web3 space. You will be given the opportunity to experience life at Binance and understand what goes on behind the scenes of the worlds’ leading blockchain ecosystem. Alongside your job, there will also be a focus on networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about BAP Program HERE (https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651)
+Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it&rsquo;s like to work at the world's leading blockchain ecosystem. As part of your internship in the BAP, there will also be opportunities for networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about the BAP Program HERE (https://www.binance.com/en/blog/all/early-career-program-how-binance-gears-up-early-career-talent-6771140985933048651).
 
 Who may apply
 
-Current university students and recent graduates
+Current university students and recent graduates.
+
+*Terms of employment / engagement shall be subject to contract and local applicable laws
 
 ### Responsibilities:
 
