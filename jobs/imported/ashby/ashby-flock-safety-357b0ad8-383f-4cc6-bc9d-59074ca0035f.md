@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/Flock Safety?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/Flock%20Safety/357b0ad8-383f-4cc6-bc9d-59074ca0035f"
 apply_url: "https://jobs.ashbyhq.com/Flock%20Safety/357b0ad8-383f-4cc6-bc9d-59074ca0035f/application"
-posted_date: "2026-07-10"
-expires_date: "2026-08-09"
+posted_date: "2026-07-11"
+expires_date: "2026-08-10"
 location: "Remote - USA"
 work_modes:
   - "Remote"

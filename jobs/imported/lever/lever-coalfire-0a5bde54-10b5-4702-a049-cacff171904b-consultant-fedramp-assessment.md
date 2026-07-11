@@ -29,7 +29,7 @@ frameworks:
   - "PCI-DSS"
 languages:
   - "Rust"
-compensation: "$64,000 - $112,000"
+compensation: "$80,000 - $134,000"
 summary: "About Coalfire Coalfire is on a mission to make the world a safer place by solving our clients’ hardest cybersecurity challenges. We work at the cutting edge of technology to..."
 ---
 
@@ -43,9 +43,9 @@ We are thought leaders, consultants, and cybersecurity experts, but above all el
 
 About Coalfire
 
-Coalfire is on a mission to make the world a safer place by solving our clients’ hardest cybersecurity challenges. We work at the cutting edge of technology to advise, assess, automate, and ultimately help companies navigate the ever-changing cybersecurity landscape. We are headquartered in Chicago, Illinois with offices across the U.S. and U.K., and we support clients around the world.
+Coalfire is on a mission to make the world a safer place by solving our clients&rsquo; hardest cybersecurity challenges. We work at the cutting edge of technology to advise, assess, automate, and ultimately help companies navigate the ever-changing cybersecurity landscape. We are headquartered in Chicago, Illinois with offices across the U.S. and U.K., and we support clients around the world.
 
-But that’s not who we are – that’s just what we do.
+But that&rsquo;s not who we are &ndash; that&rsquo;s just what we do.
 
 We are thought leaders, consultants, and cybersecurity experts, but above all else, we are a team of passionate problem-solvers who are hungry to learn, grow, and make a difference.
 
@@ -99,4 +99,4 @@ At Coalfire, you’ll find the support you need to thrive personally and profess
 
 Regardless of location, you’ll experience a company that prioritizes connection and wellbeing and be part of a team where people care about each other and our communities. You’ll have opportunities to join employee resource groups, participate in in-person and virtual events, and more. And you’ll enjoy competitive perks and benefits to support you and your family, like paid parental leave, flexible time off, certification and training reimbursement, digital mental health and wellbeing support membership, and comprehensive insurance options.
 
-At Coalfire, equal opportunity and pay equity is integral to the way we do business. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. Coalfire is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. To request reasonable accommodation to participate in the job application or interview process, contact our Human Resources team at HumanResourcesMB@coalfire.com (mailto:HumanResourcesMB@coalfire.com) .
+At Coalfire, equal opportunity and pay equity is integral to the way we do business. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. Coalfire is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. To request reasonable accommodation to participate in the job application or interview process, contact our Human Resources team at HumanResourcesMB@coalfire.com (mailto:HumanResourcesMB@coalfire.com).
