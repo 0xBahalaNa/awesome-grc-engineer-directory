@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/ramp?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f"
 apply_url: "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f/application"
-posted_date: "2026-07-10"
-expires_date: "2026-08-09"
+posted_date: "2026-07-11"
+expires_date: "2026-08-10"
 location: "San Francisco, CA"
 work_modes:
   - "Hybrid / On-site"
@@ -61,7 +61,6 @@ As an AI Forward Deployed Engineer, you will build internal and external agents 
 ## Benefits available to all full-time Ramp employees (Global)
 
 - Flexible PTO
-- Unlimited AI token usage
 - Centralized home-office equipment ordering
 - Health and wellness stipend
 - Budget for intra-office travel
