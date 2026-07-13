@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/ramp?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f"
 apply_url: "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f/application"
-posted_date: "2026-07-12"
-expires_date: "2026-08-11"
+posted_date: "2026-07-13"
+expires_date: "2026-08-12"
 location: "San Francisco, CA"
 work_modes:
   - "Hybrid / On-site"
