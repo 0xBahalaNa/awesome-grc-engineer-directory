@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5007261007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5007261007"
-posted_date: "2026-07-06"
-expires_date: "2026-08-05"
+posted_date: "2026-07-13"
+expires_date: "2026-08-12"
 location: "New York, NY; Palo Alto, CA; Washington, D.C."
 work_modes:
   - "Hybrid / On-site"
@@ -29,12 +29,11 @@ frameworks:
   - "NIST 800-53"
 languages: []
 compensation: "$100,000 - $258,000"
-summary: "ABOUT xAI xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge. Our team is small, highly motivated, and..."
+summary: "SpaceXAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge. Our team is small, highly motivated, and..."
 ---
 
-<div class="content-intro"><h3><strong><span style="font-family: arial, helvetica, sans-serif;">ABOUT xAI</span></strong></h3>
-<p><span style="font-family: arial, helvetica, sans-serif;">xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge. </span><span style="font-family: arial, helvetica, sans-serif;">Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. </span><span style="font-family: arial, helvetica, sans-serif;">We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important. </span><span style="font-family: arial, helvetica, sans-serif;">All employees are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.</span></p></div><h3><strong>ABOUT THE ROLE:</strong></h3>
-<div>We are seeking an experienced and strategic Governance, Risk, and Compliance (GRC) team member as we expand into government and public sector applications of AI. This critical role will ensure that xAI operates within regulatory, ethical, operational, and federal boundaries while fostering a culture of integrity and resilience. You will collaborate with cross-functional teams to safeguard our mission-driven work in AI development and deployment, including support for sensitive and classified environments.</div>
+<div class="content-intro"><p><span style="font-family: arial, helvetica, sans-serif;">SpaceXAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.&nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. </span><span style="font-family: arial, helvetica, sans-serif;">We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important. </span><span style="font-family: arial, helvetica, sans-serif;">All employees are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.</span></p></div><h3><strong>ABOUT THE ROLE:</strong></h3>
+<div>We are seeking an experienced and strategic Governance, Risk, and Compliance (GRC) team member as we expand into government and public sector applications of AI. This critical role will ensure that SpaceXAI operates within regulatory, ethical, operational, and federal boundaries while fostering a culture of integrity and resilience. You will collaborate with cross-functional teams to safeguard our mission-driven work in AI development and deployment, including support for sensitive and classified environments.</div>
 <h3><strong>RESPONSIBILITIES:</strong></h3>
 <ul>
 <li>Execute security compliance implementation and audits (e.g., ISO 27001/42001, SOC2, FedRAMP HIGH, DoD Cloud Computing SRG IL5/IL6, NIST 800-53 rev 5, NIST 800-171/CMMC, Risk Management Framework).</li>
@@ -75,8 +74,8 @@ summary: "ABOUT xAI xAI’s mission is to create AI systems that can accurately 
 </ul>
 <h3><strong>COMPENSATION AND BENEFITS:</strong></h3>
 <p><span style="font-weight: 400;">$100,000 - $258,000 USD</span></p>
-<p>Base salary is just one part of our total rewards package at xAI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, and various other discounts and perks.</p>
+<p>Base salary is just one part of our total rewards package at SpaceXAI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, and various other discounts and perks.</p>
 <h3>ITAR REQUIREMENTS:</h3>
 <ul>
 <li>To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR <a class="discussion-id-36164de2-197a-8070-84b2-001c900d71fe notion-link-token notion-focusable-token notion-enable-hover" href="https://deccs.pmddtc.state.gov/deccs" data-token-index="1"><span class="link-annotation-unknown-block-id--1213793699">here</span></a>.</li>
-</ul><div class="content-conclusion"><p><em>xAI is an equal opportunity employer. For details on data processing, view our&nbsp;</em><em><a href="https://x.ai/legal/recruitment-privacy-notice" target="_blank">Recruitment Privacy Notice</a>.</em></p></div>
+</ul><div class="content-conclusion"><p><em>SpaceXAI is an equal opportunity employer. For details on data processing, view our </em><em><a href="https://x.ai/legal/recruitment-privacy-notice" target="_blank">Recruitment Privacy Notice</a>.</em></p></div>

@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/fireblocks/jobs?content=true"
 role_url: "https://www.fireblocks.com/careers/4692079006?gh_jid=4692079006"
 apply_url: "https://www.fireblocks.com/careers/4692079006?gh_jid=4692079006"
-posted_date: "2026-07-12"
-expires_date: "2026-08-11"
+posted_date: "2026-07-14"
+expires_date: "2026-08-13"
 location: "Berlin, Berlin, Germany"
 work_modes:
   - "Hybrid / On-site"
@@ -36,7 +36,7 @@ summary: "The world of digital assets is accelerating in speed, magnitude, and c
 <p class="p1">Reporting line: GRC Director</p>
 <p class="p1"><strong>What you will do</strong></p>
 <ul class="ul1">
-<li class="li2"><span class="s1">Lead the development and execution of the company’s compliance strategy for DORA and MiCA regulations.</span></li>
+<li class="li2"><span class="s1">Drive the development and execution of the company’s compliance strategy for DORA and MiCA regulations.</span></li>
 <li class="li2"><span class="s1">Conduct gap analyses and risk assessments to identify areas of improvement in security, operational resilience, and compliance processes.</span></li>
 <li class="li2"><span class="s1">Develop and maintain policies, procedures, and controls to align with EU regulatory requirements.</span></li>
 <li class="li2"><span class="s1">Act as a primary point of contact for EU customers on security matters and manage operations related to EU customer audits, due diligence queries, security questionnaires, etc., while demonstrating our commitment to regulatory adherence and security excellence.</span></li>
@@ -49,7 +49,7 @@ summary: "The world of digital assets is accelerating in speed, magnitude, and c
 </ul>
 <p class="p1"><span class="Apple-converted-space">&nbsp;</span><strong>Qualifications:</strong></p>
 <ul class="ul1">
-<li class="li2"><span class="s1">Minimum of 8+ years of experience in cybersecurity or GRC, with at least 5 years experience in EU regulations in a senior role.</span></li>
+<li class="li2"><span class="s1">Minimum of 4+ years of experience in cybersecurity or GRC.</span></li>
 <li class="li2"><span class="s1">Proven experience in understanding and navigating security and GRC programs, working with various legal, compliance, GRC and security teams both externally with customers and internally.</span></li>
 <li class="li2"><span class="s1">In-depth knowledge of EU regulatory frameworks such as DORA, MiCA, GDPR, MaRisk, TIBER-EU etc.</span></li>
 <li class="li2"><span class="s1">Strong understanding of industry best practices, frameworks, standards and certifications such as SOC 2, ISO, NIST, CIS etc.</span></li>
