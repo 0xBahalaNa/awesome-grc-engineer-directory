@@ -1,5 +1,5 @@
 ---
-title: "GRC SECURITY ANALYST"
+title: "GRC Security Analyst"
 company: "Clearcapital"
 slug: "lever-clearcapital-f9bfbe73-bc5c-4114-aa0f-f956f738183e-grc-security-analyst"
 status: "published"

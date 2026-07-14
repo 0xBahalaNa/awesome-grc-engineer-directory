@@ -54,4 +54,4 @@ Requirements
 - Research Expertise: Proficient in using external databases, company registries, and research tools (e.g., World-Check, Dow Jones, Dun & Bradstreet) to verify client information.
 - Education & Experience: Bachelor's degree in Finance, Business, or Accounting, often with 2â5 years of relevant experience in compliance or financial services. Certifications such as the Certified Anti-Money Laundering Specialist (CAMS) are preferred.
 
-Please mention the word **THRILLED** and tag RMTcyLjE4NS4zMS4yMDk= when applying to show you read the job post completely (#RMTcyLjE4NS4zMS4yMDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+Please mention the word **THRILLED** and tag RMjAuMTY5Ljk0Ljcw when applying to show you read the job post completely (#RMjAuMTY5Ljk0Ljcw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
