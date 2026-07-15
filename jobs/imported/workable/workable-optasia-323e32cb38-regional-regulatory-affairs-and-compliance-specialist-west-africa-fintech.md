@@ -11,7 +11,7 @@ role_url: "https://apply.workable.com/j/323E32CB38"
 apply_url: "https://apply.workable.com/j/323E32CB38/apply"
 posted_date: "2026-05-26"
 expires_date: "2026-06-25"
-location: "Guinea-Bissau"
+location: "Senegal"
 work_modes:
   - "Remote"
 job_types:
