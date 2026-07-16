@@ -25,6 +25,7 @@ frameworks: []
 languages:
   - "Terraform"
   - "SQL"
+  - "OSCAL"
 compensation: ""
 summary: "About Dynamo AI At Dynamo AI , we help enterprises deploy AI systems that are reliable, secure, observable, scalable and production-ready. As organizations accelerate adoption of..."
 ---
@@ -37,60 +38,61 @@ As organizations accelerate adoption of Generative AI, they face growing challen
 
 We work closely with enterprises and regulated industries to bridge the gap between AI experimentation and production deployment — enabling organizations to deploy AI systems safely, efficiently, and responsibly.
 
-Forward Deployed Engineers at Dynamo AI work directly with enterprise customers to deploy Dynamo’s flagship products (DynamoEval, DynamoGuard, AgentWarden) into real-world client environments. Sitting at the intersection of engineering, customer deployment, and AI reliability, this role involves integrating AI guardrails, evaluation frameworks, and agentic observability capabilities into complex enterprise ecosystems — particularly within regulated industries such as financial services, healthcare, and government. Success in this role requires strong technical depth, curiosity, patience, and the ability to navigate complex operational and governance requirements while helping customers accelerate the path from experimentation to reliable production deployment.
+# About the Role
 
-About the Role
+We are hiring a Lead Forward Deployed Engineer to own the technical delivery of Dynamo AI’s products within enterprise customer environments running Kubernetes.
 
-We are looking for Forward Deployed Engineers to work directly with enterprise customers to help deploy, integrate, and operationalize AI systems in real-world production environments.
+This is a deeply hands-on individual-contributor role. It is not a people-management, project-management, pre-sales, or primarily advisory position.
 
-This role sits at the intersection of engineering, customer deployment, and AI reliability. You will work closely with customer engineering teams to integrate Dynamo AI’s platform into complex enterprise ecosystems while helping organizations navigate the operational, governance, and technical challenges of deploying AI at scale.
+You will deploy, configure, troubleshoot, and operationalize DynamoEval, DynamoGuard, and AgentWarden in customer-controlled environments, including EKS, AKS, GKE, OpenShift, and on-premises Kubernetes platforms.
 
-Forward Deployed Engineers act as the technical bridge between customers and Dynamo AI’s product and engineering teams. You will help customers implement AI guardrails, evaluation systems, observability workflows, and deployment architectures that meet enterprise requirements around reliability, security, compliance, and performance.
+You will typically serve as the directly responsible technical owner for two to four strategic enterprise customers. You will lead each deployment from architecture and technical discovery through implementation, production readiness, rollout, and operational handoff.
 
-This role requires strong technical depth, curiosity, patience, and a willingness to work through complex enterprise environments. Many of our customers operate highly regulated systems with deeply embedded legacy infrastructure, approval workflows, and operational constraints. Success in this role comes from being able to understand these environments deeply, collaborate through ambiguity, and help customers incrementally operationalize AI safely and effectively.
+The role combines three areas of responsibility:
 
-You will regularly encounter unfamiliar enterprise systems, architectures, and governance processes — particularly within financial services, healthcare, government, and other regulated sectors. We value engineers who are excited to learn how these environments work and can thoughtfully adapt AI systems to fit real-world operational needs.
+- Hands-on Kubernetes and cloud infrastructure engineering
+- End-to-end ownership of enterprise customer deployments
+- Technical project leadership and customer communication
 
-## Responsibilities
+Previous AI or machine-learning experience is helpful but not required. Strong production infrastructure and Kubernetes deployment experience is substantially more important.
 
-- Lead deployments of Dynamo AI products into customer environments, including EKS, AKS, GKE, OpenShift, and on-prem Kubernetes clusters.
-- Work directly with customer engineering, security, infrastructure, and operations teams to understand and meet their requirements and constraints.
-- Design and validate deployment architecture across networking, identity, storage, observability, scaling, security and reliability.
-- Troubleshoot production and pre-production issues across Kubernetes, application services, databases, ingress, authentication, networking, and cloud infrastructure.
-- Build deployment automation, Helm configurations, scripts, runbooks, and validation workflows to improve repeatability.
-- Drive technical scoping, effort estimation, risk assessment, rollout planning, and production readiness reviews.
-- Partner with product and engineering teams to identify product gaps, integration issues, and customer-driven improvements.
-- Communicate deployment status, risks, blockers, tradeoffs, and resolution plans clearly to internal and external stakeholders.
-- Help establish best practices for customer deployment workflows, acceptance criteria, and operational handoff.
+# What You Will Do
 
-## Required Qualifications
+- Lead end-to-end deployments of Dynamo AI products into customer-controlled Kubernetes environments.
+- Personally configure and troubleshoot Helm releases, workloads, services, ingress, storage, networking, identity, secrets, observability, and scaling.
+- Work directly with customer infrastructure, platform, security, networking, application, and operations teams.
+- Translate customer security, reliability, compliance, and operational requirements into practical deployment architectures.
+- Diagnose complex production and pre-production issues across Kubernetes, cloud infrastructure, application services, databases, authentication, networking, and service dependencies.
+- Build and maintain Helm configurations, Terraform modules, deployment scripts, validation tools, runbooks, and operational documentation.
+- Own technical discovery, deployment planning, effort estimation, dependency tracking, risk assessment, acceptance criteria, and production-readiness reviews.
+- Maintain a clear customer deployment plan and communicate progress, decisions, changes, risks, blockers, and resolution paths.
+- Drive technical issues to closure across customer teams and Dynamo AI’s product and engineering teams.
+- Identify recurring product and deployment gaps and help convert customer-specific solutions into reusable platform improvements.
+- Establish repeatable deployment, validation, upgrade, and operational-handoff practices.
 
-- 5+ years of professional experience in software engineering, infrastructure engineering, platform engineering, solutions engineering, or customer-facing engineering.
-- Strong hands-on experience with Kubernetes in production environments.
-- Experience with at least one major cloud provider: AWS, Azure, or GCP.
-- Strong debugging skills across distributed systems, networking, containers, logs, metrics, and service dependencies.
-- Experience with deployment tooling such as Helm, Terraform, ArgoCD, Kustomize, or similar systems.
-- Familiarity with production operations, including monitoring, alerting, incident response, scaling, reliability, and release practices.
-- Ability to work directly with enterprise customers to make them successful.
-- Strong written and verbal communication skills, with the ability to explain technical tradeoffs clearly to engineering and non-engineering stakeholders.
-- High ownership mindset and ability to drive ambiguous customer problems to closure.
+# Required Qualifications
 
-## Preferred Qualifications
+- 5+ years of relevant professional experience in infrastructure engineering, platform engineering, site reliability engineering, production engineering, DevOps, cloud engineering, or deeply hands-on customer engineering.
+- Demonstrated experience personally deploying and operating production applications on Kubernetes.
+- Experience configuring and troubleshooting Kubernetes components such as workloads, services, ingress, DNS, network policies, persistent storage, secrets, identity, autoscaling, and observability.
+- Production experience with at least one major cloud platform: AWS, Azure, or Google Cloud.
+- Hands-on experience with Helm and at least one infrastructure or deployment automation system such as Terraform, Argo CD, Flux, Kustomize, or equivalent tooling.
+- Strong debugging skills across containers, distributed services, networking, logs, metrics, authentication, storage, and service dependencies.
+- Experience designing or operating systems that meet production requirements for reliability, scalability, security, monitoring, upgrades, and incident response.
+- Ability to independently own a complex customer deployment and drive ambiguous technical problems to resolution.
+- Ability to manage deployment plans, dependencies, risks, customer actions, milestones, and operational readiness.
+- Strong written and verbal communication skills, including the ability to explain technical decisions and tradeoffs to both engineers and non-engineering stakeholders.
 
-- Experience deploying enterprise software into customer-controlled environments.
-- Experience with regulated or security-sensitive enterprise customers, including financial services, healthcare, government, or similar industries.
-- Familiarity with identity and access systems such as OIDC, SAML, Keycloak, Entra ID, or Okta.
-- Experience with service mesh, ingress controllers, API gateways, TLS, private networking, firewall rules, and proxy configurations.
-- Experience with databases and data services such as MongoDB, PostgreSQL, Redis, S3-compatible storage, or managed cloud equivalents.
-- Experience with AI/ML infrastructure, LLM applications, inference platforms, AI evaluation, guardrails, observability, or AI safety/governance products.
-- Prior experience in forward deployed engineering, solutions architecture, customer engineering, platform engineering, technical consulting, or production support engineering.
+Experience merely deploying applications onto a Kubernetes platform managed entirely by another team is not sufficient. Candidates should have direct experience diagnosing and resolving Kubernetes and infrastructure-level deployment issues.
 
-## You Might Thrive In This Role If You
+# Preferred Qualifications
 
-- Enjoy working directly with customers and solving practical engineering problems.
-- Are curious about how complex enterprises and regulated industries operate.
-- Can learn unfamiliar enterprise systems, architectures, and governance processes quickly.
-- Want to help enterprises deploy AI systems safely, reliably, and responsibly in real-world production environments.
+- Experience deploying enterprise software into customer-owned cloud, private-cloud, hybrid, or on-premises environments.
+- Experience working with regulated or security-sensitive organizations such as financial institutions, healthcare companies, government agencies, or large enterprises.
+- Experience with ingress controllers, service meshes, API gateways, TLS, private endpoints, proxies, DNS, firewall rules, and enterprise network restrictions.
+- Experience with PostgreSQL, MongoDB, Redis, object storage, and their managed-cloud equivalents.
+- Experience with monitoring and observability platforms using logs, metrics, traces, dashboards, and alerts.
+- Experience supporting production incidents, upgrades, migrations, capacity planning, high availability, backup, or disaster recovery.
 
 # Why This Role
 

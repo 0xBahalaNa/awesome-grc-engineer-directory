@@ -1,7 +1,7 @@
 ---
-title: "Forward Deployed Engineer"
+title: "Forward Deployed Engineer - (East coast based)"
 company: "Crewai"
-slug: "workable-crewai-96051e9ede-forward-deployed-engineer"
+slug: "workable-crewai-96051e9ede-forward-deployed-engineer-east-coast-based"
 status: "published"
 source: "Workable"
 sources:
