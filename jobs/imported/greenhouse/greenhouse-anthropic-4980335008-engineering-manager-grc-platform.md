@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/anthropic/jobs/4980335008"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/4980335008"
-posted_date: "2026-07-14"
-expires_date: "2026-08-13"
+posted_date: "2026-07-17"
+expires_date: "2026-08-16"
 location: "San Francisco, CA | New York City, NY | Seattle, WA"
 work_modes:
   - "Hybrid / On-site"
@@ -69,7 +69,7 @@ summary: "About Anthropic Anthropic’s mission is to create reliable, interpret
 <li>Experience with GRC platforms such as ServiceNow GRC, Vanta, Drata, OneTrust, RSA Archer, or similar tools including configuration, customization, and integration capabilities.</li>
 <li>Prior experience in high-growth startup environments demonstrating ability to build scalable processes and adapt quickly to changing requirements and priorities</li>
 </ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p>The annual compensation range for this role is listed below.&nbsp;</p>
-<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$405,000</span><span class="divider">&mdash;</span><span>$405,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
+<p>For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.</p></div><div class="title">Annual Salary:</div><div class="pay-range"><span>$320,000</span><span class="divider">&mdash;</span><span>$405,000 USD</span></div></div></div><div class="content-conclusion"><h2><strong>Logistics</strong></h2>
 <p><strong>Minimum education: </strong>Bachelor’s degree or an equivalent combination of education, training, and/or experience</p>
 <p><strong>Required field of study:&nbsp;</strong>A field relevant to the role as demonstrated through coursework, training, or professional experience</p>
 <p><strong>Minimum years of experience: </strong>Years of experience required will correlate with the internal job level requirements for the position</p>
