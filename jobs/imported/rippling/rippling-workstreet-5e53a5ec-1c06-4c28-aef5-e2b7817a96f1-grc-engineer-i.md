@@ -20,7 +20,7 @@ specializations:
   - "Compliance Automation"
   - "Risk Management"
   - "Audit & Assurance"
-  - "Cloud Security"
+  - "Identity & Access Management"
 frameworks:
   - "FedRAMP"
   - "SOC 2"
@@ -77,15 +77,21 @@ This role requires strong communication skills and the ability to manage multipl
 - Growth Opportunity : Early-stage company with significant room for career advancement.
 - Remote-First Culture : Flexibility to work from anywhere while collaborating with a global team.
 
-## Work Environment Requirements
+## What You'll Need to Thrive
 
-- Reliable high-speed internet connection.
-- Quiet, professional home office setup.
-- Must be amenable to work US Eastern Time zone hours.
-- Fluency in written and verbal English communication skills.
+- Excellent written and verbal English communication skills, with the ability to engage confidently with candidates, hiring managers, and business leaders across global teams.
+- A reliable, high-speed internet connection and a professional home office environment that supports confidential conversations, virtual interviews, and uninterrupted collaboration.
+- Commitment to working a standard schedule of 8:00 AM–5:00 PM US Eastern Time (ET) to effectively support hiring managers, candidates, and cross-functional teams. Occasional flexibility to adjust working hours is expected to accommodate changing business priorities, global collaboration, and time-sensitive hiring needs.
+- Willingness and ability to travel locally for occasional onsite meetings, team gatherings, or business activities as needed.
+
+## Hiring and Selection Process
+
+- Candidates must participate in live video interviews throughout the hiring process with camera on (non-negotiable) and be prepared to verify their identity during recruitment and onboarding.
+- Employment is contingent upon successful completion of identity verification and background screening, where permitted by law.
+- Selected candidates will participate in structured interviews with hiring managers and cross-functional stakeholders to assess role fit, experience, and alignment with Workstreet’s operating principles.
+- Candidates will receive prompt updates and consistent communication throughout the interview process, ensuring a transparent, smooth, and engaging experience at every step.
+- Applicants must be authorized to work in the U.S. without the need for visa sponsorship now or in the future. Workstreet does not provide employment-based visa sponsorship or transfers for this role, including H-1B, L-1, TN, O-1, E-3, H-1B1, F-1 (OPT/CPT), J-1, or any other work-authorized visa category.
 
 ### Workstreet Is An Equal Opportunity Employer
 
-We are proud to be an equal opportunity employer. Workstreet does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need. In order to ensure reasonable accommodation for individuals protected by Section 503 of the Rehabilitation Act of 1973, the Vietnam Era Veterans’ Readjustment Assistance Act of 1974, Title I of the Americans with Disabilities Act of 1990, and any other applicable federal, state or local laws, applicants who require reasonable accommodation in the job application process may contact accommodationsus@workstreet.com (mailto:accommodationsus@workstreet.com)
-
-Employment with Workstreet is contingent upon the successful completion of a background check, which may include verification of employment history, education, and other relevant information, in compliance with applicable laws.
+As an equal opportunity employer, Workstreet is committed to providing employment opportunities to all individuals. All applicants for positions at Workstreet will be treated without regard to race, color, ethnicity, religion, sex, gender, gender identity and expression, sexual orientation, national origin, disability, age, marital status, veteran status, pregnancy, or any other basis prohibited by applicable law.
