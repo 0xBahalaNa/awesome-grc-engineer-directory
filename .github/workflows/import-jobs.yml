@@ -2,7 +2,8 @@ name: Import Jobs
 
 on:
   schedule:
-    - cron: '17 11 * * *'
+    # Daily at 11:17 UTC. The explicit day range preserves the existing cadence.
+    - cron: '17 11 * * 0-6'
   workflow_dispatch:
 
 jobs:
