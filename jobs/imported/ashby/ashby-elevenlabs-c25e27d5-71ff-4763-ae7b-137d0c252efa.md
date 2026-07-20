@@ -1,33 +1,27 @@
 ---
-title: "Compliance Engineer - EU"
+title: "Forward Deployed Engineer - Software Engineer - India"
 company: "Elevenlabs"
-slug: "ashby-elevenlabs-f4cfa7cc-5973-473d-93c6-68115d9e887d"
+slug: "ashby-elevenlabs-c25e27d5-71ff-4763-ae7b-137d0c252efa"
 status: "published"
 source: "Ashby"
 sources:
   - "Ashby"
 source_url: "https://api.ashbyhq.com/posting-api/job-board/elevenlabs?includeCompensation=true"
-role_url: "https://jobs.ashbyhq.com/elevenlabs/f4cfa7cc-5973-473d-93c6-68115d9e887d"
-apply_url: "https://jobs.ashbyhq.com/elevenlabs/f4cfa7cc-5973-473d-93c6-68115d9e887d/application"
+role_url: "https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa"
+apply_url: "https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa/application"
 posted_date: "2026-07-20"
 expires_date: "2026-08-19"
-location: "London"
+location: "India"
 work_modes:
   - "Remote"
 job_types:
   - "Full-time"
 specializations:
-  - "Compliance Automation"
-  - "Risk Management"
-  - "Audit & Assurance"
-  - "Privacy"
-frameworks:
-  - "ISO 27001"
-  - "ISO 42001"
-  - "GDPR"
+  - "Security Operations"
+  - "Forward Deployed Engineering"
+frameworks: []
 languages:
-  - "Go"
-  - "Rust"
+  - "Python"
 compensation: ""
 summary: "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice..."
 ---
@@ -61,38 +55,22 @@ Everything we do is the result of the creativity and commitment of our team - bu
 - Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy.
 - Co-working : If you’re not located near one of our main hubs, we offer a monthly co-working stipend.
 
+This role is remote, so it can be executed globally.
+
 ## About the role
 
-ElevenLabs is at the frontier of AI — and with that comes a real obligation to meet the compliance demands of the world's most regulated industries. As a Compliance Engineer focused on the EU, you'll help us navigate one of the most complex and fast-moving regulatory environments in the world: GDPR, the EU AI Act, DORA, NIS2, HDS, and beyond.
+You’ll use your creativity, problem-solving, and technical expertise to design tailored solutions that make a real impact.
 
-This isn't a checkbox role. You'll work closely with engineering, product, and legal teams to embed compliance into how we build — writing the technical documentation that earns enterprise trust, building tooling that makes staying compliant frictionless, and directly shaping our go-to-market story for regulated sectors like finance and telecommunications.
+Embedded with our most strategic customers, you’ll get a front-row seat to some of our highest-stakes projects. From brainstorming technical architectures and product features to building full-scale integrations, you’ll take full ownership of complex, high-impact challenges—helping clients achieve their goals and push the limits of what’s possible.
 
-You'll be the person who turns regulatory complexity into a competitive advantage for ElevenLabs in Europe.
+What you will do:
+
+- Take full ownership of end-to-end execution of major projects for our most strategic partners, working hands-on to deliver high-impact solutions.
+- Collaborate daily with our customer’s engineers and executives teams to ensure the best use of ElevenLabs’ technologies.
+- Drive real innovation by using your coding and technical skills to solve complex problems, making a real difference for our customers.
 
 ## Requirements
 
-- Proven experience working with EU regulatory frameworks — GDPR, EU AI Act, DORA, NIS2, and/or HDS
-
-- Hands-on with ISO 27001, ISO 42001, or the broader ISO 27000 series — gap analysis, risk assessments, audit support
-
-- Able to produce clear, precise technical compliance documentation that stands up to enterprise scrutiny
-
-- Comfortable supporting enterprise sales — responding to security questionnaires, customer compliance queries, and regulated-sector procurement
-
-- Experience building or maintaining compliance-as-code tooling to automate monitoring and reduce manual overhead
-
-- Based in EU/EMEA and able to operate within European business timezones
-
-## Bonus
-
-- Direct experience in regulated industries such as financial services or telecommunications
-
-- Familiarity with CIS benchmarks and risk documentation at scale
-
-- Scripting or engineering background that lets you go beyond documentation into automation
-
-## Location
-
-This role is remote-first, so it can be executed from anywhere in Europe, with the ability to operate in European timezones required. If you prefer, you can work from our offices in Dublin, London, and Warsaw.
-
-#LI-Remote
+- Experience working with customers. It’s ok if you only worked with customers in student clubs or side projects, as long as you are interested in working closely with them on a technical capacity
+- Proficiency in Python and strong software development knowledge, inclusive of a deep understanding of software development, software architecture, and APIs integration.
+- Excellent communication and problem-solving skills. Especially in terms of ability to summarize complex technical knowledge and using logic in pursuing optimal solutions.
