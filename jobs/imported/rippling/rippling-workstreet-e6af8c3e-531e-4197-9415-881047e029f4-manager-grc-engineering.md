@@ -11,7 +11,7 @@ role_url: "https://ats.rippling.com/workstreet/jobs/e6af8c3e-531e-4197-9415-8810
 apply_url: "https://ats.rippling.com/workstreet/jobs/e6af8c3e-531e-4197-9415-881047e029f4"
 posted_date: "2025-12-03"
 expires_date: "2026-01-02"
-location: "Remote (United Kingdom)"
+location: "UK (Remote)"
 work_modes:
   - "Remote"
 job_types:
