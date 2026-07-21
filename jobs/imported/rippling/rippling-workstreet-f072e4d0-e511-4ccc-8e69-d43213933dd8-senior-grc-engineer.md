@@ -11,7 +11,7 @@ role_url: "https://ats.rippling.com/workstreet/jobs/f072e4d0-e511-4ccc-8e69-d432
 apply_url: "https://ats.rippling.com/workstreet/jobs/f072e4d0-e511-4ccc-8e69-d43213933dd8"
 posted_date: "2026-04-23"
 expires_date: "2026-05-23"
-location: "Remote (India)"
+location: "Remote (Gurugram, HR, IN)"
 work_modes:
   - "Remote"
 job_types:

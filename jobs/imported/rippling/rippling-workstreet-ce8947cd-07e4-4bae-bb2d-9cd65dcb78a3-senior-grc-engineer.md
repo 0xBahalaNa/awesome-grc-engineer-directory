@@ -11,7 +11,7 @@ role_url: "https://ats.rippling.com/workstreet/jobs/ce8947cd-07e4-4bae-bb2d-9cd6
 apply_url: "https://ats.rippling.com/workstreet/jobs/ce8947cd-07e4-4bae-bb2d-9cd65dcb78a3"
 posted_date: "2026-07-15"
 expires_date: "2026-08-14"
-location: "Remote (United States)"
+location: "United Sates (Remote)"
 work_modes:
   - "Remote"
 job_types:
