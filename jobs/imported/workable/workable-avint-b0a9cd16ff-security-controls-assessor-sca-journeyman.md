@@ -35,97 +35,23 @@ Avint is seeking a highly motivated Journeyman Security Controls Assessor (SCA) 
 
 Requirements
 
-Education:
+Security Assessment and Validation • Conduct security control assessments of information systems using interview, examination, and testing methods. • Verify compliance with established frameworks such as NIST SP 800-37, NIST SP 800-53, NIST SP 800-171, FISMA, and/or FedRAMP, depending on organizational requirements. • Analyze system architectures, network diagrams, configuration settings, and policies to identify vulnerabilities and compliance gaps. • Review vulnerability scanning results (e.g., Nessus, Qualys) and penetration testing reports to validate the implementation of technical controls.
 
-· Bachelor’s degree (BS/BA) OR equivalent professional experience
+Reporting and Risk Management • Document detailed testing results and draft sections of the Security Assessment Report (SAR), ensuring clear explanations of non-compliant findings. • Present assessment findings and risk postures to Authorizing Officials (AO), system owners, and other stakeholders in clear, actionable terms. • Assist system owners in the development of realistic Plans of Action and Milestones (POA&M) to remediate identified deficiencies. • Collaborate with the Risk Management team to ensure assessment data accurately informs the organization’s continuous monitoring strategy.
 
-· Security+ or higher
+Continuous Improvement and Strategy • Stay current on emerging cyber threats, vulnerabilities, regulatory changes, and assessment techniques. • Identify opportunities to automate assessment processes and integrate modern tooling into the assessment lifecycle. • Participate in the development and refinement of enterprise information security policies, standards, and guidelines.
 
-Experience
+Qualifications
 
-· Minimum of 6-8 years of dedicated experience in cybersecurity, information assurance,
+Technical Areas of Expertise: • Advanced knowledge of security control frameworks (specifically NIST SP 800-53, NIST SP 800-37, and NIST SP 800-171). • Familiarity with cloud security concepts (AWS, Azure, Google Cloud) and cloud compliance frameworks (FedRAMP). • Knowledge of operating system security, network protocols, access control mechanisms, and vulnerability management tools.
 
-or IT auditing.
+Education: • Bachelor’s degree (BS/BA) OR equivalent professional experience • Security+ or higher
 
-· At least six (6) years of dedicated experience performing hands-on security controls
+Experience • Minimum of 6-8 years of dedicated experience in cybersecurity, information assurance, or IT auditing. • At least six (6) years of dedicated experience performing hands-on security controls assessments of systems of moderate complexity (C2 & C3) with capability of supporting C4 assessments.
 
-assessments of systems of moderate complexity (C2 & C3) with capability of
+Clearance Requirements: • Must be a U.S. citizen (no dual citizenship). • Ability to pass a background investigation. • Able to obtain and maintain DHS Suitability/Entry on Duty (EOD).
 
-supporting C4 assessments.
-
-Clearance Requirements:
-
-· Must be a U.S. citizen (no dual citizenship).
-
-· Ability to pass a background investigation.
-
-· Able to obtain and maintain DHS Suitability/Entry on Duty (EOD).
-
-Soft Skills:
-
-· Strong attention to detail and organized documentation habits.
-
-· Good analytical and troubleshooting abilities.
-
-· Professional verbal and written communication skills, with an ability to collaborate
-
-effectively across technical boundaries.
-
-Position Responsibilities
-
-Security Assessment and Validation
-
-· Conduct security control assessments of information systems using interview,
-
-examination, and testing methods.
-
-· Verify compliance with established frameworks such as NIST SP 800-37, NIST SP
-
-800-53, NIST SP 800-171, FISMA, and/or FedRAMP, depending on organizational
-
-requirements.
-
-· Analyze system architectures, network diagrams, configuration settings, and policies to
-
-identify vulnerabilities and compliance gaps.
-
-· Review vulnerability scanning results (e.g., Nessus, Qualys) and penetration testing
-
-reports to validate the implementation of technical controls.
-
-Reporting and Risk Management
-
-· Document detailed testing results and draft sections of the Security Assessment Report
-
-(SAR), ensuring clear explanations of non-compliant findings.
-
-· Present assessment findings and risk postures to Authorizing Officials (AO), system
-
-owners, and other stakeholders in clear, actionable terms.
-
-· Assist system owners in the development of realistic Plans of Action and Milestones
-
-(POA&M) to remediate identified deficiencies.
-
-· Collaborate with the Risk Management team to ensure assessment data accurately
-
-informs the organization’s continuous monitoring strategy.
-
-Continuous Improvement and Strategy · Stay current on emerging cyber threats, vulnerabilities, regulatory changes, and assessment techniques. · Identify opportunities to automate assessment processes and integrate modern tooling into the assessment lifecycle. · Participate in the development and refinement of enterprise information security policies, standards, and guidelines.
-
-Technical Areas of Expertise
-
-· Solid working knowledge of security control frameworks (specifically NIST SP 800-
-
-53, NIST SP 800-37, and NIST SP 800-171).
-
-· Familiarity with cloud security concepts (AWS, Azure, Google Cloud) and cloud
-
-compliance frameworks (FedRAMP).
-
-· Knowledge of operating system security, network protocols, access control
-
-mechanisms, and vulnerability management tools.
+Soft Skills: • Strong attention to detail and organized documentation habits. • Good analytical and troubleshooting abilities. • Professional verbal and written communication skills, with an ability to collaborate effectively across technical boundaries.
 
 Benefits
 
