@@ -62,7 +62,3 @@ Your key attributes
 - Ability to analyze complex issues and systems, evaluate alternative solutions, develop sound
 - conclusions, and recommend a course of action.
 - Ability to work independently and take initiative without direct supervision within stated procedures and policies on multiple projects
-
-Requirements
-
-Benefits

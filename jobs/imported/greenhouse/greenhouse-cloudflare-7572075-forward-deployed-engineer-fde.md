@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true"
 role_url: "https://boards.greenhouse.io/cloudflare/jobs/7572075?gh_jid=7572075"
 apply_url: "https://boards.greenhouse.io/cloudflare/jobs/7572075?gh_jid=7572075"
-posted_date: "2026-07-06"
-expires_date: "2026-08-05"
+posted_date: "2026-07-21"
+expires_date: "2026-08-20"
 location: "Hybrid"
 work_modes:
   - "Hybrid / On-site"
@@ -33,7 +33,7 @@ summary: "About Us At Cloudflare, we are on a mission to help build a better Int
 <div>
 <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&nbsp;</p>
 <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a "normalized" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p>
-</div></div><p><strong>Locations: </strong>Austin/TX, Dallas/TX or Atlanta/GA</p>
+</div></div><p><strong>Available Locations:&nbsp;</strong>Austin/TX, Dallas/TX, Atlanta/GA, Denver and NYC</p>
 <p><strong>Role Summary</strong></p>
 <p>As a Forward Deployed Engineer (FDE), you will be a dedicated Cloudflare expert directly embedded within the team of one of our most strategic and fast-paced customers. You will serve as the primary technical resource, architecting complex multi-stage migrations and providing the hands-on configuration necessary to drive the success of unique web infrastructure requirements. We are looking for a proactive, high-trust partner who thrives in agile environments, acts as a bridge to internal product teams, and possesses a deep passion for the future of AI-driven security.</p>
 <h4><strong>Role Responsibilities</strong></h4>
@@ -64,7 +64,7 @@ summary: "About Us At Cloudflare, we are on a mission to help build a better Int
 <li><strong>Financial Acumen:</strong> Experience managing or advising on project-based fund pools to maximize the value of a customer's strategic investment.</li>
 </ul>
 <h4><strong>Compensation</strong></h4>
-<p>Compensation may be adjusted depending on work location.&nbsp;<br>This role is eligible to earn incentive compensation under Cloudflare’s Sales Compensation Plan. The estimated annual salary range includes the on-target incentive compensation that may be attained in this role under the Sales Compensation Plan.<br><br>For Colorado, Hawaii, and Illinois based hires: Estimated annual salary of $167,000 - $230,000<br>For New York City, New Jersey, Washington, Washington DC, and California (excluding Bay Area) based hires: Estimated annual salary of $184,000 - $253,000<br>For Bay Area based hires: Estimated annual salary of $192,000 - $264,000<br><br><strong>Equity</strong><br>This role is eligible to participate in Cloudflare’s equity plan.<br><br><strong>Benefits</strong><br>Cloudflare offers a complete package of benefits and programs to support you and your family.&nbsp; Our benefits programs can help you pay health care expenses, support caregiving, build capital for the future and make life a little easier and fun!&nbsp; The below is a description of our benefits for employees in the United States, and benefits may vary for employees based outside the U.S.<br><br><strong>Health &amp; Welfare Benefits</strong></p>
+<p>Compensation may be adjusted depending on work location.&nbsp;<br>This role is eligible to earn incentive compensation under Cloudflare’s Sales Compensation Plan. The estimated annual salary range includes the on-target incentive compensation that may be attained in this role under the Sales Compensation Plan.<br><br>For Colorado based hires: Estimated annual salary of $167,000 - $230,000<br>For New York City, New Jersey based hires: Estimated annual salary of $184,000 - $253,000<br><br><strong>Equity</strong><br>This role is eligible to participate in Cloudflare’s equity plan.<br><br><strong>Benefits</strong><br>Cloudflare offers a complete package of benefits and programs to support you and your family.&nbsp; Our benefits programs can help you pay health care expenses, support caregiving, build capital for the future and make life a little easier and fun!&nbsp; The below is a description of our benefits for employees in the United States, and benefits may vary for employees based outside the U.S.<br><br><strong>Health &amp; Welfare Benefits</strong></p>
 <ul>
 <li>Medical/Rx Insurance</li>
 <li>Dental Insurance</li>
