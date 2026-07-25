@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true"
 role_url: "https://boards.greenhouse.io/cloudflare/jobs/8045914?gh_jid=8045914"
 apply_url: "https://boards.greenhouse.io/cloudflare/jobs/8045914?gh_jid=8045914"
-posted_date: "2026-07-08"
-expires_date: "2026-08-07"
+posted_date: "2026-07-24"
+expires_date: "2026-08-23"
 location: "Hybrid"
 work_modes:
   - "Remote"
@@ -67,7 +67,30 @@ summary: "About Us At Cloudflare, we are on a mission to help build a better Int
 <p><strong>Equity</strong></p>
 <p>This role is eligible to participate in Cloudflare’s equity plan.</p>
 <p><strong>Benefits</strong></p>
-<p>Cloudflare offers a complete package of benefits and programs to support you and your family, including medical, dental, and vision insurance, a 401(k) plan with company match, flexible paid time off, and fertility &amp; family-forming benefits.</p><div class="content-conclusion"><p><strong>What Makes Cloudflare Special?</strong></p>
+<p>Cloudflare offers a complete package of benefits and programs to support you and your family.&nbsp; Our benefits programs can help you pay health care expenses, support caregiving, build capital for the future and make life a little easier and fun!&nbsp; The below is a description of our benefits for employees in the United States, and benefits may vary for employees based outside the U.S.</p>
+<p><br><strong>Health &amp; Welfare Benefits</strong></p>
+<ul>
+<li>Medical/Rx Insurance</li>
+<li>Dental Insurance</li>
+<li>Vision Insurance</li>
+<li>Flexible Spending Accounts</li>
+<li>Commuter Spending Accounts</li>
+<li>Fertility &amp; Family Forming Benefits</li>
+<li>On-demand mental health support and Employee Assistance Program</li>
+<li>Global Travel Medical Insurance</li>
+</ul>
+<p><strong>Financial Benefits</strong></p>
+<ul>
+<li>Short and Long Term Disability Insurance</li>
+<li>Life &amp; Accident Insurance</li>
+<li>401(k) Retirement Savings Plan</li>
+<li>Employee Stock Participation Plan</li>
+</ul>
+<p><strong>Time Off</strong></p>
+<ul>
+<li>Flexible paid time off covering vacation and sick leave</li>
+<li>Leave programs, including parental, pregnancy health, medical, and bereavement leave</li>
+</ul><div class="content-conclusion"><p><strong>What Makes Cloudflare Special?</strong></p>
 <p><span style="font-weight: 400;">We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.</span></p>
 <p><a href="https://blog.cloudflare.com/protecting-free-expression-online/"><strong>Project Galileo</strong></a><span style="font-weight: 400;">: Since 2014, we've equipped more than 2,400 journalism and civil society organizations in 111 countries with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflare’s enterprise customers--at no cost.</span></p>
 <p><strong><a href="https://www.cloudflare.com/athenian/">Athenian Project</a></strong><span style="font-weight: 400;">: In 2017, we created the Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration. Since the project, we've provided services to more than 425 local government election websites in 33 states.</span></p>
