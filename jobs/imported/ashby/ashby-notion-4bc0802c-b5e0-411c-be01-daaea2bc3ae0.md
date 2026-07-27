@@ -9,18 +9,18 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/Notion?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/Notion/4bc0802c-b5e0-411c-be01-daaea2bc3ae0"
 apply_url: "https://jobs.ashbyhq.com/Notion/4bc0802c-b5e0-411c-be01-daaea2bc3ae0/application"
-posted_date: "2026-07-26"
-expires_date: "2026-08-25"
+posted_date: "2026-07-27"
+expires_date: "2026-08-26"
 location: "Tokyo, Japan "
 work_modes:
   - "Hybrid / On-site"
 job_types:
   - "Full-time"
 specializations:
+  - "Risk Management"
   - "Security Governance"
   - "Identity & Access Management"
   - "Privacy"
-  - "Forward Deployed Engineering"
 frameworks: []
 languages:
   - "Python"
@@ -37,42 +37,47 @@ Notion is the collaborative AI workspace where teams and agents think together (
 
 Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.
 
-# About the role
+# About The Role
 
-As a Forward Deployed Engineer within Go-To-Market, you will lead complex customer engineering engagements from end to end, spanning large-scale migrations, integrating Notion with third party systems and tools, and production AI/agentic deployments.
+As a Forward Deployed Engineer on Notion’s Services team, you will lead the hands on technical delivery of our most complex customer engagements. You will design, build, and deploy production ready solutions that help enterprise customers integrate Notion as the operating layer for their business.
 
-You’ll embed with enterprise customers to design and build solutions that integrate Notion deeply into their technical and operational environments. This includes writing and maintaining custom code, designing and deploying production-grade custom agents and AI workflows with MCP, Agent APIs, and Notion’s automation and execution infrastructure, building data pipelines, and resolving complex challenges around scale, permissions, and governance.
+You’ll embed with enterprise customers to design and build solutions that integrate Notion deeply into their technical and operational environments. This includes writing and maintaining custom code, designing and deploying production-grade custom agents and AI workflows with MCP, Agent APIs, and Notion’s automation and execution infrastructure, building data pipelines and resolving complex challenges around scale, permissions, and governance.
 
-Your work as a customer-facing engineer will help shape best practices for how we support complex customer needs and ensure Notion’s platform is ready for scale.
+You’ll embed with enterprise customers to design and build solutions that integrate Notion deeply into their technical and operational environments.
+
+This is a customer-facing engineering role for someone who is comfortable writing code, debugging technical issues, explaining tradeoffs to stakeholders, and turning ambiguous customer problems into scalable technical solutions. Your work will help shape best practices for how we support complex customer needs and ensure Notion’s platform is ready for scale.
 
 This role is based in Tokyo, Japan. We work from our offices on Mondays, Tuesdays and Thursdays (our Anchor Days) because we do our best thinking and building together in person. We're looking for someone who's excited to work alongside the team during those days.
 
-# What you'll achieve
+# What You'll Achieve
 
 - Own the hands-on technical delivery of customer engagements, including deep technical discovery, requirements gathering, solution design, and end to end implementation.
 - Act as a trusted technical advisor, helping customers make informed architectural decisions and identify opportunities to expand and deepen their use of Notion.
 - Design, build, and operate custom agents, integrations, automations, and data pipelines that connect Notion with customers’ systems and workflows.
 - Lead the design and execution of large-scale content and data migrations, including discovery, scoping, data modeling, transformation logic, validation, and post-migration optimization.
-- Work closely with client stakeholders to gather business and technical requirements and translate them into well-architected solutions that maximize the value of the Notion platform within their broader technical ecosystem.
-- Design and build customer integrations, automations, and custom tooling as a part of Notion implementations.
-- Design and operate feedback loops with Product, CX, and Engineering, translating real-world implementation challenges into actionable insights, technical requirements, and tooling improvements that directly influence Notion’s Product Roadmap and our Customers
-- Build foundational discovery frameworks, technical standards, and internal tooling that define how Services delivers complex migrations and implementations at scale.
-- Contribute to the evolution of the Services team by developing repeatable methodologies, scoping artifacts, internal tooling, and contributing best practices as the team and customer footprint grow.
+- Work directly with customer engineering, IT, security and business stakeholders to gather technical requirements, identify constraints, evaluate feasibility, and make sound architectural decisions that maximizes the value of Notion within their broader technical ecosystem.
+- Troubleshoot complex implementation issues across APIs, integrations, automation logic, data quality, permissions, authentication, system limits, and customer specific environments.
+- Design and operate feedback loops with Product, CX, and Engineering, translating real-world implementation challenges into actionable insights, technical requirements, and tooling improvements that directly influence Notion’s Product Roadmap and our Customers.
+- Build reusable technical assets, including migration tooling, integration patterns, reference implementations, discovery frameworks, technical standards, scripts, and internal delivery tooling.
+- Help define how Services delivers complex technical implementations at scale by improving methodologies, scoping artifacts, build patterns, technical documentation and engineering best practices.
 
-# Skills you'll bring
+# Skills You'll Need to Bring
 
-- 4+ years of experience in a customer-facing engineering role, forward deployed engineering, or similar role, preferably in a SaaS or enterprise software environment.
-- Fluency in at least one programming language such as TypeScript/Node.js, Python, JavaScript, or Java, and comfort shipping scripts, tools, and integrations rather than only advising.
-- Practical experience building with APIs and data integrations (auth, pagination, transforms, error handling, idempotency), plus fluency with formats like JSON and YAML and query languages like SQL.
-- Strong technical judgment and operating discipline: you design for permissions, governance, observability, and safe action execution.
-- High agency and learning velocity: you move comfortably between paid delivery and investment work, build leverage through reusable patterns, and use AI tools to raise the quality of your thinking and craft.
-- You are a native-level Japanese speaker with business-level English proficiency (including spoken English)
+- 5+ years of experience in customer-facing or forward deployed engineering role or a similar hands-on technical role.
+- Proficiency in at least one programming language such as Java, JavaScript, Node.js, SQL, or Python and comfort with writing production-quality code in customer-facing or internal engineering contexts.
+- Hands-on experience with APIs and data integration.
+- Ability to lead technical discovery with customers, assess feasibility, identify risks, scope technical work, estimate effort, and translate ambiguous requirements into an executable plan.
+- Strong debugging and problem-solving skills, with the ability to isolate root causes across code, APIs, permissions, integrations and customer specific configuration.
+- Strong written and verbal communication skills, with the ability to engage both technical and business audiences effectively.
+- A track record of delivering customer value by translating technical challenges into solutions that drive outcomes for customers at scale.
 
 # Nice to Haves
 
-- Experience working in SaaS professional services, preferably in a startup or high-growth environment.
+- Experience working in professional services, preferably in a startup or high-growth environment.
 - Experience deploying AI agents autonomously in complex coding or business workflows.
+- Experience designing or implementing AI-powered workflows, including work with MCPs, APIs, LLM applications, prompt engineering, retrieval/RAG systems or workflow orchestration.
 - Background in developing technical frameworks, discovery methodologies, or internal tooling from the ground up.
+- Experience with ETL/ELT workflows, data transformation, schema mapping, validation scripts, or large-scale content migration tooling.
 - Strong history of collaboration with product and engineering teams, including influencing roadmaps or architectural decisions.
 - Experience supporting pre-sales or early engagement phases, including technical discovery, migration scoping, feasibility analysis, effort estimation, and building prototypes or custom scripts to validate approaches.
 - Strong track record of successful enterprise customer implementations.
