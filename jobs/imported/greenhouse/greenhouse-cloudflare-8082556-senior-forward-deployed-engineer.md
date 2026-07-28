@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true"
 role_url: "https://boards.greenhouse.io/cloudflare/jobs/8082556?gh_jid=8082556"
 apply_url: "https://boards.greenhouse.io/cloudflare/jobs/8082556?gh_jid=8082556"
-posted_date: "2026-07-23"
-expires_date: "2026-08-22"
+posted_date: "2026-07-27"
+expires_date: "2026-08-26"
 location: "Hybrid"
 work_modes:
   - "Hybrid / On-site"
@@ -61,6 +61,7 @@ summary: "About Us At Cloudflare, we are on a mission to help build a better Int
 <h2>Desirable Skills, Knowledge, and Experience</h2>
 <ul>
 <li><strong>Proven Engineering Pedigree:</strong> 7+ years of professional software engineering experience. You are a builder at heart, with a track record of delivering production-grade systems, not just advising on them.</li>
+<li><strong>Languages:</strong> You are experienced with modern languages like Rust, Golang, TypeScript.</li>
 <li><strong>Production Ownership &amp; Operational Maturity:</strong> You have owned mission-critical services with real-world users. You understand the gravity of on-call rotations, the urgency of incident response, and the architectural rigor required to maintain "five nines" uptime.</li>
 <li><strong>Active Practitioner:</strong> You are currently in the IDE. You have a "ship-first" mentality and maintain a high velocity, staying current with modern frameworks, languages, and deployment patterns.</li>
 <li><strong>Full-Stack Architectural Depth:</strong> Broad technical fluency across the entire stack—from frontend performance and backend logic to database optimization and distributed infrastructure.</li>
