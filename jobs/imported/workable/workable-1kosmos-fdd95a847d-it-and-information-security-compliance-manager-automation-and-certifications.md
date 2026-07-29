@@ -9,8 +9,8 @@ sources:
 source_url: "https://apply.workable.com/1kosmos"
 role_url: "https://apply.workable.com/j/FDD95A847D"
 apply_url: "https://apply.workable.com/j/FDD95A847D/apply"
-posted_date: "2025-11-13"
-expires_date: "2025-12-13"
+posted_date: "2026-07-28"
+expires_date: "2026-08-27"
 location: "Edison, New Jersey, United States"
 work_modes:
   - "Hybrid / On-site"
