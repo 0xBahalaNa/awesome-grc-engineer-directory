@@ -50,6 +50,7 @@ We are seeking a Security Governance, Risk and Compliance specialist who will be
 - Develop reporting metrics and dashboards.
 - Help identify cyber risks and solve various governance gaps and process inefficiencies.
 - Develop, execute and actively partake in internal and external security and compliance assessment initiatives such as SOC 2, PCI-DSS, NIST, FedRAMP
+- Maintain and enhance the security awareness training program to support organizational compliance with SOC 2, PCI DSS, and FedRAMP standards
 - Review and optimize vendor risk management program.
 - Monitor existing controls and conduct periodic audits and reviews to ensure their efficiency and operating effectiveness, and to identify and report on potential issues.
 - Collaborate with internal IT and business teams to identify cyber risks and prioritize security compliance-related improvements

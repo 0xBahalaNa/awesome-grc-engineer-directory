@@ -1,7 +1,7 @@
 ---
-title: "Security Engineer - GRC Fintech & Financial Services"
+title: "Sr. Security Engineer - GRC Fintech & Financial Services"
 company: "Xai"
-slug: "greenhouse-xai-5198194007-security-engineer-grc-fintech-and-financial-services"
+slug: "greenhouse-xai-5198194007-sr-security-engineer-grc-fintech-and-financial-services"
 status: "published"
 source: "Greenhouse"
 sources:
@@ -29,7 +29,7 @@ frameworks:
   - "CCPA"
 languages:
   - "Rust"
-compensation: "$152,000 - $228,000"
+compensation: "$152,000 - $258,000"
 summary: "SpaceXAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge. Our team is small, highly motivated, and..."
 ---
 
@@ -72,7 +72,7 @@ summary: "SpaceXAI’s mission is to create AI systems that can accurately under
 <li>Experience with emerging AI-related financial services expectations or securing AI features in a regulated fintech product is a plus.</li>
 </ul>
 <h3><strong>COMPENSATION AND BENEFITS:</strong></h3>
-<p><span style="font-weight: 400;">$152,000 - $228,000 USD</span></p>
+<p><span style="font-weight: 400;">$152,000 - $258,000 USD</span></p>
 <p>Base salary is just one part of our total rewards package at SpaceXAI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, and various other discounts and perks.</p>
 <h3>ITAR REQUIREMENTS:</h3>
 <ul>
