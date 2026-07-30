@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/elevenlabs?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa"
 apply_url: "https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa/application"
-posted_date: "2026-07-29"
-expires_date: "2026-08-28"
+posted_date: "2026-07-30"
+expires_date: "2026-08-29"
 location: "India"
 work_modes:
   - "Remote"

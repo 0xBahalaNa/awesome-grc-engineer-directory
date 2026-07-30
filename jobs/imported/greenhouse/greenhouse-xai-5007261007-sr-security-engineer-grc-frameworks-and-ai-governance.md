@@ -1,7 +1,7 @@
 ---
-title: "Security Engineer - GRC Frameworks & AI Governance"
+title: "Sr. Security Engineer - GRC Frameworks & AI Governance"
 company: "Xai"
-slug: "greenhouse-xai-5007261007-security-engineer-grc-frameworks-and-ai-governance"
+slug: "greenhouse-xai-5007261007-sr-security-engineer-grc-frameworks-and-ai-governance"
 status: "published"
 source: "Greenhouse"
 sources:
@@ -28,7 +28,7 @@ frameworks:
   - "ISO 42001"
   - "NIST 800-53"
 languages: []
-compensation: "$152,000 - $228,000"
+compensation: "$152,000 - $258,000"
 summary: "SpaceXAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge. Our team is small, highly motivated, and..."
 ---
 
@@ -70,7 +70,7 @@ summary: "SpaceXAI’s mission is to create AI systems that can accurately under
 <li>Experience with public sector or federal compliance programs (e.g., FedRAMP, NIST 800-171, CMMC) is a plus.</li>
 </ul>
 <h3><strong>COMPENSATION AND BENEFITS:</strong></h3>
-<p><span style="font-weight: 400;">$152,000 - $228,000 USD</span></p>
+<p><span style="font-weight: 400;">$152,000 - $258,000 USD</span></p>
 <p>Base salary is just one part of our total rewards package at SpaceXAI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short &amp; long-term disability insurance, life insurance, and various other discounts and perks.</p>
 <h3>ITAR REQUIREMENTS:</h3>
 <ul>
