@@ -19,8 +19,8 @@ job_types:
 specializations:
   - "Compliance Automation"
   - "Risk Management"
+  - "Security Governance"
   - "Audit & Assurance"
-  - "Identity & Access Management"
 frameworks:
   - "FedRAMP"
   - "SOC 2"
@@ -35,67 +35,55 @@ summary: "About Workstreet At Workstreet , we’re on an exciting journey to hel
 
 About Workstreet
 
-At Workstreet , we’re on an exciting journey to help businesses scale securely by designing and implementing cutting-edge security and compliance programs. As a fast-growing startup, we specialize in a wide range of frameworks—including SOC 2, ISO 27001, GDPR, CMMC, NIST 800-171, NIST 800-53, and FedRAMP—empowering companies to meet regulatory requirements and enhance their cybersecurity posture from day one.
+At Workstreet , we’re on an exciting journey to help businesses scale securely by designing and implementing cutting-edge security and compliance programs. As a fast-growing startup, we specialize in a wide range of GRC (governance, risk, and compliance) services that support frameworks across SOC 2, ISO 27001, GDPR, CMMC, NIST 800-171, NIST 800-53, and FedRAMP. We empower companies to meet regulatory requirements and enhance their cybersecurity posture from day one.
+
+Get to know the GRC Engineering Team
+
+Our GRC Engineering team is the primary point of contact for Workstreet's clients. We bring deep framework compliance knowledge and program management to each engagement to ensure our clients' compliance goals are met. Our teammates are trusted advisors not only in the compliance space, but also operationally in the role of vCISO. We deliver quickly using common templates and methodologies and are adept at creative problem-solving. GRC Engineering Team members also listen for and act as a centralized resource to advise clients on Workstreet's other service offerings to support their compliance, privacy, and information security goals.
 
 ## The Opportunity
 
-We are seeking a Sr. Manager, GRC Engineering who leads with a client-first philosophy and brings a proven track record of managing high-stakes client relationships with professionalism, care, and strategic insight. The ideal candidate is an experienced client relationship leader who understands that exceptional service is the foundation of everything we do — and who pairs that client focus with 8+ years of deep expertise in cybersecurity compliance frameworks such as SOC 2, ISO 27001, and NIST CSF.
+We are seeking a Senior Manager, GRC Engineering who leads with a client-first philosophy and brings a proven track record of managing high-stakes client relationships with professionalism, care, and strategic insight. The ideal candidate is an experienced client relationship leader who understands that exceptional service is the foundation of everything we do — and who pairs that client focus with 8+ years of deep expertise in cybersecurity compliance frameworks such as SOC 2, ISO 27001, and NIST CSF.
 
 The successful candidate will be able to come up to speed quickly, integrate into the organization, and take on clients within your first 15 days. You will serve as the primary point of contact for a portfolio of clients, leading engagements end-to-end, managing escalations with composure and urgency, and ensuring every client interaction reflects the highest standard of service.
 
 ## What You'll Do
 
-Client Relationship Management (Primary Focus)
-
-- Own Executive-Level Client Relationships: Serve as the senior point of contact for a portfolio of strategic accounts, building long-term trust and ensuring clients receive an exceptional, high-touch experience at every stage of the engagement.
-- Lead and Guide Client Engagements: Provide strategic oversight across multiple compliance engagements, ensuring clients are well-informed, prepared, and confident throughout audits, certifications, and assessments.
-- Manage Escalations at the Executive Level: Address complex, high-stakes client concerns with professionalism, urgency, and composure — turning challenging situations into opportunities to reinforce trust and loyalty.
-- Be a Strategic Trusted Advisor: Understand the broader business goals of each client and deliver compliance guidance that is not just technically sound, but strategically aligned with their objectives.
-- Ensure Quality Across All Client Touchpoints: Conduct regular reviews of client communications, deliverables, and quality metrics to maintain consistency and excellence across all engagements.
-- Engage Directly with US-Based Clients: Communicate proactively via phone, email, and meetings to address compliance concerns and deliver expert, personalized guidance.
-
-Team Leadership
-
-- Lead and Develop a High-Performing Team: Supervise and mentor managers and analysts across various accounts, fostering a culture of performance, accountability, collaboration, and professional growth.
-- Drive Resource Strategy: Guide staffing, hiring, and resource allocation to optimize delivery efficiency and support department scalability as the business grows.
-- Set and Uphold Standards: Establish and enforce quality benchmarks across the team, ensuring every client-facing output meets Workstreet's high standards.
-
-GRC & Compliance Execution
-
-- Oversee Compliance Programs: Manage and coordinate multiple cybersecurity compliance engagements simultaneously, ensuring timely completion and adherence to relevant standards and frameworks.
-- Implement Compliance Policies: Develop, execute, and maintain cybersecurity compliance policies and procedures aligned with industry best practices.
-- Collaborate on Risk Mitigation: Partner with internal and external teams to identify, assess, and remediate cybersecurity risks.
-- Interpret Regulatory Frameworks: Analyze and apply cybersecurity regulations and standards including SOC 2, ISO 27001, GDPR, HIPAA, PCI DSS, HiTRUST, and NIST 800-171/CMMC.
+- Own executive-level client relationships as the senior strategic point of contact for a high-priority portfolio, building deep trust, driving retention, and resolving high-stakes client escalations with absolute composure and urgency.
+- Provide overarching program governance across multiple compliance engagements, ensuring tech-sector clients remain fully prepared, informed, and calibrated throughout complex audits and certification lifecycles.
+- Supervise, mentor, and upscale a high-performing team of subordinate managers and GRC analysts, embedding a performance-driven culture focused on strict operational accountability and clear professional growth.
+- Drive departmental resource and capacity strategy , directing hiring, target profiles, and optimized workload allocation models to seamlessly support the business as it scales.
+- Establish and enforce rigorous quality benchmarks across the delivery team, verifying that every piece of technical documentation and client communication reflects the highest standard of execution.
+- Engage directly with US-based client executives and technology founders , executing proactive multi-channel communications to dismantle complex compliance roadblocks and provide tailored risk advisory.
+- Develop, execute, and maintain enterprise-grade security policies and procedures, translating dense global regulations (including SOC 2, ISO 27001, GDPR, HIPAA, PCI DSS, HiTRUST, and NIST/CMMC) into scalable, operational controls.
+- Partner cross-functionally with internal and external teams to systematically isolate, evaluate, and remediate technical cybersecurity risks and framework deficiencies.
 
 ## Who You Are
 
-Required
+- Executive portfolio commander - Command high-complexity client engagements, dismantle high-stakes structural escalations at the leadership tier, and confidently influence senior C-suite stakeholders to preserve long-term loyalty.
+- Elite corporate communicator - Assert flawless, authoritative written and verbal English communication capable of effortlessly translating dense technical risk data into clear business value for diverse audiences.
+- Scale-oriented enterprise people leader - Bring 5+ years of dedicated experience leading, upskilling, and managing mid-sized technical or professional services teams, explicitly demonstrating the capability to lead through subordinate people managers.
+- Cybersecurity compliance authority - Command 8+ years of direct, hands-on execution designing, implementing, and defending mature compliance programs across global frameworks (including SOC 2, ISO 27001, GDPR, HIPAA, PCI DSS, HiTRUST, and NIST/CMMC).
+- Policy governance architect - Bring 8+ years of experience engineering and enforcing technical security policies that seamlessly align rigorous regulatory mandates with fluid business growth objectives.
+- High-velocity startup operator - Thrive within volatile, fast-growth technology ecosystems, possessing the immediate operational agility to fully integrate into an organization and absorb strategic client accounts within your first 15 days.
+- Disciplined program navigator - Command macro-level organization and program management mechanics to oversee multiple concurrent compliance engagements simultaneously without degrading delivery quality or missing deadlines.
+- Domain-native technology strategist - Verifiable tenure operating within cybersecurity-focused SaaS or technology corporations where security governance, risk assessment, and technical compliance serve as core business differentiators.
 
-- Demonstrated experience managing client relationships at a senior or executive level — you are skilled at owning high-complexity accounts, navigating escalations, and delivering a consistently outstanding client experience
-- Exceptional professionalism in all client-facing communication, with outstanding written and verbal English skills
-- 5+ years of proven experience leading and developing mid-sized teams in a fast-paced, results-driven environment
-- 8+ years of experience in cybersecurity compliance, including SOC 2, ISO 27001, GDPR, HIPAA, PCI DSS, HiTRUST, and NIST 800-171/CMMC frameworks
-- 8+ years of experience creating and enforcing cybersecurity policies
-- Strong strategic thinking skills with experience driving cross-functional collaboration and aligning team goals with business objectives
-- Strong organizational skills with the ability to manage multiple compliance projects concurrently
-- Experience working in a tech company with a focus on cybersecurity
-- Thrives in a fast-paced startup environment
+## What will help you succeed
 
-## Nice to Have
-
-- Experience at a Big 4 firm (e.g., Deloitte, PwC, EY, KPMG) in an advisory or assurance capacity
-- Experience managing GRC functions within a managed security services or consulting environment
-- Certifications such as CISA, CISSP, CISM, ISO 27001 Lead Implementer, or CRISC
-- Familiarity with compliance automation platforms such as Vanta, Drata, or Secureframe
-- Exposure to risk management or audit methodologies across multiple regulatory frameworks
+- Big 4 advisory or assurance tenure - Prior success directing technical IT compliance audits, data governance assessments, or complex risk assurance workflows inside elite environments like Deloitte, PwC, EY, or KPMG.
+- GRC consultancy lifecycle execution - Direct history managing compliance engineering functions or vCISO delivery tracks within a high-volume managed security services provider (MSSP) or specialized security consulting practice.
+- Validated industry credentials - Hold active, globally recognized professional security and audit designations such as CISA, CISSP, CISM, ISO 27001 Lead Implementer, or CRISC.
+- Mastery of compliance automation architectures - Direct backend operational mastery navigating, configuring, and tracking continuous evidence collection inside automated platforms like Vanta, Drata, or Secureframe.
+- Multi-framework audit orchestration - Deep practical exposure designing, mapping, and defending data-driven risk management methodologies across a diverse spectrum of intersecting international regulations.
 
 ## What We Offer
 
-- Career Development: Clear growth path with mentorship and training opportunities
-- Technical Training: Comprehensive onboarding on security and compliance frameworks
-- Competitive Compensation: Competitive base salary with regular performance reviews, merit-based appraisals, and bonus opportunities
-- Growth Opportunity: Early-stage company with significant room for career advancement
-- Remote-First Culture: Flexibility to work from anywhere while collaborating with a global team
+- Career Development : Clear path with mentorship and training opportunities.
+- Role-Related Training: Reimbursement for the successful completion of approved training and certification courses relevant to your current role.
+- Competitive Compensation: A competitive base salary with regular performance reviews linked to merit-based appraisals and bonus opportunities.
+- Growth Opportunity : Early-stage company with significant room for career advancement.
+- Remote-First Culture : Flexibility to work from anywhere while collaborating with a global team.
 
 ## What You'll Need to Thrive
 
@@ -112,6 +100,8 @@ Required
 - Candidates will receive prompt updates and consistent communication throughout the interview process, ensuring a transparent, smooth, and engaging experience at every step.
 - Applicants must be authorized to work in the U.S. without the need for visa sponsorship now or in the future. Workstreet does not provide employment-based visa sponsorship or transfers for this role, including H-1B, L-1, TN, O-1, E-3, H-1B1, F-1 (OPT/CPT), J-1, or any other work-authorized visa category.
 
-### Workstreet Is An Equal Opportunity Employer
+## Workstreet Is An Equal Opportunity Employer
 
 As an equal opportunity employer, Workstreet is committed to providing employment opportunities to all individuals. All applicants for positions at Workstreet will be treated without regard to race, color, ethnicity, religion, sex, gender, gender identity and expression, sexual orientation, national origin, disability, age, marital status, veteran status, pregnancy, or any other basis prohibited by applicable law.
+
+All employment is decided on the basis of qualifications, merit, and business need. In order to ensure reasonable accommodation for individuals protected by Section 503 of the Rehabilitation Act of 1973, the Vietnam Era Veterans’ Readjustment Assistance Act of 1974, Title I of the Americans with Disabilities Act of 1990, and any other applicable federal, state or local laws, applicants who require reasonable accommodation in the job application process may contact accommodationsus@workstreet.com (mailto:accommodationsus@workstreet.com)

@@ -114,7 +114,7 @@ Benefits
 
 • Commuter benefits
 
-• If hired to deploy via SOFA to Japan, you will be eligible for the standard new hire relocation benefit if you need to relocate > 50 miles for the job
+• If hired to deploy via SOFA to Japan, you will be eligible for the standard new hire relocation benefit if you need to relocate &gt; 50 miles for the job
 
 • Support for home and host tax returns and tax equalization
 
