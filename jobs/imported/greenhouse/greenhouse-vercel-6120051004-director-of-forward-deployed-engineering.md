@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/vercel/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/vercel/jobs/6120051004"
 apply_url: "https://job-boards.greenhouse.io/vercel/jobs/6120051004"
-posted_date: "2026-07-22"
-expires_date: "2026-08-21"
+posted_date: "2026-07-31"
+expires_date: "2026-08-30"
 location: "Hybrid - San Francisco, New York City, Austin"
 work_modes:
   - "Hybrid / On-site"
@@ -33,7 +33,7 @@ summary: "About Vercel: Vercel is the agentic infrastructure company. We free pe
 &lt;p&gt;&lt;span data-sheets-root="1"&gt;Now, software is entering a new era, and the next generation of products will not just be used by people. They will be built, extended, and operated by agents.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span data-sheets-root="1"&gt;We are building the platform for that future, trusted by companies like&nbsp;&lt;strong&gt;OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide&lt;/strong&gt;. Whether you’re building our products, supporting our customers, growing our community, or shaping our story, you’ll help define what comes next.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the Role:&lt;/h2&gt;
 &lt;p&gt;We are looking for a Director of Forward Deployed Engineering to build and lead Vercel's Forward Deployed Engineering and Professional Services function. Forward Deployed Engineers embed directly with our most strategic customers to design, build, and ship production applications on Vercel using Next.js, AI SDK, and v0, taking projects from first prototype through production rollout. You will define how this function operates: the engagement model, the delivery methodology, the commercial structure, and the team itself.&lt;/p&gt;
-&lt;p&gt;You will report to the VP of Field Engineering. This is a hybrid position based in San Francisco, Austin or New York, with a required 3 days per week in office.&nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is an in-person (hybrid) position that will require you to be based in San Francisco, Austin or New York, with a required 3 days per week in office.&nbsp;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;What You Will Do:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Build, lead, and develop the Forward Deployed Engineering team, including hiring standards, training, career development, and compensation.&lt;/li&gt;
@@ -69,7 +69,7 @@ summary: "About Vercel: Vercel is the agentic infrastructure company. We free pe
 &lt;li data-stringify-indent="0" data-stringify-border="0"&gt;Flexible Time Off.&lt;/li&gt;
 &lt;li data-stringify-indent="0" data-stringify-border="0"&gt;We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;span data-sheets-root="1"&gt;The San Francisco, CA base pay range for this role is $240,000 -$300,000 plus bonus. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-sheets-root="1"&gt;The San Francisco, CA base pay range for this role is $240,000 - $300,000 plus bonus. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description.&lt;/p&gt;
 &lt;p&gt;&nbsp;&lt;/p&gt;
 &lt;div id="te-floating-button-container"&gt;&lt;/div&gt;
