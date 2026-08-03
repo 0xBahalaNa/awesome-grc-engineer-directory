@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true"
 role_url: "https://boards.greenhouse.io/cloudflare/jobs/8050386?gh_jid=8050386"
 apply_url: "https://boards.greenhouse.io/cloudflare/jobs/8050386?gh_jid=8050386"
-posted_date: "2026-07-09"
-expires_date: "2026-08-08"
+posted_date: "2026-08-03"
+expires_date: "2026-09-02"
 location: "Hybrid"
 work_modes:
   - "Hybrid / On-site"
