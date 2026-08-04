@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/anthropic/jobs/5368041008"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5368041008"
-posted_date: "2026-07-23"
-expires_date: "2026-08-22"
+posted_date: "2026-08-03"
+expires_date: "2026-09-02"
 location: "Remote-Friendly (Travel Required) | San Francisco, CA"
 work_modes:
   - "Remote"

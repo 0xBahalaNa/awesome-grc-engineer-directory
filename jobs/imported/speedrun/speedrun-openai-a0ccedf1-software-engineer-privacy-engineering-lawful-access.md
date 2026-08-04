@@ -24,7 +24,7 @@ specializations:
 frameworks: []
 languages:
   - "Rust"
-compensation: "$293K – $405K • Offers Equity"
+compensation: "$293K – $325K • Offers Equity"
 summary: "About the Team The Privacy Engineering team builds secure, reliable systems that help OpenAI meet its legal obligations while protecting user data. We partner closely with Legal..."
 ---
 

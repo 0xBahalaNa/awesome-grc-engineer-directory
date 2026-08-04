@@ -30,12 +30,16 @@ frameworks:
 languages:
   - "Rust"
 compensation: ""
-summary: "About Workstreet At Workstreet , we’re on an exciting journey to help businesses scale securely by designing and implementing cutting-edge security and compliance programs. As a..."
+summary: "About Workstreet At Workstreet, we’re on an exciting journey to help businesses scale securely by designing and implementing cutting-edge security and compliance programs. As a..."
 ---
 
 # About Workstreet
 
-At Workstreet , we’re on an exciting journey to help businesses scale securely by designing and implementing cutting-edge security and compliance programs. As a fast-growing startup, we specialize in a wide range of frameworks—including SOC 2, ISO 27001, GDPR, CMMC, NIST 800-171, NIST 800-53, and FedRAMP—empowering companies to meet regulatory requirements and enhance their cybersecurity posture from day one.
+At Workstreet, we’re on an exciting journey to help businesses scale securely by designing and implementing cutting-edge security and compliance programs. As a fast-growing startup, we specialize in a wide range of GRC (governance, risk, and compliance) services that support frameworks across SOC 2, ISO 27001, GDPR, CMMC, NIST 800-171, NIST 800-53, and FedRAMP. We empower companies to meet regulatory requirements and enhance their cybersecurity posture from day one.
+
+Get to know the GRC Engineering Team
+
+Our GRC Engineering team is the primary point of contact for Workstreet's clients. We bring deep framework compliance knowledge and program management to each engagement to ensure our clients' compliance goals are met. Our teammates are trusted advisors not only in the compliance space, but also operationally in the role of vCISO. We deliver quickly using common templates and methodologies and are adept at creative problem-solving. GRC Engineering Team members also listen for and act as a centralized resource to advise clients on Workstreet's other service offerings to support their compliance, privacy, and information security goals.
 
 ## The Opportunity
 
@@ -43,34 +47,18 @@ We are seeking a Manager, GRC Engineering (vCISO) who leads with a client-first 
 
 The successful candidate will be able to come up to speed quickly, integrate into the organization, and take on clients within your first 30 days. You will serve as the dedicated virtual CISO for a portfolio of clients, owning strategic security relationships end-to-end, guiding risk and compliance decisions with authority, and ensuring every client can count on you as a security expert.
 
-## What You'll Do Client Relationship Management
+## What You'll Do
 
-- Own the vCISO Relationship: Serve as the dedicated virtual CISO for a portfolio of clients, building deep, trusted relationships and operating with the authority and credibility of an embedded security executive.
-- Lead Client Engagements: Guide clients through security program development and compliance initiatives end-to-end, from initial assessment through certification, providing strategic direction, proactive risk guidance, and executive-level communication at every milestone.
-- Represent Clients on Prospect and Customer Calls: Join your clients’ sales and due diligence calls as their CISO, answering technical security questions in real-time with specificity and confidence. You must be able to speak fluently about their architecture, controls, and compliance posture without notes.
-- Handle Escalations with Professionalism: Resolve complex client issues and escalations with urgency and composure, owning decisions and making security calls independently without deferring every judgment call.
-- Be a Trusted Advisor: Understand each client’s business, technology, risk appetite, and compliance drivers deeply enough to deliver specific, contextualized security guidance, not generic recommendations.
-- Maintain Client Mastery: Attend every weekly sync, review GRC platform results in business context, track architecture changes and upcoming projects, and proactively identify emerging risks before they surface in routine discussions.
-
-vCISO Service Delivery
-
-- Provide Strategic Security Leadership: Develop and maintain each client’s security program roadmap, aligned to their business objectives and applicable compliance frameworks. Advise C-suite and board-level stakeholders on security posture, risk tolerance, and investment priorities.
-- Lead Risk & Compliance Oversight: Lead risk assessments, risk register development, and treatment planning. Guide clients through SOC 2 (Type I/II), ISO 27001, ISO 42001, HIPAA, CMMC, NIST CSF/800-171, GDPR, CCPA, DORA, NYDFS, and other applicable frameworks.
-- Develop Client Security Programs: Build and mature security programs for early-stage clients and optimize existing programs for more mature organizations. Develop customized policies, controls, and compliance roadmaps that reflect each client’s actual technology and business model.
-- Deliver Advanced Security Strategy: Produce architecture recommendation memoranda with trade-off analysis, vulnerability disclosure assessments, threat modeling exercises, and executive security briefings. Support security hire interviews, contract reviews, and bug bounty SOP development.
-- Monitor Regulatory Developments: Stay informed on evolving regulations and frameworks to maintain the relevance and accuracy of compliance controls.
-- Manage Compliance Operations: Facilitate quarterly access reviews, annual penetration testing engagements, and annual tabletop exercises for incident response and business continuity. Leverage GRC platforms such as Vanta, Drata, and SecureFrame to maintain continuous audit readiness.
-
-Team Leadership
-
-- Manage and Develop a Pod of Analysts: Lead a team of 3–5 analysts through coaching, mentorship, and performance management, fostering accountability, quality, and professional growth.
-- Drive Consistent Delivery: Ensure the team meets deadlines and delivers high-quality work across all active client engagements, stepping in to support where needed.
-
-Internal Contribution
-
-- Contribute to Practice Development: Refine vCISO playbooks, templates, and service delivery standards to improve consistency and quality across the practice.
-- Mentor and Support Team Members: Coach junior team members, share domain expertise, and contribute to a culture of continuous learning.
-- Support Pre-Sales: Participate in pre-sales conversations to scope vCISO engagements and support proposal development.
+- Own the vCISO relationship end-to-end - serve as the dedicated virtual CISO for a portfolio of clients, operating with the executive authority, credibility, and trust of an embedded security leader.
+- Lead strategic client engagements and security roadmaps - guide clients from initial risk assessment through certification milestones, providing proactive executive guidance, strategic direction, and risk management aligned to business goals.
+- Represent clients on live prospect and customer calls - join client sales and due diligence calls as their acting CISO, answering technical security questions in real-time with total fluency in their architecture and controls without notes.
+- Handle high-stakes escalations with executive authority - resolve complex security issues and client escalations with urgency and composure, making independent, authoritative security calls without deferring judgment.
+- Deliver contextualized strategic security leadership - deeply understand each client's tech stack, business model, and risk appetite to produce custom architecture recommendations, threat models, policy sets, and executive briefings.
+- Lead comprehensive risk and compliance oversight - conduct risk assessments, maintain registers, and guide programs across frameworks including SOC 2, ISO 27001, ISO 42001, HIPAA, CMMC, NIST CSF/800-171, GDPR, CCPA, DORA, and NYDFS.
+- Manage continuous compliance and security operations - facilitate quarterly access reviews, annual pentests, and tabletop IR exercises while leveraging GRC platforms (Vanta, Drata, SecureFrame) for continuous audit readiness.
+- Maintain proactive client mastery - participate in regular syncs, contextualize GRC platform telemetry, track architectural changes, and identify emerging risks before they manifest into operational blockers.
+- Lead, coach, and develop a pod of GRC analysts - manage 3–5 analysts through direct coaching, performance management, and delivery oversight to drive high-quality execution across active client accounts.
+- Drive internal practice development and pre-sales - refine internal vCISO playbooks, mentor junior practice members, and join pre-sales scoping discussions to support proposal development.
 
 ## Who You Are
 
@@ -85,17 +73,17 @@ Internal Contribution
 
 ## What will help you succeed
 
-- CISSP, CISM, or equivalent certification
-- Prior experience in a vCISO, fractional CISO, or managed security services environment
-- Familiarity with compliance automation platforms such as Drata, Vanta, and SecureFrame
-- Experience supporting clients through SOC 2 Type II audits, ISO 27001 certification, or CMMC assessments
-- Familiarity with additional frameworks: ISO 42001, GDPR, CCPA, DORA, NIST 800-171
-- Background in SaaS, fintech, healthcare, or defense contracting industries
+- Active executive security credentials - hold recognized professional certifications such as CISSP, CISM, or CISA.
+- Fractional or vCISO practice tenure - prior experience delivering virtual CISO, fractional security leadership, or advisory services within a managed security service provider (MSSP) environment.
+- Compliance automation platform mastery - hands-on experience leveraging automated GRC platforms such as Vanta, Drata, or Secureframe for continuous posture tracking.
+- Complex certification audit leadership - track record supporting client organizations through formal SOC 2 Type II audits, ISO 27001 certifications, or CMMC assessments.
+- Specialized framework familiarity - exposure to emerging or regulatory frameworks including ISO 42001 (AI Management), GDPR, CCPA, DORA, or NIST 800-171.
+- Regulated sector domain expertise - industry experience navigating the unique security and regulatory constraints of SaaS, fintech, healthcare, or defense contracting sectors.
 
 ## What We Offer
 
-- Career Development : Clear path with mentorship and training opportunities
-- Technical Training : Comprehensive onboarding on security and compliance frameworks
+- Career Development : Clear path with mentorship and training opportunities.
+- Role-Related Training: Reimbursement for the successful completion of approved training and certification courses relevant to your current role.
 - Competitive Compensation: A competitive base salary with regular performance reviews linked to merit-based appraisals and bonus opportunities.
 - Growth Opportunity : Early-stage company with significant room for career advancement.
 - Remote-First Culture : Flexibility to work from anywhere while collaborating with a global team.
@@ -115,6 +103,8 @@ Internal Contribution
 - Candidates will receive prompt updates and consistent communication throughout the interview process, ensuring a transparent, smooth, and engaging experience at every step.
 - Applicants must be authorized to work in the U.S. without the need for visa sponsorship now or in the future. Workstreet does not provide employment-based visa sponsorship or transfers for this role, including H-1B, L-1, TN, O-1, E-3, H-1B1, F-1 (OPT/CPT), J-1, or any other work-authorized visa category.
 
-Workstreet Is An Equal Opportunity Employer
+### Workstreet Is An Equal Opportunity Employer
 
 As an equal opportunity employer, Workstreet is committed to providing employment opportunities to all individuals. All applicants for positions at Workstreet will be treated without regard to race, color, ethnicity, religion, sex, gender, gender identity and expression, sexual orientation, national origin, disability, age, marital status, veteran status, pregnancy, or any other basis prohibited by applicable law.
+
+All employment is decided on the basis of qualifications, merit, and business need. In order to ensure reasonable accommodation for individuals protected by Section 503 of the Rehabilitation Act of 1973, the Vietnam Era Veterans’ Readjustment Assistance Act of 1974, Title I of the Americans with Disabilities Act of 1990, and any other applicable federal, state or local laws, applicants who require reasonable accommodation in the job application process may contact accommodationsus@workstreet.com (mailto:accommodationsus@workstreet.com)

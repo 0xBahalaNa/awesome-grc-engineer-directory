@@ -1,16 +1,16 @@
 ---
 title: "Researcher, Frontier Cybersecurity Risks"
 company: "OpenAI"
-slug: "speedrun-openai-97a7eeae-researcher-frontier-cybersecurity-risks"
+slug: "speedrun-openai-66e76c14-researcher-frontier-cybersecurity-risks"
 status: "published"
 source: "a16z Speedrun"
 sources:
   - "a16z Speedrun"
 source_url: "https://speedrun-talent-network.com/api/v1/jobs"
-role_url: "https://speedrun-talent-network.com/jobs/researcher-frontier-cybersecurity-risks-openai-97a7eeae?utm_source=grcengclub&utm_medium=agent"
-apply_url: "https://speedrun-talent-network.com/jobs/researcher-frontier-cybersecurity-risks-openai-97a7eeae?utm_source=grcengclub&utm_medium=agent"
-posted_date: "2026-02-19"
-expires_date: "2026-03-21"
+role_url: "https://speedrun-talent-network.com/jobs/researcher-frontier-cybersecurity-risks-openai-66e76c14?utm_source=grcengclub&utm_medium=agent"
+apply_url: "https://speedrun-talent-network.com/jobs/researcher-frontier-cybersecurity-risks-openai-66e76c14?utm_source=grcengclub&utm_medium=agent"
+posted_date: "2026-08-03"
+expires_date: "2026-09-02"
 location: "San Francisco"
 work_modes:
   - "Hybrid / On-site"
@@ -24,7 +24,7 @@ specializations:
 frameworks: []
 languages:
   - "Rust"
-compensation: "$295K – $445K"
+compensation: "$295K – $445K • Offers Equity"
 summary: "About the team ​​Preparedness is a critical Safety Research team at OpenAI, which is focused on mitigating AI threats to global security that could scale to an extreme level of..."
 ---
 
@@ -39,11 +39,9 @@ Our work involves:
 - Coordination. Setting mitigation targets by maintaining OpenAI’s preparedness framework, and partnering with other staff to achieve these targets.
 
 This is urgent, fast-paced work that has far-reaching implications for the company and for society.
-
 About the role
 Models are becoming increasingly capable—moving from tools that assist humans to agents that can plan, execute, and adapt in the real world. As we push toward AGI, cybersecurity becomes one of the most important and urgent frontiers: the same systems that can accelerate productivity can also accelerate exploitation.
 As a Researcher for cybersecurity risks, you will help design and implement an end-to-end mitigation stack to reduce severe cyber misuse across OpenAI’s products. This role requires strong technical depth and close cross-functional collaboration to ensure safeguards are enforceable, scalable, and effective. You’ll contribute directly to building protections that remain robust as products, model capabilities, and attacker behaviors evolve.
-
 In this role, you will:
 
 - Design and implement mitigation components for model-enabled cybersecurity misuse—spanning prevention, monitoring, detection, and enforcement—under the guidance of senior technical and risk leadership.

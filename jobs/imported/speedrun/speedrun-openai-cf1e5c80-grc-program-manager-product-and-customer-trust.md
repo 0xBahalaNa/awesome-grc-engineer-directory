@@ -24,7 +24,7 @@ specializations:
 frameworks: []
 languages:
   - "Rust"
-compensation: "$216K – $252K • Offers Equity"
+compensation: "$216K – $240K • Offers Equity"
 summary: "About the Team Governance, Risk, and Compliance (GRC) is foundational to Security delivering mission outcomes at OpenAI. The GRC team provides security assurances and builds..."
 ---
 
