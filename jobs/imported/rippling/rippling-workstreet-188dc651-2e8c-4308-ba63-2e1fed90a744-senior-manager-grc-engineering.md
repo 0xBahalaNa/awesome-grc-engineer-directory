@@ -45,7 +45,7 @@ Our GRC Engineering team is the primary point of contact for Workstreet's client
 
 We are seeking a Senior Manager, GRC Engineering who leads with a client-first philosophy and brings a proven track record of managing high-stakes client relationships with professionalism, care, and strategic insight. The ideal candidate is an experienced client relationship leader who understands that exceptional service is the foundation of everything we do — and who pairs that client focus with 8+ years of deep expertise in cybersecurity compliance frameworks such as SOC 2, ISO 27001, and NIST CSF.
 
-The successful candidate will be able to come up to speed quickly, integrate into the organization, and take on clients within your first 15 days. You will serve as the primary point of contact for a portfolio of clients, leading engagements end-to-end, managing escalations with composure and urgency, and ensuring every client interaction reflects the highest standard of service.
+Integrating quickly into the business within their first 15 days, the successful candidate will act as a high-level executive strategic partner to own account growth and long-term retention across a dedicated portfolio. In this role, you will serve as the trusted executive interface, driving proactive engagement and holistic account health while directing an operational pod that manages day-to-day delivery. You will handle escalations with urgency and poise, keeping clients continuously engaged, valued, and retained through high-impact strategic partnership.
 
 ## What You'll Do
 
