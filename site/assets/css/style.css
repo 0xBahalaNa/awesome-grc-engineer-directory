@@ -2282,6 +2282,256 @@ a:hover {
   }
 }
 
+/* Mobile directory redesign: compact navigation, progressive filters, scan-first cards. */
+@media (max-width: 600px) {
+  :root { --nav-offset: 57px; }
+
+  .nav-inner {
+    min-height: var(--nav-offset);
+    padding: 0.6rem 1rem;
+    flex-flow: row nowrap;
+    gap: 0.65rem;
+  }
+  .nav-brand {
+    flex: 1 1 auto;
+    min-width: 0;
+    font-size: 0;
+    line-height: 1;
+    white-space: nowrap;
+  }
+  .nav-brand::after {
+    content: "GRC Directory";
+    font-size: 0.98rem;
+    font-weight: 700;
+  }
+  .nav-links {
+    flex: 0 0 auto;
+    gap: 0.75rem;
+  }
+  .nav-links .nav-link {
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    font-size: 0.78rem;
+    font-weight: 600;
+  }
+  .nav-links .nav-link[href="https://grcengclub.com"],
+  .nav-links > .btn-primary { display: none; }
+  .theme-toggle {
+    width: 44px;
+    height: 44px;
+    padding: 0;
+  }
+
+  .hero { padding: 1rem 1rem 0.75rem; }
+  .card {
+    padding: 1rem;
+    border-radius: 12px;
+    gap: 0.65rem;
+  }
+  .card-grid { gap: 0.75rem; }
+  .directory { padding: 0.75rem 1rem 2rem; }
+  .card-actions {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: stretch;
+    gap: 0.5rem;
+  }
+  .card-actions .btn {
+    min-height: 44px;
+    width: 100%;
+  }
+  .card-links { display: none; }
+  .engineer-card .card-avatar {
+    width: 48px;
+    height: 48px;
+  }
+  .engineer-card .card-header { align-items: center; }
+  .engineer-card .card-name { font-size: 1rem; }
+  .engineer-card .card-title,
+  .engineer-card .card-company,
+  .engineer-card .card-location {
+    font-size: 0.76rem;
+    line-height: 1.35;
+  }
+  .engineer-card .card-skill-label { font-size: 0.64rem; }
+
+  .filters {
+    top: var(--nav-offset);
+    padding: 0.65rem 1rem;
+    border-top: none;
+  }
+  .filters:not(.filters-collapsed) {
+    position: relative;
+    top: auto;
+    z-index: 1;
+    padding-top: 0.75rem;
+    padding-bottom: 1rem;
+    background: var(--bg-primary);
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+  }
+  .filters.filters-collapsed {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    box-shadow: 0 8px 20px var(--shadow-elevated);
+  }
+  .filters.filters-collapsed .filters-compact-bar { min-height: 44px; }
+  .filter-compact-label {
+    font-size: 0.8rem;
+    font-weight: 500;
+  }
+  .filter-compact-label strong {
+    color: var(--text-primary);
+    font-size: 0.95rem;
+  }
+  .filters-compact-bar .filter-toggle {
+    width: auto;
+    min-height: 44px;
+    padding-inline: 0.9rem;
+    color: var(--text-primary);
+    border-color: var(--brand-primary);
+  }
+  .controls-header {
+    align-items: center;
+    flex-direction: row;
+    gap: 0.75rem;
+  }
+  .controls-actions {
+    align-items: center;
+    flex-direction: row;
+    width: auto;
+    margin-left: auto;
+  }
+  .controls-meta { display: none; }
+  .filter-toggle { min-height: 44px; }
+  .controls-bar {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+  .search-box input {
+    min-height: 48px;
+    font-size: 1rem;
+  }
+  .sort-control {
+    grid-template-columns: auto 1fr;
+    min-height: 48px;
+    padding-left: 0.8rem;
+  }
+  .sort-control select { min-height: 40px; }
+  .filter-workbench-header {
+    align-items: stretch;
+    flex-direction: column;
+    padding: 0.55rem;
+  }
+  .filter-workbench-header > span,
+  .filter-option-search span { display: none; }
+  .filter-option-search { grid-template-columns: 1fr; }
+  .filter-option-search input {
+    min-height: 44px;
+    width: 100%;
+    font-size: 0.9rem;
+  }
+  .filter-mobile-tabs { padding: 0.45rem; }
+  .filter-mobile-tab {
+    min-height: 44px;
+    padding: 0.45rem 0.75rem;
+  }
+  .filter-chips {
+    max-height: 11rem;
+    gap: 0.4rem;
+    padding: 0.65rem;
+  }
+  .active-filters-summary {
+    align-items: flex-start;
+    margin-bottom: 0.65rem;
+  }
+  .active-filters-label { flex: 1 0 100%; }
+
+  .jobs-hero {
+    padding-top: 1rem;
+    padding-bottom: 0.75rem;
+  }
+  .jobs-hero-inner {
+    padding: 0.25rem 0;
+    border: none;
+    background: transparent;
+  }
+  .jobs-kicker { margin-bottom: 0.4rem; }
+  .jobs-hero h1 {
+    max-width: 16ch;
+    margin-bottom: 0.5rem;
+    font-size: 1.75rem;
+    line-height: 1.1;
+    letter-spacing: -0.035em;
+  }
+  .jobs-hero-copy {
+    font-size: 0.88rem;
+    line-height: 1.5;
+  }
+
+  .job-card-role { gap: 0.3rem; }
+  .job-card-title {
+    font-size: 1.05rem;
+    line-height: 1.28;
+    letter-spacing: -0.015em;
+  }
+  .job-card-summary { display: none; }
+  .job-card-company-cell {
+    padding-top: 0.7rem;
+    border-top: 1px solid var(--border-muted);
+    gap: 0.2rem;
+  }
+  .job-card-company { font-size: 0.88rem; }
+  .job-card-location,
+  .job-card-pay { font-size: 0.76rem; }
+  .job-card-work,
+  .job-card-skills,
+  .job-card-skills .card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+  }
+  .job-card-skills .card-tags { display: contents; }
+  .job-card-posted-cell {
+    display: flex;
+    align-items: baseline;
+    gap: 0.4rem;
+  }
+  .job-card-posted-cell span { font-size: 0.62rem; }
+  .job-card-posted-cell strong { font-size: 0.78rem; }
+  .job-card-actions {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.5rem;
+    margin-top: 0.15rem;
+    padding-top: 0.75rem;
+  }
+  .job-card-actions .btn:only-child { grid-column: 1 / -1; }
+  .jobs-directory .job-card { padding: 1rem; }
+
+  .job-page { padding-top: 1rem; }
+  .job-page-grid { gap: 0.75rem; }
+  .job-sidebar { order: -1; }
+  .job-main,
+  .job-sidebar-card { padding: 1rem; }
+  .job-sidebar-card { position: static; }
+  .job-facts {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.75rem;
+  }
+  .job-page-title {
+    font-size: 1.65rem;
+    line-height: 1.12;
+    letter-spacing: -0.035em;
+  }
+  .job-page-summary,
+  .job-body {
+    font-size: 0.94rem;
+    line-height: 1.7;
+  }
+}
+
 /* Tablet: 2-column layouts */
 @media (min-width: 768px) {
   .card-grid {

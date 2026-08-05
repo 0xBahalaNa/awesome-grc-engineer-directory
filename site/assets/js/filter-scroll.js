@@ -18,9 +18,11 @@
 
   function getStoredCollapsed() {
     try {
-      return window.sessionStorage.getItem(storageKey) === "true";
+      var stored = window.sessionStorage.getItem(storageKey);
+      if (stored !== null) return stored === "true";
+      return window.matchMedia("(max-width: 600px)").matches;
     } catch (error) {
-      return false;
+      return window.matchMedia("(max-width: 600px)").matches;
     }
   }
 

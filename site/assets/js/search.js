@@ -7,6 +7,7 @@
   var chips = Array.from(document.querySelectorAll(".chip"));
   var clearBtn = document.getElementById("clear-filters");
   var countEl = document.getElementById("results-count");
+  var compactCountEl = document.querySelector("[data-compact-results]");
   var noResults = document.getElementById("no-results");
   var summaryEl = document.getElementById("active-filters-summary");
   var pillsEl = document.getElementById("active-filter-pills");
@@ -145,6 +146,7 @@
     });
 
     if (countEl) countEl.textContent = visible;
+    if (compactCountEl) compactCountEl.textContent = visible;
     if (noResults) noResults.style.display = visible === 0 ? "" : "none";
 
     if (!_skipUrlSync) syncFiltersToUrl();
