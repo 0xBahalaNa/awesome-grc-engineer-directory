@@ -11,7 +11,7 @@ role_url: "https://speedrun-talent-network.com/jobs/forward-deployed-engineer-fe
 apply_url: "https://speedrun-talent-network.com/jobs/forward-deployed-engineer-federal-cape-8ea483bd?utm_source=grcengclub&utm_medium=agent"
 posted_date: "2026-06-09"
 expires_date: "2026-07-09"
-location: "Arlington"
+location: "Arlington, VA"
 work_modes:
   - "Hybrid / On-site"
 job_types:

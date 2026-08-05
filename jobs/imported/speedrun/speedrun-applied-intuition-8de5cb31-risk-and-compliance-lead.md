@@ -27,7 +27,7 @@ frameworks:
   - "NIST 800-53"
 languages:
   - "Rust"
-compensation: "$160K – $190K • Offers Equity"
+compensation: "$190K – $250K • Offers Equity"
 summary: "About Applied Intuition Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the..."
 ---
 

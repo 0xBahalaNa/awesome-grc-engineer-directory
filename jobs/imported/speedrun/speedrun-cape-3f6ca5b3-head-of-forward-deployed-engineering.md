@@ -11,7 +11,7 @@ role_url: "https://speedrun-talent-network.com/jobs/head-of-forward-deployed-eng
 apply_url: "https://speedrun-talent-network.com/jobs/head-of-forward-deployed-engineering-cape-3f6ca5b3?utm_source=grcengclub&utm_medium=agent"
 posted_date: "2026-04-02"
 expires_date: "2026-05-02"
-location: "New York"
+location: "New York, NY"
 work_modes:
   - "Hybrid / On-site"
 job_types:
