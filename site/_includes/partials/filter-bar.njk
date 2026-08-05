@@ -1,19 +1,27 @@
 <div class="filters">
   <div class="filters-compact-bar">
     <span class="filter-compact-label"><strong data-compact-results>{{ collections.engineers.length }}</strong> engineers</span>
-    <button class="filter-toggle" type="button" data-filter-toggle aria-expanded="false" aria-controls="filter-panel">Search &amp; filter</button>
+    <button class="filter-toggle filter-command-trigger" type="button" data-filter-toggle aria-expanded="false" aria-controls="filter-panel">
+      <span>Search &amp; filter</span>
+      <kbd class="filter-shortcut" aria-hidden="true">⌘K</kbd>
+    </button>
   </div>
+
+  <button class="filter-palette-backdrop" type="button" data-filter-dismiss tabindex="-1" aria-hidden="true" aria-label="Close search and filters"></button>
 
   <div class="filters-expanded-panel" id="filter-panel">
     <div class="controls-header">
-      <p class="results-count" aria-live="polite" aria-atomic="true"><span id="results-count">{{ collections.engineers.length }}</span> of {{ collections.engineers.length }} engineers</p>
+      <div class="filter-palette-heading">
+        <p class="filter-palette-title">Search &amp; filters</p>
+        <p class="results-count" aria-live="polite" aria-atomic="true"><span id="results-count">{{ collections.engineers.length }}</span> of {{ collections.engineers.length }} engineers</p>
+      </div>
       <div class="controls-actions">
         <div class="controls-meta" aria-label="Directory coverage">
           <span>{{ collections.engineers | uniqueValues("frameworks") | length }} frameworks</span>
           <span>{{ collections.engineers | uniqueValues("certifications") | length }} certifications</span>
           <span>{{ collections.engineers | uniqueValues("available_for") | length }} availability types</span>
         </div>
-        <button class="filter-toggle" type="button" data-filter-toggle aria-expanded="true" aria-controls="filter-panel">Hide filters</button>
+        <button class="filter-toggle filter-palette-close" type="button" data-filter-toggle aria-expanded="true" aria-controls="filter-panel" aria-label="Close search and filters">Close</button>
       </div>
     </div>
 

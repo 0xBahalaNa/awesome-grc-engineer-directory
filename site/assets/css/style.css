@@ -370,17 +370,17 @@ a:hover {
 .filters-expanded-panel {
   display: block;
 }
-.filters.filters-collapsed {
+.filters.filter-palette-ready.filters-collapsed {
   padding-top: 0.55rem;
   padding-bottom: 0.55rem;
 }
-.filters.filters-collapsed .filters-compact-bar {
+.filters.filter-palette-ready.filters-collapsed .filters-compact-bar {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 0.75rem;
 }
-.filters.filters-collapsed .filters-expanded-panel {
+.filters.filter-palette-ready.filters-collapsed .filters-expanded-panel {
   display: none;
 }
 .filter-compact-label {
@@ -2097,7 +2097,7 @@ a:hover {
   .filter-toggle {
     width: 100%;
   }
-  .filters.filters-collapsed .filter-toggle {
+  .filters.filter-palette-ready.filters-collapsed .filter-toggle {
     width: auto;
   }
   .controls-bar {
@@ -2371,12 +2371,12 @@ a:hover {
     -webkit-backdrop-filter: none;
     backdrop-filter: none;
   }
-  .filters.filters-collapsed {
+  .filters.filter-palette-ready.filters-collapsed {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     box-shadow: 0 8px 20px var(--shadow-elevated);
   }
-  .filters.filters-collapsed .filters-compact-bar { min-height: 44px; }
+  .filters.filter-palette-ready.filters-collapsed .filters-compact-bar { min-height: 44px; }
   .filter-compact-label {
     font-size: 0.8rem;
     font-weight: 500;
@@ -2547,6 +2547,168 @@ a:hover {
   .card-grid {
     grid-template-columns: repeat(3, 1fr);
   }
+}
+
+/* Command palette: search, sort, presets, and facets in one focused surface. */
+html { scrollbar-gutter: stable; }
+body.filter-palette-open { overflow: hidden; }
+
+.filter-command-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  min-height: 44px;
+}
+.filter-shortcut {
+  display: inline-flex;
+  align-items: center;
+  min-height: 1.45rem;
+  padding: 0 0.42rem;
+  border: 1px solid var(--border-subtle);
+  border-radius: 4px;
+  background: var(--bg-tertiary);
+  color: var(--text-secondary);
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.64rem;
+  font-weight: 600;
+  line-height: 1;
+  box-shadow: inset 0 -1px 0 var(--border-subtle);
+}
+.filter-palette-backdrop {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 150;
+  width: 100vw;
+  height: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: color-mix(in oklch, oklch(5% 0.004 62) 76%, transparent);
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+  cursor: default;
+}
+.filter-palette-title {
+  color: var(--text-primary);
+  font-family: 'Plus Jakarta Sans', 'Inter', sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.filter-palette-heading {
+  display: grid;
+  gap: 0.15rem;
+}
+.filter-palette-heading .results-count {
+  margin: 0;
+  font-size: 0.72rem;
+}
+.filters.filter-palette-ready:not(.filters-collapsed) {
+  position: relative;
+  top: auto;
+  z-index: 160;
+  padding: 0.55rem 1.5rem;
+  border-top: 1px solid var(--border-subtle);
+  border-bottom: 1px solid var(--border-subtle);
+  background: var(--bg-primary);
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+  transform: none;
+  will-change: auto;
+}
+.filters.filter-palette-ready:not(.filters-collapsed) .filters-compact-bar {
+  display: flex;
+  visibility: hidden;
+  min-height: 44px;
+}
+.filters.filter-palette-ready:not(.filters-collapsed) .filter-palette-backdrop { display: block; }
+.filters.filter-palette-ready:not(.filters-collapsed) .filters-expanded-panel {
+  display: block;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  z-index: 160;
+  width: min(820px, calc(100vw - 2rem));
+  max-height: calc(100vh - 3rem);
+  max-height: calc(100dvh - 3rem);
+  padding: 1rem;
+  overflow: auto;
+  border: 1px solid var(--border-subtle);
+  border-radius: 14px;
+  background: var(--bg-primary);
+  box-shadow:
+    0 0 0 1px color-mix(in oklch, var(--border-subtle) 35%, transparent),
+    0 24px 80px color-mix(in oklch, oklch(5% 0.004 62) 72%, transparent);
+  transform: translate(-50%, -50%);
+  animation: filterPaletteIn 0.16s ease-out;
+  overscroll-behavior: contain;
+}
+.filters.filter-palette-ready:not(.filters-collapsed) .controls-header {
+  position: sticky;
+  top: -1rem;
+  z-index: 4;
+  margin: -1rem -1rem 0.8rem;
+  padding: 0.85rem 1rem;
+  border-bottom: 1px solid var(--border-subtle);
+  background: color-mix(in oklch, var(--bg-primary) 96%, transparent);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+}
+.filter-palette-close {
+  min-width: 64px;
+  color: var(--text-primary);
+}
+@keyframes filterPaletteIn {
+  from { opacity: 0; transform: translate(-50%, calc(-50% + 10px)) scale(0.985); }
+  to { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+}
+
+@media (max-width: 600px) {
+  .filter-shortcut { display: none; }
+  .filters.filter-palette-ready:not(.filters-collapsed) {
+    position: sticky;
+    top: var(--nav-offset);
+    min-height: 61px;
+    padding: 0.5rem 1rem;
+    z-index: 160;
+  }
+  .filters.filter-palette-ready:not(.filters-collapsed) .filters-expanded-panel {
+    top: 0.5rem;
+    right: 0.5rem;
+    bottom: auto;
+    left: 0.5rem;
+    width: auto;
+    height: auto;
+    max-height: calc(100vh - 1rem);
+    max-height: calc(100dvh - 1rem);
+    padding: 0.75rem;
+    padding-bottom: max(0.75rem, env(safe-area-inset-bottom));
+    border-radius: 16px;
+    transform: none;
+    animation-name: filterPaletteInMobile;
+  }
+  .filters.filter-palette-ready:not(.filters-collapsed) .filter-chips {
+    max-height: none;
+    overflow: visible;
+  }
+  .filters.filter-palette-ready:not(.filters-collapsed) .controls-header {
+    top: -0.75rem;
+    margin: -0.75rem -0.75rem 0.65rem;
+    padding: 0.75rem;
+    border-radius: 16px 16px 0 0;
+  }
+  .filter-palette-title { font-size: 0.95rem; }
+  .filter-palette-close {
+    width: auto;
+    min-width: 64px;
+  }
+}
+@keyframes filterPaletteInMobile {
+  from { opacity: 0; transform: translateY(10px) scale(0.99); }
+  to { opacity: 1; transform: none; }
 }
 
 /* Reduced motion */
