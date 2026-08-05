@@ -4,6 +4,8 @@ A community-driven directory of Governance, Risk, and Compliance (GRC) engineers
 
 **[Browse the Directory](https://directory.grcengclub.com/)** — search by specialization, framework, language, and availability.
 
+**[Chapter Leads](https://directory.grcengclub.com/chapters/)** — find GRC Engineering Club chapter presidents, VPs, and founding teams by city.
+
 ## Engineers
 
 <!-- BEGIN_ENGINEER_LIST -->
@@ -66,6 +68,12 @@ A community-driven directory of Governance, Risk, and Compliance (GRC) engineers
 | **[Vikram Sathish ASOKAN](engineers/vikramhkg75.md)** | Audit & Assurance, Compliance Automation, Privacy, Risk Management, AI Governance, DevSecOps | EU AI Act, GDPR, HIPAA, ISO 27001, ISO 27017, ISO 27018, ISO 27701, ISO 22301, ISO 42001, NIST 800-53, NIST 800-171, NIST CSF, SOC 2 | [GitHub](https://github.com/vikramhkg75), [LinkedIn](https://www.linkedin.com/in/vikram-asokan/) |
 | **[Susan Shepard](engineers/xnasusx.md)** | Audit & Assurance, Cloud Security, Compliance Automation, Incident Response, Privacy, Risk Management, Security Governance, Third-Party Risk, AI Governance, Cloud Governance | CSA STAR, GDPR, HIPAA, HITRUST, ISO 27001, ISO 27017, ISO 27018, ISO 42001, NIST 800-53, NIST 800-171, NIST AI RMF, NIST CSF, NIST RMF, PCI-DSS, SOC 2, StateRAMP | [GitHub](https://github.com/xnasusx), [LinkedIn](https://www.linkedin.com/in/xnasusx/) |
 <!-- END_ENGINEER_LIST -->
+
+## Chapter Leads
+
+Local chapter leadership is listed under [`chapters/`](chapters/). Each file is one city chapter with its leads (President, VP, and other roles). When a lead already has a directory profile, set their `github` so the chapter card links to it.
+
+To add or update a chapter, copy `chapters/_template.md` to `chapters/{slug}.md`, fill in the city and `leads` list, and open a PR.
 
 ## Add Yourself
 
