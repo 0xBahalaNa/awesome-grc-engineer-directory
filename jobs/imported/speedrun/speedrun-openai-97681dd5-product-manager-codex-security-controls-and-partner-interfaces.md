@@ -11,7 +11,7 @@ role_url: "https://speedrun-talent-network.com/jobs/product-manager-codex-securi
 apply_url: "https://speedrun-talent-network.com/jobs/product-manager-codex-security-controls-partner-interfaces-openai-97681dd5?utm_source=grcengclub&utm_medium=agent"
 posted_date: "2026-07-13"
 expires_date: "2026-08-12"
-location: "Remote - US"
+location: "US - Remote"
 work_modes:
   - "Remote"
 job_types:

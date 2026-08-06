@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/elevenlabs?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/elevenlabs/7664e3c4-2336-4d1a-90cf-91d1268de10d"
 apply_url: "https://jobs.ashbyhq.com/elevenlabs/7664e3c4-2336-4d1a-90cf-91d1268de10d/application"
-posted_date: "2026-08-05"
-expires_date: "2026-09-04"
+posted_date: "2026-08-06"
+expires_date: "2026-09-05"
 location: "Spain"
 work_modes:
   - "Remote"
@@ -78,3 +78,5 @@ What you will do:
 This candidate should be able to commute to Madrid ~3x per week.
 
 #LI-remote
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.

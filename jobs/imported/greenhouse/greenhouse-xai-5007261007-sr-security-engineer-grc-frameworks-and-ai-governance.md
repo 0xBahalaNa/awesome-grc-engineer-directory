@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5007261007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5007261007"
-posted_date: "2026-07-29"
-expires_date: "2026-08-28"
+posted_date: "2026-08-05"
+expires_date: "2026-09-04"
 location: "New York, New York, United States; Palo Alto, California, United States; Washington, District of Columbia, United States"
 work_modes:
   - "Hybrid / On-site"
@@ -34,6 +34,8 @@ summary: "SpaceXAI’s mission is to create AI systems that can accurately under
 
 &lt;div class="content-intro"&gt;&lt;p&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;SpaceXAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.&nbsp;&lt;/span&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. &lt;/span&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important. &lt;/span&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;All employees are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;ABOUT THE ROLE:&lt;/strong&gt;&lt;/h3&gt;
 &lt;div&gt;We are seeking an experienced Governance, Risk, and Compliance (GRC) Engineer to own and scale our security and AI governance compliance posture as SpaceXAI grows. You will set the standards the organization builds to, design and implement controls, and automate the unglamorous parts of compliance so a fast-moving team can ship safely. The ideal candidate combines deep fluency across modern security and AI frameworks with GRC engineering skills: you translate control requirements into technical implementations, partner with engineers to bake compliance into architecture and CI/CD, and replace point-in-time checklist work with continuous, engineered assurance. You will collaborate across engineering, legal, product, and leadership to keep our AI systems audit-ready across enterprise, commercial, and public-sector environments.&lt;/div&gt;
+&lt;div&gt;&nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;em&gt;This role may also include additional tasks and responsibilities as needed to support the team and evolving business priorities.&lt;/em&gt;&lt;/div&gt;
 &lt;h3&gt;&lt;strong&gt;RESPONSIBILITIES:&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Own and execute security compliance implementation and audits across core frameworks including SOC 2, NIST CSF, NIST SP 800-53, ISO 27001, ISO 42001, and the EU AI Act, including control design, mapping, gap assessment, evidence collection, and remediation tracking.&lt;/li&gt;

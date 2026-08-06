@@ -76,9 +76,10 @@ The successful candidate will be able to come up to speed quickly, integrate int
 - Active executive security credentials - hold recognized professional certifications such as CISSP, CISM, or CISA.
 - Fractional or vCISO practice tenure - prior experience delivering virtual CISO, fractional security leadership, or advisory services within a managed security service provider (MSSP) environment.
 - Compliance automation platform mastery - hands-on experience leveraging automated GRC platforms such as Vanta, Drata, or Secureframe for continuous posture tracking.
+- Demonstrated delivery of ISO 42001 - recent and hands-on experience as a lead implementor or lead auditor for ISO 42001.
 - Complex certification audit leadership - track record supporting client organizations through formal SOC 2 Type II audits, ISO 27001 certifications, or CMMC assessments.
-- Specialized framework familiarity - exposure to emerging or regulatory frameworks including ISO 42001 (AI Management), GDPR, CCPA, DORA, or NIST 800-171.
-- Regulated sector domain expertise - industry experience navigating the unique security and regulatory constraints of SaaS, fintech, healthcare, or defense contracting sectors.
+- Specialized framework familiarity - exposure to emerging or regulatory frameworks such as ISO 42001 (AI Management), GDPR, CCPA, DORA, or NIST 800-171.
+- Regulated sector domain expertise - industry experience navigating the unique security and regulatory constraints of SaaS, fintech, or healthcare.
 
 ## What We Offer
 

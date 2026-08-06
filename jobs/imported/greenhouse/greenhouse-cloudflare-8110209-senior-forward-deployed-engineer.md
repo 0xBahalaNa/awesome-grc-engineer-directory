@@ -1,14 +1,14 @@
 ---
 title: "Senior Forward Deployed Engineer"
 company: "Cloudflare"
-slug: "greenhouse-cloudflare-8082556-senior-forward-deployed-engineer"
+slug: "greenhouse-cloudflare-8110209-senior-forward-deployed-engineer"
 status: "published"
 source: "Greenhouse"
 sources:
   - "Greenhouse"
 source_url: "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true"
-role_url: "https://boards.greenhouse.io/cloudflare/jobs/8082556?gh_jid=8082556"
-apply_url: "https://boards.greenhouse.io/cloudflare/jobs/8082556?gh_jid=8082556"
+role_url: "https://boards.greenhouse.io/cloudflare/jobs/8110209?gh_jid=8110209"
+apply_url: "https://boards.greenhouse.io/cloudflare/jobs/8110209?gh_jid=8110209"
 posted_date: "2026-08-05"
 expires_date: "2026-09-04"
 location: "Hybrid"
@@ -25,7 +25,7 @@ frameworks: []
 languages:
   - "Go"
   - "Rust"
-compensation: "$194,000 - $266,000"
+compensation: ""
 summary: "About Us At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other..."
 ---
 
@@ -35,10 +35,10 @@ summary: "About Us At Cloudflare, we are on a mission to help build a better Int
 &lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a "normalized" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;h2&gt;Available Locations&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;San Francisco, US&lt;/li&gt;
+&lt;li&gt;Sweden&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;About the Role&lt;/h2&gt;
-&lt;p&gt;Cloudflare’s Senior&nbsp;Forward Deployed Engineers (FDEs) operate at the intersection of product engineering and customer impact.&lt;/p&gt;
+&lt;p&gt;Cloudflare’s Forward Deployed Engineers (FDEs) operate at the intersection of product engineering and customer impact.&lt;/p&gt;
 &lt;p&gt;As an FDE, you will be embedded within one of Cloudflare’s most strategic global customers, working side-by-side with their engineering teams to build and deploy solutions using Cloudflare’s platform. Unlike traditional Solutions Architects or consultants, you will write production code, shape technical architecture, and directly influence how Cloudflare products are used at massive scale.&lt;/p&gt;
 &lt;p&gt;You will operate as a technical extension of both organizations - helping the customer ship faster while surfacing real-world product insights back to Cloudflare engineering.&lt;/p&gt;
 &lt;h2&gt;Responsibilities&lt;/h2&gt;
@@ -78,37 +78,9 @@ summary: "About Us At Cloudflare, we are on a mission to help build a better Int
 &lt;li&gt;A visible public profile, including open-source contributions, technical blogging, or speaking engagements at industry conferences.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Compensation&lt;/h2&gt;
-&lt;p&gt;Compensation may be adjusted depending on work location.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;For Bay Area based hires: Estimated annual salary of $194,000 - $266,000.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;For Sweden based hires: Estimated annual salary is between SEK 760,000 - SEK 1,240,000.&lt;/p&gt;
 &lt;h3&gt;Equity&lt;/h3&gt;
-&lt;p&gt;This role is eligible to participate in Cloudflare’s equity plan.&lt;/p&gt;
-&lt;h3&gt;Benefits&lt;/h3&gt;
-&lt;p&gt;Cloudflare offers a complete package of benefits and programs to support you and your family.&nbsp; Our benefits programs can help you pay health care expenses, support caregiving, build capital for the future and make life a little easier and fun!&nbsp; The below is a description of our benefits for employees in the United States, and benefits may vary for employees based outside the U.S.&lt;/p&gt;
-&lt;h3&gt;Health &amp; Welfare Benefits&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Medical/Rx Insurance&lt;/li&gt;
-&lt;li&gt;Dental Insurance&lt;/li&gt;
-&lt;li&gt;Vision Insurance&lt;/li&gt;
-&lt;li&gt;Flexible Spending Accounts&lt;/li&gt;
-&lt;li&gt;Commuter Spending Accounts&lt;/li&gt;
-&lt;li&gt;Fertility &amp; Family Forming Benefits&lt;/li&gt;
-&lt;li&gt;On-demand mental health support and Employee Assistance Program&lt;/li&gt;
-&lt;li&gt;Global Travel Medical Insurance&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Financial Benefits&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Short and Long Term Disability Insurance&lt;/li&gt;
-&lt;li&gt;Life &amp; Accident Insurance&lt;/li&gt;
-&lt;li&gt;401(k) Retirement Savings Plan&lt;/li&gt;
-&lt;li&gt;Employee Stock Participation Plan&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Time Off&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Flexible paid time off covering vacation and sick leave&lt;/li&gt;
-&lt;li&gt;Leave programs, including parental, pregnancy health, medical, and bereavement leave&lt;/li&gt;
-&lt;/ul&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&lt;strong&gt;What Makes Cloudflare Special?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This role is eligible to participate in Cloudflare’s equity plan.&lt;/p&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&lt;strong&gt;What Makes Cloudflare Special?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="font-weight: 400;"&gt;We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://blog.cloudflare.com/protecting-free-expression-online/"&gt;&lt;strong&gt;Project Galileo&lt;/strong&gt;&lt;/a&gt;&lt;span style="font-weight: 400;"&gt;: Since 2014, we've equipped more than 2,400 journalism and civil society organizations in 111 countries with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflare’s enterprise customers--at no cost.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="https://www.cloudflare.com/athenian/"&gt;Athenian Project&lt;/a&gt;&lt;/strong&gt;&lt;span style="font-weight: 400;"&gt;: In 2017, we created the Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration. Since the project, we've provided services to more than 425 local government election websites in 33 states.&lt;/span&gt;&lt;/p&gt;

@@ -1,16 +1,16 @@
 ---
 title: "Governance, Risk and Compliance Lead"
 company: "Thinking Machines Lab"
-slug: "speedrun-thinking-machines-lab-88885314-governance-risk-and-compliance-lead"
+slug: "speedrun-thinking-machines-lab-162cac0f-governance-risk-and-compliance-lead"
 status: "published"
 source: "a16z Speedrun"
 sources:
   - "a16z Speedrun"
 source_url: "https://speedrun-talent-network.com/api/v1/jobs"
-role_url: "https://speedrun-talent-network.com/jobs/governance-risk-and-compliance-lead-thinking-machines-lab-88885314?utm_source=grcengclub&utm_medium=agent"
-apply_url: "https://speedrun-talent-network.com/jobs/governance-risk-and-compliance-lead-thinking-machines-lab-88885314?utm_source=grcengclub&utm_medium=agent"
-posted_date: "2026-07-30"
-expires_date: "2026-08-29"
+role_url: "https://speedrun-talent-network.com/jobs/governance-risk-and-compliance-lead-thinking-machines-lab-162cac0f?utm_source=grcengclub&utm_medium=agent"
+apply_url: "https://speedrun-talent-network.com/jobs/governance-risk-and-compliance-lead-thinking-machines-lab-162cac0f?utm_source=grcengclub&utm_medium=agent"
+posted_date: "2026-08-04"
+expires_date: "2026-09-03"
 location: "San Francisco"
 work_modes:
   - "Hybrid / On-site"
@@ -28,19 +28,13 @@ frameworks:
   - "GDPR"
 languages: []
 compensation: "$225,000 - $350,000"
-summary: "Thinking Machines Lab's mission is to empower humanity through advancing collaborative general intelligence. We're building a future where everyone has access to the knowledge and..."
+summary: "The mission of Thinking Machines is to build AI that extends human will and judgment. About the Role We're looking for a GRC Lead who personally drives our certifications (SOC 2,..."
 ---
 
-Thinking Machines Lab's mission is to empower humanity through advancing collaborative general intelligence. We're building a future where everyone has access to the knowledge and tools to make AI work for their unique needs and goals.
-
-We are scientists, engineers, and builders who’ve created some of the most widely used AI products, including ChatGPT and Character.ai, open-weights models like Mistral, as well as popular open source projects like PyTorch, OpenAI Gym, Fairseq, and Segment Anything.
-
+The mission of Thinking Machines is to build AI that extends human will and judgment.
 About the Role
-
 We're looking for a GRC Lead who personally drives our certifications (SOC 2, ISO 27001, FedRAMP and others as we grow) from scoping through audit close, and runs our compliance processes day to day. You'll collect the evidence, write the control documentation, and sit across from the auditor yourself.
-
 You'll work closely with security, legal, safety, and engineering to answer compliance and risk questions directly, using your own technical understanding of how our systems work. Day to day, you'll be managing audits, controls, and risk assessments. Alongside that, you'll be building the roadmap for what this function needs to look like in a year.
-
 What You'll Do
 
 - Own our certification roadmap end to end: scope each certification, build the control set, collect and organize evidence, and represent TML directly to auditors through to close.
@@ -58,7 +52,6 @@ What You'll Do
 - Plan a multi-quarter roadmap for the GRC function itself, while continuing to personally run the certifications and audits already on the books.
 
 Skills and Qualifications
-
 Minimum qualifications:
 
 - 7+ years related experience across technology and cybersecurity Governance, Risk, and Compliance (GRC), with demonstrated breadth across all three disciplines.
@@ -72,7 +65,6 @@ Minimum qualifications:
 - Experience learning new technical domains quickly and translating them for non-technical stakeholders.
 
 Preferred qualifications:
-
 We encourage you to apply even if you don't meet all preferred qualifications.
 
 - Background as a software engineer or in a technical engineering role, now applied to GRC, evidenced by scripts, tools, or automations you've personally built for evidence collection, control testing, or audit workflows.
@@ -100,7 +92,3 @@ Logistics
 - Benefits: Thinking Machines offers generous health, dental, and vision benefits, unlimited PTO, paid parental leave, and relocation support as needed.
 
 - As set forth in Thinking Machines' Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
-
-As set forth in Thinking Machines' Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
-
-Thinking Machines Lab will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the California Fair Chance Act, the San Francisco Fair Chance Ordinance, and any other applicable state or local fair chance ordinance or law.
