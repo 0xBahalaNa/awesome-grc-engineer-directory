@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/elevenlabs?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/elevenlabs/03cefd49-972f-45b2-b6c7-9a42d133af0c"
 apply_url: "https://jobs.ashbyhq.com/elevenlabs/03cefd49-972f-45b2-b6c7-9a42d133af0c/application"
-posted_date: "2026-08-05"
-expires_date: "2026-09-04"
+posted_date: "2026-08-06"
+expires_date: "2026-09-05"
 location: "Tokyo"
 work_modes:
   - "Remote"
@@ -80,3 +80,5 @@ Everything we do is the result of the creativity and commitment of our team - bu
 ## Location
 
 This role is remote-first, so it can be executed from anywhere in APAC, with the ability to operate in GMT+8 to GMT+12 timezones preferred. If you prefer, you can work from our office in Tokyo.
+
+We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.

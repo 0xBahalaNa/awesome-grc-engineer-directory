@@ -41,21 +41,19 @@ Enterprise Risk Management Framework (ERMF) & Governance - Support the developme
 
 ### Requirements:
 
-Requirements
-
 - Bachelor's Degree in Business, Commerce, Finance, Risk Management, or a related discipline.
 
-- Minimum 5 years of relevant experience in Operational Risk, Enterprise Risk Management, Audit, Advisory, Financial Services, or Product Risk Management.
+- Minimum 5 years of relevant experience in Operational Risk, Enterprise Risk Management, Audit, Advisory, Financial Services, or Product Risk Management
 
-- Experience in the financial services, fintech, or digital assets/cryptocurrency industry is highly preferred.
+- Experience in the financial services, fintech, or digital assets/cryptocurrency industry is highly preferred
 
-- Knowledge of Governance, Risk & Compliance (GRC) platforms and database management systems is an advantage.
+- Knowledge of Governance, Risk & Compliance (GRC) platforms and database management systems is an advantage
 
-- Strong project management and execution capabilities, with the ability to manage multiple priorities and deliver high-quality outcomes under tight deadlines.
+- Strong project management and execution capabilities, with the ability to manage multiple priorities and deliver high-quality outcomes under tight deadlines
 
-- Strong analytical, problem-solving, and stakeholder management skills.
+- Strong analytical, problem-solving, and stakeholder management skills
 
-- Excellent interpersonal, communication, and presentation skills.
+- Excellent interpersonal, communication, and presentation skills
 
 - Self-motivated, disciplined, and able to work effectively in a dynamic, fast-paced environment.
 

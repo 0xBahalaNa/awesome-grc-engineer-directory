@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/xai/jobs/5198194007"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5198194007"
-posted_date: "2026-07-29"
-expires_date: "2026-08-28"
+posted_date: "2026-08-05"
+expires_date: "2026-09-04"
 location: "New York, New York, United States; Palo Alto, California, United States; Washington, District of Columbia, United States"
 work_modes:
   - "Hybrid / On-site"
@@ -35,6 +35,8 @@ summary: "SpaceXAI’s mission is to create AI systems that can accurately under
 
 <div class="content-intro"><p><span style="font-family: arial, helvetica, sans-serif;">SpaceXAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.&nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. </span><span style="font-family: arial, helvetica, sans-serif;">We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important. </span><span style="font-family: arial, helvetica, sans-serif;">All employees are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.</span></p></div><h3><strong>ABOUT THE ROLE:</strong></h3>
 <div>We are seeking an experienced Governance, Risk, and Compliance (GRC) Engineer focused on fintech and financial services regulation to help scale compliance for SpaceXAI and xMoney. As we operate deeper in regulated financial environments, maintaining a robust, transparent, and technically sound GRC program is critical. You will architect the systems and processes that automate trust — a pragmatic operator who understands that GRC exists to enable the business, balancing rigorous standards with the velocity of a high-growth company. The ideal candidate brings hands-on fintech compliance experience (PCI DSS, NYDFS, FFIEC), fluency in data privacy frameworks (GDPR, CCPA), and GRC engineering skills: Compliance-as-Code, continuous evidence collection, and deep partnership with engineering so controls are designed into the platform rather than bolted on after the fact.</div>
+<div>&nbsp;</div>
+<div><em>This role may also include additional tasks and responsibilities as needed to support the team and evolving business priorities.</em></div>
 <h3><strong>RESPONSIBILITIES:</strong></h3>
 <ul>
 <li>Own and evolve financial services and payments compliance posture across PCI DSS, NYDFS (including 23 NYCRR 500), FFIEC guidance, and related banking/fintech regulatory expectations supporting xMoney across relevant jurisdictions.</li>
