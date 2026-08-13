@@ -9,8 +9,8 @@ sources:
 source_url: "https://speedrun-talent-network.com/api/v1/jobs"
 role_url: "https://speedrun-talent-network.com/jobs/governance-risk-compliance-grc-manager-northwood-space-c5e46839?utm_source=grcengclub&utm_medium=agent"
 apply_url: "https://speedrun-talent-network.com/jobs/governance-risk-compliance-grc-manager-northwood-space-c5e46839?utm_source=grcengclub&utm_medium=agent"
-posted_date: "2026-06-19"
-expires_date: "2026-07-19"
+posted_date: "2026-08-11"
+expires_date: "2026-09-10"
 location: "Torrance, CA"
 work_modes:
   - "Hybrid / On-site"

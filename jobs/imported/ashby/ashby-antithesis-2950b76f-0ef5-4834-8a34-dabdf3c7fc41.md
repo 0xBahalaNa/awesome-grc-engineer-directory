@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/antithesis?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/antithesis/2950b76f-0ef5-4834-8a34-dabdf3c7fc41"
 apply_url: "https://jobs.ashbyhq.com/antithesis/2950b76f-0ef5-4834-8a34-dabdf3c7fc41/application"
-posted_date: "2026-08-11"
-expires_date: "2026-09-10"
+posted_date: "2026-08-13"
+expires_date: "2026-09-12"
 location: "Vienna, VA, USA"
 work_modes:
   - "Hybrid / On-site"
@@ -95,7 +95,7 @@ You will interface regularly with Engineering & Infrastructure, Legal, HR, Finan
 
 Required
 
-- 3–5 years of GRC, compliance, or IT audit experience, ideally in a SaaS or highly technical environment
+- 5–10 years of GRC, compliance, or IT audit experience, ideally in a SaaS or highly technical environment
 - Hands-on experience with multiple SOC 2 audits — not advisory, not adjacent, but in the room with the auditors and owning the evidence
 - Ability to go deep on our technical architecture, understand what we do and why — including bespoke features of our environment such as NixOS
 - SRE, security engineering, engineering or equivalent technical background (education and/or experience)

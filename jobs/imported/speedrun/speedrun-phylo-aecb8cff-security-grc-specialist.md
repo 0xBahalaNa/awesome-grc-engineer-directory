@@ -11,7 +11,7 @@ role_url: "https://speedrun-talent-network.com/jobs/security-grc-specialist-phyl
 apply_url: "https://speedrun-talent-network.com/jobs/security-grc-specialist-phylo-aecb8cff?utm_source=grcengclub&utm_medium=agent"
 posted_date: "2026-07-30"
 expires_date: "2026-08-29"
-location: "South San Francisco"
+location: "Toronto (hybrid)"
 work_modes:
   - "Hybrid / On-site"
 job_types:

@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/sigmacomputing/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/sigmacomputing/jobs/7776721003"
 apply_url: "https://job-boards.greenhouse.io/sigmacomputing/jobs/7776721003"
-posted_date: "2026-07-16"
-expires_date: "2026-08-15"
+posted_date: "2026-08-12"
+expires_date: "2026-09-11"
 location: "New York City, NY"
 work_modes:
   - "Hybrid / On-site"
