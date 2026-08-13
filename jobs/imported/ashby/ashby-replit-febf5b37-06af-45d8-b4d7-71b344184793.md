@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/replit?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/replit/febf5b37-06af-45d8-b4d7-71b344184793"
 apply_url: "https://jobs.ashbyhq.com/replit/febf5b37-06af-45d8-b4d7-71b344184793/application"
-posted_date: "2026-08-12"
-expires_date: "2026-09-11"
+posted_date: "2026-08-13"
+expires_date: "2026-09-12"
 location: "Foster City, CA"
 work_modes:
   - "Hybrid / On-site"
@@ -85,7 +85,7 @@ Full-Time Employee Benefits Include:
 
 🏝 Flexible Time Off (FTO) + Holidays
 
-🚗 Commuter Benefits ( In-Office Only )
+🚗 Commuter Benefits ( In-Office & US Only )
 
 📱 Monthly Wellness Stipend
 
