@@ -35,11 +35,11 @@ summary: "Northwood is a modern space infrastructure company bringing the benefi
 
 Northwood is a modern space infrastructure company bringing the benefits of space to the masses through advanced communications technology. We are building a global network of phased array ground stations that enable real-time, reliable communication for satellite missions such as national security, global connectivity, and disaster response. With a vertically integrated approach, Northwood designs, builds, and rapidly deploys scalable systems that power the next generation of space missions. If you like solving complex challenges and seeing your work deployed around the world with real impact, Northwood is the place to do it.
 
-Role Overview
+Role:
 As Governance, Risk & Compliance (GRC) Lead, you will own Northwood's compliance program across CMMC, FedRAMP, SOC 2, and ITAR — building the policies, processes, and evidence frameworks that enable the company to operate as a trusted dual-use space communications provider. This is a senior individual contributor role for a practitioner who combines deep regulatory knowledge with the technical fluency to work directly with security engineering, network, and product teams to translate compliance requirements into operational reality.
 You will serve as the primary point of contact for government customers, third-party assessors, and internal stakeholders on all matters related to compliance posture, risk management, and audit readiness. You will work across Northwood's full security stack — spanning on-premises infrastructure, AWS GovCloud, GCC, and corporate systems — to ensure controls are implemented, documented, and defensible. This role reports to the Head of Security.
 
-Responsibilities
+Responsibilities:
 Compliance Program Ownership
 
 - Own Northwood's compliance program across CMMC Level 2, FedRAMP, SOC 2 Type II, and ITAR, including control mapping, gap assessment, remediation tracking, and audit preparation.
@@ -88,7 +88,7 @@ Audit Readiness & Stakeholder Engagement
 
 - Develop and deliver security awareness and compliance training programs for Northwood employees, with targeted content for personnel handling CUI or operating in ITAR-controlled environments.
 
-Basic Qualifications
+Basic Qualifications:
 
 - 5+ years in a governance, risk, and compliance role with demonstrated ownership of enterprise compliance programs in a regulated environment.
 
@@ -110,7 +110,7 @@ Basic Qualifications
 
 - U.S. citizenship or status as a lawful permanent resident required to conform with ITAR export regulations.
 
-Preferred Qualifications
+Preferred Qualifications:
 
 - Active TS clearance or higher.
 

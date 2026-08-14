@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/ramp?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27"
 apply_url: "https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27/application"
-posted_date: "2026-08-13"
-expires_date: "2026-09-12"
+posted_date: "2026-08-14"
+expires_date: "2026-09-13"
 location: "New York, NY (HQ)"
 work_modes:
   - "Hybrid / On-site"
@@ -94,7 +94,7 @@ This is a deeply client-facing role. You will spend significant time with custom
 - Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay
 - Pet insurance
 - In-office perks: lunch, snacks, drinks, and more
-- Relocation support to NYC or SF (as needed)
+- Relocation expense coverage to NYC or SF (if needed)
 
 ## Canada
 

@@ -1,5 +1,5 @@
 ---
-title: "Forward Deployed Engineer"
+title: "Senior Forward Deployed Engineer"
 company: "Second Front Systems"
 slug: "ashby-second-front-systems-54d01d47-ac09-49ca-85e0-136e15b7ab87"
 status: "published"
@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/Second-Front-Systems?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/Second-Front-Systems/54d01d47-ac09-49ca-85e0-136e15b7ab87"
 apply_url: "https://jobs.ashbyhq.com/Second-Front-Systems/54d01d47-ac09-49ca-85e0-136e15b7ab87/application"
-posted_date: "2026-08-13"
-expires_date: "2026-09-12"
+posted_date: "2026-08-14"
+expires_date: "2026-09-13"
 location: "Remote"
 work_modes:
   - "Remote"
@@ -19,73 +19,57 @@ job_types:
 specializations:
   - "Compliance Automation"
   - "Risk Management"
+  - "Audit & Assurance"
   - "Cloud Security"
-  - "Identity & Access Management"
 frameworks:
   - "FedRAMP"
   - "NIST 800-53"
 languages:
   - "Python"
   - "Terraform"
-  - "OPA/Rego"
   - "Bash"
   - "Rust"
-compensation: ""
-summary: "Second Front Systems (2F) is seeking an ambitious and visionary Forward Deployed Engineer to join our mission-driven team. As a dynamic, fast-growing leader in national security..."
+compensation: "$160,000 - $200,000"
+summary: "Second Front Systems is looking for a senior technical leader with field deployment experience Senior Forward Deployed Engineer to strengthen our Federal Sales engineering..."
 ---
 
-Second Front Systems (2F) is seeking an ambitious and visionary Forward Deployed Engineer to join our mission-driven team. As a dynamic, fast-growing leader in national security technology, we are committed to delivering transformative solutions that empower our nation’s defenders. This is a pivotal role for an expert capable of shaping the future of defense software delivery and security.
+Second Front Systems is looking for a senior technical leader with field deployment experience Senior Forward Deployed Engineer to strengthen our Federal Sales engineering organization. Operating at customer sites ranging from connected networks to classified SCIFs with DDIL constraints, you will be responsible for owning technical relationships for high-visibility defense and intelligence community missions, leading deployments into denied environments, and mentoring forward deployed engineers across the bench. You will set architectural direction for Game Warden integration into customer networks, resolve mission-critical issues in zero-connectivity scenarios, and translate field realities into product roadmap priorities, ensuring that 2F's most sensitive engagements deliver on technical commitments and customers achieve operational objectives. We need someone capable of managing complex deployments in classified environments with full accountability for technical outcomes, diagnosing and resolving critical failures in real-time without escalation paths or external dependencies, and mentoring junior engineers and establishing technical standards that scale across customer engagements. As a key partner to engineering, Security/Compliance, and Product leadership, you will feed customer operational challenges and platform gaps directly into development priorities, ensure 2F's platform serves warfighter needs, serving as the senior technical authority for 2F's most demanding customer relationships. Note: Candidates must reside in one of our approved hiring hubs: • DC/Maryland/Virginia • Raleigh/Durham/Chapel Hill, NC • Denver/Colorado Springs, CO • Dallas/Fort Worth, TX
 
-As a Forward Support Engineer, you will leverage extensive experience in deploying, maintaining, and troubleshooting complex software and infrastructure within classified government and defense environments. This high-impact, client-facing position demands deep technical expertise and hands-on leadership in secure system deployments. You will operate directly with clients, traveling to on-site locations, providing strategic technical guidance to resolve unique challenges and ensuring the seamless operation of critical systems, particularly in Denied, Disrupted, Intermittent, and Limited (DDIL) network environments.
+What You'll Do
 
-Note: This position requires the ability to obtain and maintain a DoD Top Secret / SCI eligible security clearance. Candidates holding an active or interim DoD TS/SCI eligible clearance (or higher) are strongly preferred. Due to the strict federal security requirements for this role, U.S. citizenship is required, and all candidates must successfully pass a comprehensive background screening. Additionally, candidates must reside in one of our approved hiring hubs:
+• Own end-to-end technical delivery for 2F's highest-complexity government and defense engagements — architecting, deploying, and sustaining Game Warden and integrated customer workloads across classified networks, DDIL environments, and multiple Impact Levels (IL2–IL6) and JWICS.
 
-- DC/Maryland/Virginia
-- Raleigh/Durham/Chapel Hill, NC
-- Denver/Colorado Springs, CO
-- Dallas/Fort Worth, TX
+• Serve as the senior technical escalation point and primary client-facing authority, representing 2F to senior customer stakeholders (program managers, ISSOs/ISSMs, mission owners) and making real-time architectural and risk-tradeoff decisions on-site.
 
-## What You’ll Do:
+• Lead and mentor other Forward Deployed and DevSecOps Engineers — setting technical standards, reviewing designs, and building the playbooks that let the team scale to new missions faster.
 
-- Lead the deployment and configuration of software solutions in secure, classified environments in support of US government customers. Work closely with our engineering and product teams to integrate complex systems and infrastructure.
-- Serve as the main technical point of contact for government clients and their contractors, ensuring their requirements are met while adhering to strict security protocols.
-- Support the 2F Program manager in producing and delivering technical contract CDRLs.
-- Provide on-the-ground troubleshooting and immediate hand on support for client systems, including software bugs, hardware issues, and deployment failures.
-- Ensure that all deployed systems comply with government security standards and regulatory frameworks, including FedRAMP, NIST, and others. Maintain awareness of current security risks and advise clients on mitigation strategies.
-- Collaborate with cross-functional teams including engineering, DevOps, and security to implement secure and scalable solutions.
-- Maintain clear and concise documentation for system configurations, troubleshooting procedures, and security compliance activities.
-- Monitor system performance, troubleshoot issues, and suggest optimizations to improve the efficiency and effectiveness of deployed solutions.
-- Be on-site at client locations for system deployments, updates and troubleshooting during high impact operational exercises, integration and training events. Travel to remote locations may be required.
-- Up to 50% travel may be required at times to support critical client integrations
+• Deploy and harden secure Kubernetes-based infrastructure (Talos Linux, Docker, Istio, GitLab, Helm, Terraform) to sustain a Zero Trust (ZT) environment across customer cloud and on prem environments.
 
-## Skills You’ll Bring to Our Team:
+• Translate field experience into product and platform improvements, working directly with Engineering and Product leadership to prioritize the roadmap based on real deployment friction.
 
-- Minimum of 3-5 years of experience in systems deployment, engineering, or operations in highly regulated environments (government, defense, etc.).
-- Provide early, proactive input during customer kickoffs and architecture discussions to ensure deployment approaches align with accreditation requirements (RMF, STIGs, NIST 800-53) — flagging potential assessment issues before they become costly rework later in the process.
-- Partner with customer assessors, compliance stakeholders, and internal security teams to understand the accreditation posture of each deployment environment (e.g., SIPR, IL4/5/6, FedRAMP) and ensure packaging and deployment decisions support a smooth authorization path.
-- Support the accreditation lifecycle for customer deployments by contributing operational context and technical input into authorization artifacts (SSPs, POA&Ms, control narratives) as needed — without requiring sole ownership of artifact authorship.
-- Identify and communicate architectural or configuration risks early in the deployment process that could jeopardize an assessor's approval, escalating and resolving these before go-live rather than after rejection.
-- Build working fluency in the customer's accreditation environment and constraints (classification level, ATO status, change control processes) to deploy software in a way that respects and anticipates compliance requirements from day one.
-- Proficiency in Linux (Ubuntu, CentOS, RedHat) server administration.
-- Proficiency deploying, maintaining and working with Kubernetes.
-- Proficiency in maintaining and troubleshooting Helm charts within Kubernetes deployments
-- Proficiency working in on prem and cloud environments (AWS, Azure, GCP)
-- Experience with CI/CD pipelines, version control, and automation.
-- Proficiency with networking concepts, including VPNs, VLANs, and firewalls.
-- Experience in task automation with a language (e.g., Go, Rust, Python, Bash).
-- Excellent communication skills and ability to interact with both technical and non-technical stakeholders.
-- Hands-on experience with deploying complex systems in cloud or on-premise environments.
-- Strong understanding of security protocols and best practices, including encryption, firewalls, access control, and identity management.
+• Drive accreditation and continuous ATO (cATO) outcomes in partnership with the security/compliance team — producing and validating evidence against NIST 800-53, RMF, STIGs, and FedRAMP controls, and owning remediation of findings from 3PAO assessments and penetration tests.
 
-## Preferred Qualifications:
+• Maintain rigorous configuration management, security documentation, and audit-ready evidence across all engagements, and supporting the 2F team in customer security reviews and audits.
 
-- Experience working in a startup environment
-- Knowledge of DevSecOps tools and practices
+• Travel to client locations as needed for complex system deployments, updates and troubleshooting during high impact operational exercises, integration and training events.
 
-- Experience with monitoring and alerting systems (e.g., Prometheus, Grafana)
-- Familiarity with 2F’s tech stack: AWS, Talos Linux, Kubernetes, Docker, Helm, Istio, Git, GitLab, Terraform, relational databases
+What You Bring
 
-The base salary for this position will fall between $105,000-141,000 Your ultimate compensation will be determined by professional background, technical proficiency, seniority, and regional cost factors. Furthermore, this opportunity includes potential eligibility for equity awards and discretionary bonuses, rounding out a comprehensive total rewards offering.
+• 7-10 years of experience in systems deployment, DevSecOps, or platform engineering in regulated/classified government environments, including demonstrated ownership of complex, mission-critical deployments (not just support/execution).
+
+• Multi-cloud, government-authorized infrastructure: Hands-on experience deploying and hardening workloads across AWS GovCloud/Commercial, Microsoft Azure Government, and Google Cloud, including Infrastructure-as-Code (Terraform, CloudFormation, or equivalent) tailored to DoD Impact Level 2–6 and JWICS environments.
+
+• Container & orchestration security: Expertise securing Kubernetes/OpenShift or equivalent container platforms — image hardening, admission controls, network policies, and runtime security — within accredited enclaves.
+
+• Observability & incident response: Skilled in implementing logging, monitoring, and alerting stacks (ELK, Splunk, Prometheus/Grafana) to support 24/7 incident response, penetration test remediation, and Day 2 operations.
+
+• Expert level proficiency in Linux (Talos, RedHat) server administration, along with deploying and maintaining Kubernetes on cloud platforms and disparate compute hardware.
+
+• Demonstrated leadership: experience mentoring engineers, leading technical design reviews, or acting as a technical lead on customer-facing engagements.
+
+• Strong scripting/automation ability in Go, Rust, Python, or Bash, with a track record of building internal tooling to remove manual toil from security and operations workflows.
+
+• Active DoD Top Secret/SCI clearance (or eligibility, with active clearance strongly preferred); U.S. citizenship required. Preferred The base salary for this position will fall between $160,000 and $200,000. Your ultimate compensation will be determined by professional background, technical proficiency, seniority, and regional cost factors. Furthermore, this opportunity includes potential eligibility for equity awards and discretionary bonuses, rounding out a comprehensive total rewards offering.
 
 ## Success at 2F Looks Like:
 
