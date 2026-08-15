@@ -9,8 +9,8 @@ sources:
 source_url: "https://speedrun-talent-network.com/api/v1/jobs"
 role_url: "https://speedrun-talent-network.com/jobs/governance-risk-compliance-grc-manager-northwood-space-c5e46839?utm_source=grcengclub&utm_medium=agent"
 apply_url: "https://speedrun-talent-network.com/jobs/governance-risk-compliance-grc-manager-northwood-space-c5e46839?utm_source=grcengclub&utm_medium=agent"
-posted_date: "2026-08-11"
-expires_date: "2026-09-10"
+posted_date: "2026-08-15"
+expires_date: "2026-09-14"
 location: "Torrance, CA"
 work_modes:
   - "Hybrid / On-site"
@@ -29,7 +29,7 @@ frameworks:
   - "CMMC"
 languages:
   - "Rust"
-compensation: ""
+compensation: "$150K – $190K"
 summary: "Northwood is a modern space infrastructure company bringing the benefits of space to the masses through advanced communications technology. We are building a global network of..."
 ---
 

@@ -30,16 +30,17 @@ frameworks:
 languages:
   - "Rust"
 compensation: ""
-summary: "About Phylo Phylo is an applied research lab building agentic intelligence to accelerate biomedical discovery. Spun out of Stanford’s Biomni project, our team brings together..."
+summary: "About Phylo Phylo is an applied research lab building agentic intelligence to accelerate discovery for every biomedical scientist. We believe AI agents will fundamentally..."
 ---
 
 About Phylo
-Phylo is an applied research lab building agentic intelligence to accelerate biomedical discovery. Spun out of Stanford’s Biomni project, our team brings together researchers, engineers, and scientists across AI and biology. We are backed by a $13.5 million seed round led by a16z, Menlo Ventures, and Anthropic.
+Phylo is an applied research lab building agentic intelligence to accelerate discovery for every biomedical scientist. We believe AI agents will fundamentally transform how biomedical research is done. Our fast-growing team brings together researchers and engineers across AI and biology, commercializing the Biomni platform.
 
+Our growing team brings together world class researchers and engineers across AI and biology. Backed by a $13.5M seed round led by a16z, Menlo Ventures and Anthropic, and advised by Nobel Prize laureate and pioneering biologists, Phylo is building the next generation of AI systems for the life sciences.
 About the Role
 We’re hiring a hands-on Security & Compliance Lead to build and scale Phylo’s security, privacy, and compliance program. You’ll own our compliance roadmap, lead audits and customer reviews, and work closely with engineering to turn requirements into practical controls.
 
-What You’ll Do
+What you’ll do as a Security GRC Specialist at Phylo:
 
 - Own Phylo’s security and compliance roadmap.
 
@@ -59,7 +60,7 @@ What You’ll Do
 
 - Automate evidence collection, monitoring, and other compliance workflows.
 
-What We’re Looking For
+What We're Looking For:
 
 - 5+ years in security GRC, compliance, or a security engineering-adjacent role.
 
@@ -75,7 +76,7 @@ What We’re Looking For
 
 - A pragmatic, hands-on approach suited to an early-stage company.
 
-Nice to Have
+Nice to Haves:
 
 - Experience building a security program from an early stage.
 
@@ -86,9 +87,6 @@ Nice to Have
 - Familiarity with AI governance frameworks such as NIST AI RMF or ISO 42001.
 
 - Experience automating GRC and compliance workflows.
-
-Why Phylo?
-You’ll shape the security foundation for technology designed to accelerate biomedical discovery. This is an opportunity to work alongside exceptional researchers and engineers, influence product and infrastructure decisions, and build a high-impact program from the ground up.
 
 Why Join Us?
 

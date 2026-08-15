@@ -13,6 +13,9 @@ node_modules/
 CLAUDE.md
 skills-lock.json
 
+# Local job query cache
+.cache/
+
 # Local design and session notes
 .impeccable.md
 
