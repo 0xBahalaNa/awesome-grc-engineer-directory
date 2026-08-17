@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs?content=true"
 role_url: "https://job-boards.greenhouse.io/anthropic/jobs/5385634008"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5385634008"
-posted_date: "2026-08-14"
-expires_date: "2026-09-13"
+posted_date: "2026-08-17"
+expires_date: "2026-09-16"
 location: "London, UK"
 work_modes:
   - "Hybrid / On-site"
@@ -93,7 +93,7 @@ summary: "About Anthropic Anthropic’s mission is to create reliable, interpret
 &lt;/ul&gt;
 &lt;h2&gt;Why this role matters&lt;/h2&gt;
 &lt;p&gt;You'll be a founding leader of a team that defines how enterprises adopt and scale AI. Your work will directly influence Anthropic's product direction, create reusable patterns for the broader customer base, and establish Anthropic as the trusted partner for AI transformation — all while advancing the responsible development of frontier AI systems.&lt;/p&gt;&lt;div class="content-pay-transparency"&gt;&lt;div class="pay-input"&gt;&lt;div class="description"&gt;&lt;p&gt;The annual compensation range for this role is listed below.&nbsp;&lt;/p&gt;
-&lt;p&gt;For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.&lt;/p&gt;&lt;/div&gt;&lt;div class="title"&gt;Annual Salary:&lt;/div&gt;&lt;div class="pay-range"&gt;&lt;span&gt;£1&lt;/span&gt;&lt;span class="divider"&gt;&mdash;&lt;/span&gt;&lt;span&gt;£1 GBP&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="content-conclusion"&gt;&lt;h2&gt;&lt;strong&gt;Logistics&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.&lt;/p&gt;&lt;/div&gt;&lt;div class="title"&gt;Annual Salary:&lt;/div&gt;&lt;div class="pay-range"&gt;&lt;span&gt;£255,000&lt;/span&gt;&lt;span class="divider"&gt;&mdash;&lt;/span&gt;&lt;span&gt;£325,000 GBP&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="content-conclusion"&gt;&lt;h2&gt;&lt;strong&gt;Logistics&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Minimum education: &lt;/strong&gt;Bachelor’s degree or an equivalent combination of education, training, and/or experience&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Required field of study:&nbsp;&lt;/strong&gt;A field relevant to the role as demonstrated through coursework, training, or professional experience&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Minimum years of experience: &lt;/strong&gt;Years of experience required will correlate with the internal job level requirements for the position&lt;/p&gt;

@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/openai?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/openai/cf31f5f6-4e67-4695-808c-9cdd2e1fa3b1"
 apply_url: "https://jobs.ashbyhq.com/openai/cf31f5f6-4e67-4695-808c-9cdd2e1fa3b1/application"
-posted_date: "2026-08-16"
-expires_date: "2026-09-15"
+posted_date: "2026-08-17"
+expires_date: "2026-09-16"
 location: "New York City"
 work_modes:
   - "Hybrid / On-site"
