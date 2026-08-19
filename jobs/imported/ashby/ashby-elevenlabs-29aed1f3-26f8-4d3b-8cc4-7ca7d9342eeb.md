@@ -1,19 +1,19 @@
 ---
-title: "Forward Deployed Engineer - Software Engineer - India"
+title: "Forward Deployed Engineer - Software Engineer - Poland"
 company: "Elevenlabs"
-slug: "ashby-elevenlabs-c25e27d5-71ff-4763-ae7b-137d0c252efa"
+slug: "ashby-elevenlabs-29aed1f3-26f8-4d3b-8cc4-7ca7d9342eeb"
 status: "published"
 source: "Ashby"
 sources:
   - "Ashby"
 source_url: "https://api.ashbyhq.com/posting-api/job-board/elevenlabs?includeCompensation=true"
-role_url: "https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa"
-apply_url: "https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa/application"
-posted_date: "2026-08-18"
-expires_date: "2026-09-17"
-location: "India"
+role_url: "https://jobs.ashbyhq.com/elevenlabs/29aed1f3-26f8-4d3b-8cc4-7ca7d9342eeb"
+apply_url: "https://jobs.ashbyhq.com/elevenlabs/29aed1f3-26f8-4d3b-8cc4-7ca7d9342eeb/application"
+posted_date: "2026-08-19"
+expires_date: "2026-09-18"
+location: "Poland"
 work_modes:
-  - "Remote"
+  - "Hybrid / On-site"
 job_types:
   - "Full-time"
 specializations:
@@ -54,8 +54,6 @@ Everything we do is the result of the creativity and commitment of our team - bu
 - Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.
 - Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy.
 - Co-working : If you’re not located near one of our main hubs, we offer a monthly co-working stipend.
-
-This role is remote, so it can be executed globally.
 
 ## About the role
 

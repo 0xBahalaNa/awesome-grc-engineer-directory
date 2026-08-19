@@ -9,8 +9,8 @@ sources:
 source_url: "https://boards-api.greenhouse.io/v1/boards/charliehealth/jobs?content=true"
 role_url: "https://www.charliehealth.com/careers?gh_jid=6103380004"
 apply_url: "https://www.charliehealth.com/careers?gh_jid=6103380004"
-posted_date: "2026-07-30"
-expires_date: "2026-08-29"
+posted_date: "2026-08-18"
+expires_date: "2026-09-17"
 location: "New York, NY"
 work_modes:
   - "Hybrid / On-site"

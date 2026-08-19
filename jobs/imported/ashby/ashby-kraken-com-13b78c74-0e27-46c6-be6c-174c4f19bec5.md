@@ -9,8 +9,8 @@ sources:
 source_url: "https://api.ashbyhq.com/posting-api/job-board/kraken.com?includeCompensation=true"
 role_url: "https://jobs.ashbyhq.com/kraken.com/13b78c74-0e27-46c6-be6c-174c4f19bec5"
 apply_url: "https://jobs.ashbyhq.com/kraken.com/13b78c74-0e27-46c6-be6c-174c4f19bec5/application"
-posted_date: "2026-08-18"
-expires_date: "2026-09-17"
+posted_date: "2026-08-19"
+expires_date: "2026-09-18"
 location: "Canada"
 work_modes:
   - "Remote"
@@ -48,7 +48,7 @@ Kraken is a leader in the security and digital assets space. You will collaborat
 
 The ideal candidate is comfortable working cross-functionally across a variety of teams, including Finance, Technology, Engineering, and Security to inform sound, risk-based decisions in a fast-paced environment.
 
-This is a fully remote role.
+This is a fully remote role open to candidates based in Europe, with regular availability required to support U.S. business hours and time zones.
 
 ## The opportunity
 
