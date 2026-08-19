@@ -30,6 +30,7 @@ frameworks:
   - ISO 27001
 
 certifications:
+  - CGE-P
   - SSCP
   - CySA+
   - PenTest+
@@ -49,11 +50,11 @@ available_for:
 projects:
   - name: OSCAL Evidence Pipeline
     url: https://github.com/0xBahalaNa/oscal-evidence-pipeline
-    description: Transforms compliance findings into OSCAL Assessment Results JSON for FedRAMP 20x and CJIS v6.0 evidence workflows. Bridges collector output to machine-readable assessment artifacts auditors and continuous monitoring pipelines can consume.
+    description: Transforms compliance findings into OSCAL Assessment Results JSON for FedRAMP 20x and CJIS v6.1 evidence workflows. Bridges collector output to machine-readable assessment artifacts auditors and continuous monitoring pipelines can consume.
 
   - name: AWS Compliance as Code
     url: https://github.com/0xBahalaNa/aws-compliance-as-code
-    description: Preventive compliance controls as SCPs and CloudFormation — audit log protection (AU-9), SSH boundary enforcement with condition logic (SC-7), S3 encryption requirements (SC-28), and secure-by-default resource deployment. Mapped across CJIS v6.0, FedRAMP High, and NIST 800-53.
+    description: Preventive compliance controls as SCPs and CloudFormation — audit log protection (AU-9), SSH boundary enforcement with condition logic (SC-7), S3 encryption requirements (SC-28), and secure-by-default resource deployment. Mapped across CJIS v6.1, FedRAMP High, and NIST 800-53.
 
   - name: Evidence Warehouse
     url: https://github.com/0xBahalaNa/evidence-warehouse
@@ -70,6 +71,10 @@ projects:
   - name: Security Questionnaire Responder
     url: https://github.com/0xBahalaNa/security-questionnaire-responder
     description: Drafts grounded answers to customer security questionnaires from a version-controlled SOC 2 / ISO 27001 control corpus, and abstains, loudly, when it can't.
+
+  - name: CGE-P Capstone
+    url: https://github.com/0xBahalaNa/cge-p-capstone
+    description: Graded CGE-P capstone, CMMC Level 2 mapped to NIST 800-171 Rev 3. Wraps an inherited application in four governance layers without changing it: a Terraform baseline, an OPA suite that blocks regressions at the pull request, a pipeline that signs and vaults evidence on merge, and an OSCAL component definition an assessor can follow from control claim to signed artifact.
 ---
 
 ## About Me
@@ -82,7 +87,7 @@ I build AWS and Python compliance automation at the intersection of CJIS and Fed
 
 ## Experience Highlights
 
-I build AWS compliance automation tools that map to CJIS v6.0, FedRAMP High, and NIST 800-53 controls, covering evidence collection, event-driven monitoring, auto-remediation, policy-as-code scanning, and preventive guardrails via CloudFormation and SCPs. I also build SQL pipelines over audit evidence — completeness and reconciliation tests as the control layer — with a UAR/IGA framing grounded in privileged access and access-review work. I identified and fixed six bugs in published GRC Engineering source code during implementation. My IGA background (privileged access monitoring, RBAC analysis, user access reviews) gives me practical grounding in the AC, IA, and AU control families I build tooling against.
+I build AWS compliance automation tools that map to CJIS v6.1, FedRAMP High, and NIST 800-53 controls, covering evidence collection, event-driven monitoring, auto-remediation, policy-as-code scanning, and preventive guardrails via CloudFormation and SCPs. I also build SQL pipelines over audit evidence — completeness and reconciliation tests as the control layer — with a UAR/IGA framing grounded in privileged access and access-review work. I identified and fixed six bugs in published GRC Engineering source code during implementation. My IGA background (privileged access monitoring, RBAC analysis, user access reviews) gives me practical grounding in the AC, IA, and AU control families I build tooling against.
 
 https://github.com/0xBahalaNa
 
