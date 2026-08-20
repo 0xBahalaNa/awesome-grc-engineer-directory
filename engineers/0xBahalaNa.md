@@ -74,7 +74,7 @@ projects:
 
   - name: CGE-P Capstone
     url: https://github.com/0xBahalaNa/cge-p-capstone
-    description: Graded CGE-P capstone, CMMC Level 2 mapped to NIST 800-171 Rev 3. Wraps an inherited application in four governance layers without changing it: a Terraform baseline, an OPA suite that blocks regressions at the pull request, a pipeline that signs and vaults evidence on merge, and an OSCAL component definition an assessor can follow from control claim to signed artifact.
+    description: "Graded CGE-P capstone, CMMC Level 2 mapped to NIST 800-171 Rev 3. Wraps an inherited application in four governance layers without changing it: a Terraform baseline, an OPA suite that blocks regressions at the pull request, a pipeline that signs and vaults evidence on merge, and an OSCAL component definition an assessor can follow from control claim to signed artifact."
 ---
 
 ## About Me
